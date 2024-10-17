@@ -1,3 +1,9 @@
+!!!COM: Mendelssohn, Felix
+!!!CDT: 1809/02/03-1847/11/04
+!!!OPR: Sechs vierstimmige Lieder
+!!!OTL: Abschied vom Wald
+!!!OPS: Op. 59
+!!!ONM: Nr. 3
 **kern	**text	**text	**text	**dynam	**kern	**text	**text	**text	**dynam	**kern	**text	**text	**text	**dynam	**kern	**text	**text	**text	**dynam
 *part4	*part4	*part4	*part4	*part4	*part3	*part3	*part3	*part3	*part3	*part2	*part2	*part2	*part2	*part2	*part1	*part1	*part1	*part1	*part1
 *staff4	*staff4	*staff4	*staff4	*	*staff3	*staff3	*staff3	*staff3	*	*staff2	*staff2	*staff2	*staff2	*	*staff1	*staff1	*staff1	*staff1	*
@@ -148,3 +154,12 @@
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: ([s1,s2,s3,s4])
 !!!RDF**kern: i = editorial accidental
+!!!AGN: Choral
+!!!YOR: https://mdz-nbn-resolving.de/details:bsb11379755
+!!!YOO: München, Bayerische Staatsbibliothek
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb11379755?page=9
+!!!EED: Wolfgang Drescher
+!!!END: 2024/10/17
+!!!ENC: Wolfgang Drescher
+!!!END: 2024/10/17
+!!!title: @{OPS} @{ONM}. @{OTL}
