@@ -9,7 +9,7 @@
 *met(c)	*	*	*	*	*met(c)	*	*	*	*	*met(c)	*	*	*	*	*met(c)	*	*	*	*
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 !	!	!	!	!LO:DY:a	!	!	!	!	!LO:DY:a	!	!	!	!	!LO:DY:a	!LO:TX:a:t=Andante non lento	!	!	!	!LO:DY:a
-4B-	1. O	2. Im	3. Bald	p	4B-	1. O	2. Im	3. Bald	p	4b-	1. O	2. Im	3. Bald	p	4b-	1. O	2. Im	3. Bald	p
+4B-	1.O	2.Im	3.Bald	p	4B-	1.O	2.Im	3.Bald	p	4b-	1.O	2.Im	3.Bald	p	4b-	1.O	2.Im	3.Bald	p
 =	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
 4G	Thä-	Wal-	werd'	.	4G	Thä-	Wal-	werd'	.	4g	Thä-	Wal-	werd'	.	4g	Thä-	Wal-	werd'	.
 4E-	-ler	-de	ich	.	4E-	-ler	-de	ich	.	4e-	-ler	-de	ich	.	4e-	-ler	-de	ich	.
@@ -146,5 +146,5 @@
 4r	.	.	.	.	4r	.	.	.	.	4r	.	.	.	.	4r	.	.	.	.
 ==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1,s2,s3,s4)]
+!!!system-decoration: ([s1,s2,s3,s4])
 !!!RDF**kern: i = editorial accidental
