@@ -1,0 +1,184 @@
+!!!COM: Mendelssohn, Felix
+!!!CDT: 1809/02/03-1847/11/04
+!!!OPR: Sechs vierstimmige Lieder
+!!!OTL: Ruhethal
+!!!OPS: Op. 59
+!!!ONM: Nr. 5
+!!!OMD: Adagio
+**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam
+*part4	*part4	*part4	*part3	*part3	*part3	*part2	*part2	*part2	*part1	*part1	*part1
+*staff4	*staff4	*	*staff3	*staff3	*	*staff2	*staff2	*	*staff1	*staff1	*
+*I"Bass	*	*	*I"Tenor	*	*	*I"Alt	*	*	*I"Sopran	*	*
+*stria5	*	*	*stria5	*	*	*stria5	*	*	*stria5	*	*
+*clefF4	*	*	*clefGv2	*	*	*clefG2	*	*	*clefG2	*	*
+*k[f#c#]	*	*	*k[f#c#]	*	*	*k[f#c#]	*	*	*k[f#c#]	*	*
+*D:	*	*	*D:	*	*	*D:	*	*	*D:	*	*
+*M2/4	*	*	*M2/4	*	*	*M2/4	*	*	*M2/4	*	*
+*MM40	*	*	*MM40	*	*	*MM40	*	*	*MM40	*	*
+=0	=0	=0	=0	=0	=0	=0	=0	=0	=0	=0	=0
+8.D	Wann	p	8.F#	Wann	p	8.d	Wann	p	8.d	Wann	p
+16D	im	.	16F#	im	.	16d	im	.	16d	im	.
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+8D	letz-	.	8A	letz-	.	8d	letz-	.	8f#	letz-	.
+8D	-ten	<	8A	-ten	<	8d	-ten	<	8f#	-ten	<
+8.D	A-	(	8.cn	A-	(	8.d	A-	(	8.a	A-	(
+16D	-bend-	[[	16B	-bend-	[[	16d	-bend-	[[	16g	-bend-	[[
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+4D	-strah-	.	4A	-strah-	.	4d	-strahl	.	4f#	-strahl	.
+8.D	gold'-	.	8.cn	gold'-	.	8.d	gold'-	.	8.f#	gold'-	.
+16D	-ne	.	16c	-ne	.	16d	-ne	.	16f#	ne-	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+8D	Wol-	.	8B	Wol-	.	8d	Wol-	.	8g	-Wol-	.
+8D	-ken-	<	8B	-ken-	<	8g	-ken-	<	8b	-ken-	<
+8.D	-ber-	.	8.B-X	-ber-	.	8.g	-ber-	.	8.dd	-ber-	.
+16D	-ge	.	16B-	-ge	.	16g	-ge	.	16dd	-ge	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+8D	stei-	.	8B-X	stei-	.	8g	stei-	.	8dd	stei-	.
+8D	-gen,	.	8A	-gen,	.	8g	-gen,	.	8cc#	-gen,	.
+8D	gold'-	<	8A	gold'-	<	8g	gold'-	<	8a	gold'-	<
+8D	-ne	[[	8A	-ne	[[	8g	-ne	[[	8cc#	-ne	[[
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+8.D	Wol-	f	8.A	Wol-	f	8.f#	Wol-	f	8.ff#	Wol-	f
+16E	-ken-	.	16c#	-ken-	.	16g	-ken-	.	16ee	-ken-	.
+8F#	-ber-	.	8d	-ber-	.	8a	-ber-	.	8dd	-ber-	.
+8F#	-ge	.	8d	-ge	.	8a#X	-ge	.	8cc#	-ge	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+8F#	stei-	.	8d	stei-	.	8a#X	stei-	.	8cc#	stei-	.
+8G	-gen,	.	8d	-gen,	.	8b	-gen,	.	8b	-gen,	.
+8GG	und	>	8d	und	>	8g	und	>	8b	und	>
+8AA	wie	.	8d	wie	.	8f#	wie	.	8a	wie	.
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+8.BB	Al-	.	8.d	Al-	.	8.e	Al-	.	8.g#X	Al-	.
+16BB	pen	.	16d	pen	.	16e	pen	.	16g#	pen	.
+8BB	sich	.	8d	sich	.	8e	sich	.	8g#	sich	.
+8BB	er-	.	8d	er-	.	8e	er-	.	8g#	er-	.
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+4AA	-zei-	p	4d	-zei-	p	4e	-zei-	p	4g#X	-zei-	p
+8AA	-gen,	.	8c#	-gen,	.	8e	-gen,	.	8a	-gen,	.
+8r	.	.	8r	.	.	8r	.	.	8r	.	.
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+2r	.	.	8e	frag'	pp <	8gn	frag'	pp <	2r	.	.
+.	.	.	8e	ich	(	8g	ich	(	.	.	.
+.	.	.	8e	oft	(	8g	oft	(	.	.	.
+.	.	.	8e	mit	[[	8g	mit	[[	.	.	.
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+2r	.	.	[2e	Thrä-	.	[2g	Thrä-	.	8a#X	frag'	sf
+.	.	.	.	.	.	.	.	.	8a#	ich	.
+.	.	.	.	.	.	.	.	.	8a#	oft	.
+.	.	.	.	.	>	.	.	>	8a#	mit	>
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+2r	.	.	4e]	.	.	4g]	.	)	4a#X	Thrä-	)
+.	.	.	8d#X	-nen:	]	8f#	-nen:	]	8b	-nen:	]
+.	.	.	8r	.	.	8r	.	.	8r	.	.
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+2r	.	.	8f#	liegt	.	8a	liegt-	.	2r	.	.
+.	.	.	8f#	woh	.	8a	-woh	.	.	.	.
+.	.	.	8f#	zwi-	.	8a	zwi-	.	.	.	.
+.	.	.	8f#	-schen	.	8a	-schen	.	.	.	.
+=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+2r	.	.	[2f#	je-	sf	[2a	je-	sf	8b#X	liegt	sf
+.	.	.	.	.	.	.	.	.	8b#	woh	.
+.	.	.	.	.	.	.	.	.	8b#	zwi-	.
+.	.	.	.	.	.	.	.	.	8b#	-schen	.
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+2r	.	.	(4f#]	.	>	4a]	.	>	4b#X	je-	f
+.	.	.	[4e#X)	-nen	)	[4g#X	-nen	)	4cc#	-nen	.
+=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
+4.C#	mein	p	4e#]	.	]	4g#]	.	]	4r	.	.
+.	.	.	8en	mein	pp	8gn	mein	pp	8a	mein	pp
+8C#	er-	.	8e	er-	.	8g	er-	.	8a	er-	.
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+4D	-sehn-	.	4.A	-sehn-	.	4.f#	-sehn-	.	(8aL	-sehn	.
+.	.	.	.	.	.	.	.	.	8ff#	.	.
+4D	-tes	.	.	.	.	.	.	.	8ddJ)	.	.
+.	.	.	8d	-tes	.	8f#	-tes	.	8a	tes	.
+=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+4.AA	Ru-	.	4d	Ru-	.	4f#	Ru-	.	4a	Ru-	.
+.	.	.	4c#	-he-	.	4e	-he	.	4g	-he-	.
+8AA#X	-he-	.	.	.	.	.	.	.	.	.	.
+=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
+2BB	-thal?	.	2d	-thal?	.	2d	thal?	.	2f#	-thal?	.
+=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
+8An	frag'	.	8cn	frag'	.	2r	.	.	2r	.	.
+8A	ich	<	8c	ich	<	.	.	.	.	.	.
+8A	oft	.	8c	oft	.	.	.	.	.	.	.
+8A	mit	.	8c	mit	.	.	.	.	.	.	.
+=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
+4A	Thrä-	sf	4cn	Thrä-	sf	8d#X	frag'	.	8f#	frag'	.
+.	.	.	.	.	.	8d#	ich	<	8f#	ich	<
+8A	-nen:	.	8B	-nen:	.	8d#	oft	.	8f#	oft	.
+8r	.	.	8r	.	.	8d#	mit	.	8f#	mit	.
+=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
+8A	liegt	.	8B	liegt	.	4d#X	Thrä-	sf	4f#	Thrä-	sf
+8A	woh	<	8B	woh	<	.	.	.	.	.	.
+8G#X	zwi-	(	8B	zwi-	(	8e	-nen:	.	8b	-nen:	.
+8G#	-schen	[	8B	-schen,	[	8r	.	.	8r	.	.
+=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
+(4G	je-	f	4.d	zwi-	f	8e#X	liegt	.	8b	liegt	.
+.	.	.	.	.	.	8e#	woh	<	8b	woh	<
+4F#)	.	.	.	.	.	8f#	zwi-	(	8b	zwi-	(
+.	.	.	8d	-schen	.	8f#	-schen	[[	8b	-schen	[[
+=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
+[4E#X	-nen	.	4c#	je-	.	4g#X	je-	f	4cc#	je-	f
+8E#]	.	.	4c#	-nen	.	4g#	-nen	.	[4b	-nen	.
+8rEE	.	.	.	.	.	.	.	.	.	.	.
+=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
+4.C#	mein	p	4rC	.	.	4r	.	.	4b]	.	.
+.	.	.	8e	mein	pp	8gn	mein	pp	8a	mein	pp
+8C#	er-	.	8e	er-	.	8g	er-	.	8a	er-	.
+=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25
+4D	-sehn-	.	4.A	-sehn-	.	4.f#	-sehn-	.	(8aL	-sehn	.
+.	.	.	.	.	.	.	.	.	8ff#	.	.
+4D	-tes	.	.	.	.	.	.	.	8ddJ)	.	.
+.	.	.	8d	-tes	.	8f#	-tes	.	8a	tes	.
+=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26
+4.AA	Ru-	.	4d	Ru-	.	4f#	Ru-	.	4a	Ru-	.
+.	.	.	4c#	-he-	.	4e	-he-	.	4g	-he-	.
+8AA	-he-	.	.	.	.	.	.	.	.	.	.
+=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27
+4D	-thal?	.	4A	-thal?	.	[4d	-thal?	.	[4f#	-thal?	.
+4r	.	.	8d	mein	>	8d]	.	.	8f#]	.	.
+.	.	.	8c#	er-	]	8r	.	.	8r	.	.
+=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28
+2r	.	.	8B	-sehn-	.	4r	.	.	4r	.	.
+.	.	.	8A	-tes	.	.	.	.	.	.	.
+.	.	.	8.G#X	Ru	.	8.d	liegt	p	8.f#	liegt	p
+.	.	.	16G#	he-	.	16d	woh	.	16e	woh	.
+=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29
+4r	.	.	4A	-thal?	.	4c#	dort	.	4e	dort	.
+8G	mein	<	8A	mein	<	8c#	mein	<	8e	mein	<
+8F#	er-	.	8A	er-	.	8d	er-	.	8f#	er-	.
+=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30
+8E	-sehn-	.	8A	-sehn-	.	8e	-sehn-	.	8g	-sehn-	.
+8D	-tes	sf	8A	-tes	sf	8f#	-tes	sf	8a	-tes	sf
+8.AA	Ru-	.	8.e	Ru	.	8.g	Ru	.	8.cc#	Ru	.
+16AA	-he-	.	16d	he-	.	16g	he-	.	16b	he-	.
+=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31
+[4AA	-thal?	.	[4c#	-thal?	.	[4g	-thal?	.	[4a	-thal?	.
+8AA]	.	.	8c#]	.	.	8g]	.	.	8a]	.	.
+8r;	.	.	8r;	.	.	8r;	.	.	8r;	.	.
+=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32
+4D	mein	pp	4A	mein	pp	4f#	mein	pp	4f#	mein	pp
+4C#	er-	.	4A#X	er-	.	4e	er-	.	4f#	er-	.
+=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33
+4BB	-sehn-	.	4B	-sehn-	.	4d#X	-sehn-	.	4f#	-sehn-	.
+4GG#X	-tes	.	4E	-tes	.	4dn	-tes	.	4b	-tes	.
+=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34
+4AA	Ru-	.	4E	Ru-	.	4d	Ru-	.	4.e	Ru-	.
+4AA	-he-	.	4G	-he-	.	4c#	-he-	.	.	.	.
+.	.	.	.	.	.	.	.	.	8f#	-he-	.
+=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35
+2D;	-thal?	.	2F#;	-thal?	.	2A;	-thal?	.	2d;	-thal?	.
+==	==	==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: ([s1,s2,s3,s4])
+!!!RDF**kern: i = editorial accidental
+!!!AGN: Choral
+!!!YOR: https://mdz-nbn-resolving.de/details:bsb11379755
+!!!YOO: München, Bayerische Staatsbibliothek
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb11379755?page=12
+!!!EED: Wolfgang Drescher
+!!!END: 2024/10/17
+!!!ENC: Wolfgang Drescher
+!!!END: 2024/10/17
+!!!title: @{OPS} @{ONM}. @{OTL}
