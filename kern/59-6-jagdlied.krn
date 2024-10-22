@@ -11,7 +11,7 @@
 *I"Bass	*	*	*	*I"Tenor	*	*	*	*I"Alt	*	*	*	*I"Sopran	*	*	*
 *clefF4	*	*	*	*clefGv2	*	*	*	*clefG2	*	*	*	*clefG2	*	*	*
 *k[f#c#]	*	*	*	*k[f#c#]	*	*	*	*k[f#c#]	*	*	*	*k[f#c#]	*	*	*
-*D:	*	*	*	*D:	*	*	*	*D:	*	*	*	*D:	*	*	*
+*b:	*	*	*	*b:	*	*	*	*b:	*	*	*	*b:	*	*	*
 *M4/4	*	*	*	*M4/4	*	*	*	*M4/4	*	*	*	*M4/4	*	*	*
 *met(c)	*	*	*	*met(c)	*	*	*	*met(c)	*	*	*	*met(c)	*	*	*
 *MM184	*	*	*	*MM184	*	*	*	*MM184	*	*	*	*MM184	*	*	*
@@ -136,6 +136,7 @@
 8r	.	.	.	8r	.	.	.	8d	-se,	-der	.	8b	-se,	-der	.
 8B	das	hüllt	f	8f#	das	hüllt	f	8f#	das	hüllt	.	8cc#	das	hüllt	.
 4B	Wald-	Rei-	.	4f#	Wald-	Rei-	.	4b	Wald-	Rei-	.	4dd	Wald-	Rei-	.
+*D:	*	*	*	*D:	*	*	*	*D:	*	*	*	*D:	*	*	*
 *^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 *	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*
 *	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*
@@ -210,6 +211,7 @@
 *	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*
 =21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
 4r	.	.	.	2d	Ros-	Lie-	.	2f#	Ros-	Lie-	.	4r	.	.	.
+*b:	*	*	*	*b:	*	*	*	*b:	*	*	*	*b:	*	*	*
 4d	es	o	f	.	.	.	.	.	.	.	.	4ff#	es	o,	f
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 4d	wie-	Lieb',	.	4d	-se,	be!	.	4f#	-se,	-be!	.	4ff#	wie-	Lieb',	.
