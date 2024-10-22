@@ -1,0 +1,554 @@
+!!!COM: Mendelssohn, Felix
+!!!CDT: 1809/02/03-1847/11/04
+!!!OPR: Sechs vierstimmige Lieder
+!!!OTL: Jagdlied
+!!!OPS: Op. 59
+!!!ONM: Nr. 6
+!!!OMD: Allegro molto quasi Presto
+**kern	**text	**text	**dynam	**kern	**text	**text	**dynam	**kern	**text	**text	**dynam	**kern	**text	**text	**dynam
+*part4	*part4	*part4	*part4	*part3	*part3	*part3	*part3	*part2	*part2	*part2	*part2	*part1	*part1	*part1	*part1
+*staff4	*staff4	*staff4	*	*staff3	*staff3	*staff3	*	*staff2	*staff2	*staff2	*	*staff1	*staff1	*staff1	*
+*I"Bass	*	*	*	*I"Tenor	*	*	*	*I"Alt	*	*	*	*I"Sopran	*	*	*
+*clefF4	*	*	*	*clefGv2	*	*	*	*clefG2	*	*	*	*clefG2	*	*	*
+*k[f#c#]	*	*	*	*k[f#c#]	*	*	*	*k[f#c#]	*	*	*	*k[f#c#]	*	*	*
+*D:	*	*	*	*D:	*	*	*	*D:	*	*	*	*D:	*	*	*
+*M4/4	*	*	*	*M4/4	*	*	*	*M4/4	*	*	*	*M4/4	*	*	*
+*met(c)	*	*	*	*met(c)	*	*	*	*met(c)	*	*	*	*met(c)	*	*	*
+*MM184	*	*	*	*MM184	*	*	*	*MM184	*	*	*	*MM184	*	*	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+4r	.	.	.	4r	.	.	.	4r	.	.	.	1r	.	.	.
+4B	1.Durch	2.Bald	pp	4d	1.Durch	2.Bald	pp	4f#	1.Durch	2.Bald	pp	.	.	.	.
+4B	schwan-	Län-	.	4e	schwan-	Län-	.	4g	schwan-	Län-	.	.	.	.	.
+8B	-ken-	-der	.	8c#	-ken-	-der	.	8e	-ken-	-der	.	.	.	.	.
+8B	-de	und	.	8e	-de	und	.	8g	-de	und	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+4B	Wip-	Se-	.	4d	Wip-	Se	.	4f#	Wip-	Se-	.	1r	.	.	.
+8B	-fel	-en,	.	8B	-fel	-en,	.	8d	-fel	-en	.	.	.	.	.
+8B	Schießt	bald	.	8d	Schießt	bald	.	8f#	Schießt	bald,	.	.	.	.	.
+4B	gol-	Wol-	.	8eL	gol-	Wol-	.	8gL	gol-	Wol-	.	.	.	.	.
+.	.	.	.	8c#J	.	.	.	8eJ	.	.	.	.	.	.	.
+*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*
+8B	4B	-den-	-ken-	.	8c#	8c#L	-den-	-ken-	.	8e	8eL	-den-	-ken-	.	.	.	.	.
+8B	.	-er	.	.	8e	8eJ	-er	.	.	8g	8gJ	-er	.	.	.	.	.	.
+*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+4.B	Strahl,	-zug,	.	4.d	Strahl,	-zug,	.	4.f#	Strahl,	zug,	.	4r	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	4b	1.Durch	2.Bald	p
+8B	Durch	bald	.	8d	Durch	bald,	.	8f#	Durch	bald,	.	.	.	.	.
+4B	schwan-	Län-	.	4e	schwan-	Län-	.	4g	schwan-	Län-	.	8bL	schwan-	Län-	<
+.	.	.	.	.	.	.	.	.	.	.	.	8cc#J	.	.	.
+8B	-ken-	-der	<	8e	-ken-	-der	<	8e	-ken-	-der	.	8b	-ken-	-der	.
+8B	-de	und	.	8e	-de	und	.	8g	-de	und	.	8cc#	-de	und	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+4B	wip-	Se-	.	4d	wip-	Se-	.	4f#	wip-	Se-	.	4dd	wip-	Se-	.
+8B	-fel	-en,	.	8d	-fel	-en,	.	8d	-fel	-en,	.	8b	-fel	-en,	.
+8B	Schießt	bald	.	8d	Schießt	bald,	.	8f#	Schießt	bald	<	8b	Schießt	bald	.
+4B	gol-	Wol-	.	8eL	gol-	Wol-	.	8gL	gol-	Wol-	.	8bL	gol-	Wol-	.
+.	.	.	.	8BJ	.	.	.	8eJ	.	.	.	8cc#J	.	.	.
+*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*
+8B	4B	-de-	-ken-	.	8B	8BL	-de-	-ken-	.	8e	8eL	-de-	-ken-	.	8dd	8ddL	-de-	-ken-	.
+8B	.	-ner	.	.	8e	8eJ	-ner	.	.	8g	8gJ	-ner	.	.	8ee	8eeJ	-ner	.	.
+*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+2B	Strahl,	-zug	.	4.d	Strahl,	zug	f	4.f#	Strahl,	zug	f	4.ff#	Strahl,	zug,	f
+.	.	.	.	8d	tief	tief	.	8f#	tief	tief	.	8ff#	tief	tief	.
+2r	.	.	.	4g	un-	schim-	.	4b	un-	schim-	.	4ff#	un-	schim-	.
+.	.	.	.	8g	-ter	-mernd	.	8b	-ter	-mernd	.	8ee	-ter	-mernd	.
+.	.	.	.	8g	den	zu	.	8b	den	zu	.	8dd	den	zu	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+1r	.	.	.	4f#	Gip-	se-	.	4b	Gip-	se-	.	4dd	Gip-	se-	.
+.	.	.	.	8e	-feln	-hen	.	8a#X	-feln	-hen	.	8cc#	-feln	-hen	.
+.	.	.	.	8d	das	in	.	8b	das	in	.	8b	das	in	.
+.	.	.	.	4d	neb-	schwin-	.	4f#	neb-	schwin-	.	4b	neb-	schwin-	.
+.	.	.	.	8c#	-li-	-deln-	.	8e	-li-	-deln-	.	8a	-li-	-deln-	.
+.	.	.	.	8B	-ge	-dem	.	8d	-ge	-dem	.	8g	-ge	-dem	.
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+4r	.	.	.	2A#X	Thal,	Flug,	.	2c#	Thal,	Flug,	.	[1f#	Thal,	Flug,	.
+4F#	tief	tief	f	.	.	.	.	.	.	.	.	.	.	.	.
+4F#	un-	schim-	.	2B	das	in	.	2d	das	in	.	.	.	.	.
+8B	-ter	-mernd	.	.	.	.	.	.	.	.	.	.	.	.	.
+8d	den	zu	.	.	.	.	.	.	.	.	.	.	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+4c#	Gip-	se-	.	2A#X	neb-	schwin-	.	2e	neb-	schwin-	.	1f#]	.	.	.
+8F#	-feln	-hen	.	.	.	.	.	.	.	.	.	.	.	.	.
+8F#	das	in	.	.	.	.	.	.	.	.	.	.	.	.	.
+8F#L	neb-	schwin-	.	4B	-li-	-deln-	.	4d	-li-	-deln-	.	.	.	.	.
+8BJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8d	-li-	-deln-	.	4B	-ge	-dem	.	4d	-ge	-dem	.	.	.	.	.
+8B	-ge	-dem	.	.	.	.	.	.	.	.	.	.	.	.	.
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+[1F#	Thal	Flug	>	(2A#X	Thal	Flug,	.	(2c#	Thal	Flug,	.	4r	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	4f#	Tief	tief	.
+.	.	.	.	(2d)	.	.	>	(2f#)	.	.	>	4f#	un-	schim-	.
+.	.	.	.	.	.	.	.	.	.	.	.	8b	-ter	-mernd	>
+.	.	.	.	.	.	.	.	.	.	.	.	8dd	den	zu	.
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+1F#_	.	.	.	(2A#X)	.	.	.	(2e)	.	.	.	4cc#	Gip-	se-	.
+.	.	.	.	.	.	.	.	.	.	.	.	8f#	-feln	-hen	.
+.	.	.	.	.	.	.	.	.	.	.	.	8f#	das	in	.
+.	.	.	.	2B)	.	.	.	2d)	.	.	.	8f#L	neb-	schwin-	.
+.	.	.	.	.	.	.	.	.	.	.	.	8bJ	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	8dd	-li-	-deln-	.
+.	.	.	.	.	.	.	.	.	.	.	.	8b	-ge	-dem	.
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+1F#;]	.	.	pp	1c#;	.	.	pp	1c#;	.	.	pp	1ff#;	Thal.	Flug,	pp
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+2F#	Fern	Bald	f sf	2F#	Fern	Bald,	f sf	1r	.	.	.	1r	.	.	.
+4D	hallt	Dun-	.	4B	hallt	Dun-	.	.	.	.	.	.	.	.	.
+*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*
+8D	8DL	es	-kel	.	8B	8BL	es	-kel	.	.	.	.	.	.	.	.	.
+8F#	8F#J	vom	.	.	8c#	8c#J	vom	.	.	.	.	.	.	.	.	.	.
+*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*
+=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+4B	Schlos-	wie-	.	4d	Schlos-	wie-	.	1r	.	.	.	1r	.	.	.
+8D	-se,	-der	.	8B	-se,	-der	.	.	.	.	.	.	.	.	.
+8F#	das	hüllt	.	8c#	das	hüllt	.	.	.	.	.	.	.	.	.
+4B	Wald-	Rei-	.	4d	Wald-	Rei-	.	.	.	.	.	.	.	.	.
+*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*
+4c#	8c#	-horn	-ter	.	4e	8e	-horn	-ter	.	.	.	.	.	.	.	.	.
+.	8c#	.	und	.	.	8e	.	und	.	.	.	.	.	.	.	.	.
+*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+1d	ruft,	Ross,	sf	1f#	ruft,	Ross,	f	2f#	Fern	Bald,	f	2f#	Fern	Bald,	f
+.	.	.	.	.	.	.	.	4d	hallt	Dun-	.	4b	hallt	Dun-	.
+*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*
+.	.	.	.	.	.	.	.	8d	8dL	es	-kel	.	8b	8bL	es	-kel	.
+.	.	.	.	.	.	.	.	8f#	8f#J	vom	.	.	8cc#	8cc#J	vom	.	.
+*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*
+=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
+4r	.	.	.	4r	.	.	.	4b	Schlos-	wie-	.	4dd	Schlos-	wie	.
+8r	.	.	.	8r	.	.	.	8d	-se,	-der	.	8b	-se,	-der	.
+8B	das	hüllt	f	8f#	das	hüllt	f	8f#	das	hüllt	.	8cc#	das	hüllt	.
+4B	Wald-	Rei-	.	4f#	Wald-	Rei-	.	4b	Wald-	Rei-	.	4dd	Wald-	Rei-	.
+*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*
+4A	8A	-horn	-ter	.	4g	8g	-horn	-ter	.	4cc#	8cc#	-horn	-ter	.	4ee	8ee	-horn	-ter	.
+.	8A	.	und	.	.	8g	.	und	.	.	8cc#	.	und	.	.	8ee	.	und	.
+*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+[1d	ruft,	Ross	.	4.f#	ruft,	Ross,	.	4.dd	ruft,	Ross,	.	4.ff#	ruft,	Ross,	.
+.	.	.	.	8f#	Es	o	ff	8a	Es	o	ff	8dd	Es	o	ff
+.	.	.	.	4g	wie-	Lieb',	.	4b	wie-	Lieb',	.	4dd	wie-	Lieb',	.
+*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*
+.	.	.	.	8d	8dL	-hern	o	.	8g	8gL	-hern	o	.	8b	8bL	-hern	o	.
+.	.	.	.	8g	8gJ	die	.	.	8b	8bJ	die	.	.	8dd	8ddJ	die	.	.
+*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*
+=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+4d]	.	.	.	(8f#L	Ros-	Lie-	.	(8aL	Ros-	Lie-	.	(8ddL	Ros-	Lie-	.
+.	.	.	.	8dJ)	.	.	.	8f#J)	.	.	.	8aJ)	.	.	.
+4D	es	o,	.	8d	-se,	-be,	.	8f#	-se,	-be	.	8a	-se,	-be	.
+.	.	.	.	8f#	Es	so	.	8a	Es	so	.	8dd	Es	so	.
+4D	wie-	Lieb',	.	(8gL	wie-	lass	.	8bL	wie-	lass	.	8ddL	wie-	lass	.
+.	.	.	.	8dJ)	.	.	.	8gJ	.	.	.	8bJ	.	.	.
+*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*
+8D	4D	-hern	o	.	8d	8dL	-hern	mich	.	8g	8gL	-hern	mich	.	8b	8bL	-hern	mich	.
+8D	.	die	.	.	8g	8gJ	die	.	.	8b	8bJ	die	.	.	8dd	8ddJ	die	.	.
+*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*
+=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
+*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*
+2d	Ros-	Lie-	.	4f#	2f#	Ros-	los,	.	4a	2a	Ros-	los,	.	4dd	2dd	Ros-	los,	.
+.	.	.	.	4f#	.	-se,	.	.	4a	.	-se,	.	.	4a	.	-se,	.	.
+*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*
+[2D	-se,	-be	.	4.g	In	lass	.	8b-XL	In	lass	.	4.dd	In	lass	.
+.	.	.	.	.	.	.	.	8gJ	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	8gL	die	mich	.	.	.	.	.
+.	.	.	.	8g	die	mich	.	8b-J	.	.	.	8dd	die	mich	.
+=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
+*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+4D]	4D	.	.	.	2d	Luft,	los,	.	2a	Luft,	los,	.	2ff#	Luft,	los	.
+8D	4D	in	so	.	.	.	.	.	.	.	.	.	.	.	.	.
+8D	.	die	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4D	[4D	Luft,	lass	.	4.g	in	lass	.	(8b-XL	in	lass	.	4.dd	in	lass	.
+.	.	.	.	.	.	.	.	.	8gJ)	.	.	.	.	.	.	.
+8D	8D]yy	in	.	.	.	.	.	.	(8gL	die	.	.	.	.	.	.
+8D	8D	die	mich	.	8g	die	mich	.	8b-J)	.	mich	.	8dd	die	mich	.
+*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
+2.d	Luft!	los!	.	4d	Luft!	los!	.	4a	Luft!	los!	.	1ff#	Luft!	los!	.
+.	.	.	.	4f#	es	o	f	4a	es	o	f	.	.	.	.
+.	.	.	.	4f#	wie-	Lieb'	.	4a	wie-	Lieb'	.	.	.	.	.
+*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*
+4r	.	.	.	8e	8eL	-hern	o	.	8g	8gL	-hern	o	.	.	.	.	.
+.	.	.	.	8d	8dJ	die	.	.	8f#	8f#J	die	.	.	.	.	.	.
+*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*
+=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
+4r	.	.	.	2d	Ros-	Lie-	.	2f#	Ros-	Lie-	.	4r	.	.	.
+4d	es	o	f	.	.	.	.	.	.	.	.	4ff#	es	o,	f
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4d	wie-	Lieb',	.	4d	-se,	be!	.	4f#	-se,	-be!	.	4ff#	wie-	Lieb',	.
+*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*
+8c#	8c#L	-hern	o	.	4r	.	.	.	4r	.	.	.	8ee	8eeL	-hern	o	.
+8B	8BJ	die	.	.	.	.	.	.	.	.	.	.	8dd	8ddJ	die	.	.
+*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*
+=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
+2B	Ros-	Lie-	.	4r	.	.	.	4r	.	.	.	2dd	Ros-	Lie-	.
+*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*
+.	.	.	.	8d	4d	In	so	.	8f#	4f#	In	so	.	.	.	.	.
+.	.	.	.	8d	.	die	.	.	8f#	.	die	.	.	.	.	.	.
+4B	-se,	-be	.	4d	4d	Luft,	lass	.	4f#	4f#	Luft,	lass	.	4dd	-se,	-be	.
+4r	.	.	.	8c#	8c#L	in	mich	.	8e	8eL	in	mich	.	4r	.	.	.
+.	.	.	.	8B	8BJ	die	.	.	8d	8dJ	die	.	.	.	.	.	.
+*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*
+=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
+4r	.	.	.	[1B	Luft,	los,	.	[1d	Luft,	los,	.	4r	.	.	.
+*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*
+8B	4B	In	so	.	.	.	.	.	.	.	.	.	8dd	4dd	In	so	.
+8B	.	die	.	.	.	.	.	.	.	.	.	.	8dd	.	die	.	.
+4B	4B	Luft,	lass,	.	.	.	.	.	.	.	.	.	4dd	4dd	Luft,	lass	.
+8A	8AL	in	mich	.	.	.	.	.	.	.	.	.	8cc#	8cc#L	in	mich	.
+8G	8GJ	die	.	.	.	.	.	.	.	.	.	.	8b	8bJ	die	.	.
+*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*
+=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
+2G	Luft,	los!	.	2B]	.	.	.	2d]	.	.	.	2b	Luft!	los!	.
+4r	.	.	.	4r	.	.	.	4r	.	.	.	4r	.	.	.
+8G	in	lass	f	8d	in	lass	f	8g	in	lass	f	8b	in	lass	f
+8G	die	mich	.	8c#	die	mich	.	8g	die	mich	.	8a#X	die	mich	.
+=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25
+2G	Luft,	los,	.	2d	Luft,	los,	.	2g	Luft,	los,	.	2b	Luft,	los,	.
+4.G	in	lass	.	4.e	in	lass	.	4.b	in	lass	.	4.cc#	in	lass	.
+8G	die	mich	.	8e	die	mich	.	8b	die	mich	.	8cc#	die	mich	.
+=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26
+2F#	Luft!	los!	.	2f#	Luft!	los!	.	2b	Luft!	los!	.	2dd	Luft!	los!	.
+4r	.	.	.	4r	.	.	.	4r	.	.	.	4r	.	.	.
+8F#	in	lass	ff	8f#	in	lass	ff	8b	in	lass	ff	8dd	in	lass	ff
+8F#	die	mich	.	8e	die	mich	.	8b	die	mich	.	8ee	die	mich	.
+=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27
+2F#	Luft,	los,	.	2d	Luft,	los,	.	2b	Luft,	los,	.	2ff#	Luft,	los,	.
+4.F#	in	lass	.	4.e	in	lass	.	4.a#X	in	lass	.	4.cc#	in	lass	.
+8F#	die	mich	.	8f#	die	mich	.	8a#	die	mich	.	8dd	die	mich	.
+=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28
+1BB	Luft!	los!	.	1d	Luft!	loss!	.	1b	Luft!	los!	.	1b	Luft!	los!	.
+=:||29	=:||29	=:||29	=:||29	=:||29	=:||29	=:||29	=:||29	=:||29	=:||29	=:||29	=:||29	=:||29	=:||29	=:||29	=:||29
+4r	.	.	.	4r	.	.	.	4r	.	.	.	1r	.	.	.
+8B	Im-	.	pp	8d	Im-	.	pp	8f#	Im-	.	pp	.	.	.	.
+8B	-mer	.	.	8d	-mer	.	.	8f#	-mer	.	.	.	.	.	.
+4B	wei-	.	.	4e	wei-	.	.	4g	wei-	.	.	.	.	.	.
+8B	-ter	.	.	8c#	-ter	.	.	8e	-ter	.	.	.	.	.	.
+8B	und	.	.	8e	und	.	.	8g	und	.	.	.	.	.	.
+=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30
+4B	wei-	.	.	4d	wei-	.	.	4f#	wei-	.	.	1r	.	.	.
+8B	-ter	.	.	8B	-ter	.	.	8d	-ter	.	.	.	.	.	.
+8B	die	.	.	8d	die	.	.	8f#	die	.	.	.	.	.	.
+4B	Klän-	.	.	8eL	Klän	.	.	8gL	Klän	.	.	.	.	.	.
+.	.	.	.	8c#J	.	.	.	8eJ	.	.	.	.	.	.	.
+4B	-ge	.	.	8c#L	ge	.	.	8eL	ge	.	.	.	.	.	.
+.	.	.	.	8eJ	.	.	.	8gJ	.	.	.	.	.	.	.
+=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31
+2B	ziehn,	.	.	2d	ziehn,	.	.	2f#	ziehn,	.	.	4r	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	8b	im-	.	p
+.	.	.	.	.	.	.	.	.	.	.	.	8b	-mer	.	.
+4BB	wei-	.	.	4e	wei-	.	.	4g	wei-	.	.	8bL	wei-	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	8cc#J	.	.	.
+8BB	-ter	.	.	8e	-ter	.	.	8e	-ter	.	.	8b	-ter	.	.
+8BB	und	.	.	8e	und	.	.	8g	und	.	.	8cc#	und	.	.
+=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32
+4BB	wei-	.	.	4d	wei-	.	.	4f#	wei-	.	.	4dd	wei-	.	.
+8BB	-ter	.	.	8d	-ter	.	.	8d	-ter	.	.	8b	-ter	.	.
+8BB	die	.	.	8d	die	.	.	8f#	die	.	.	8b	die	.	.
+4BB	Klän-	.	.	8eL	Klän	.	.	8gL	Klän	.	.	8bL	Klän	.	.
+.	.	.	.	8BJ	.	.	.	8eJ	.	.	.	8cc#J	.	.	.
+4BB	-ge	.	.	8BL	ge	.	.	8eL	ge	.	.	8ddL	ge	.	.
+.	.	.	.	8eJ	.	.	.	8gJ	.	.	.	8eeJ	.	.	.
+=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33
+2BB	ziehn,	.	.	4.d	ziehn,	.	.	4.f#	ziehn,	.	.	4.ff#	ziehn,	.	.
+.	.	.	.	8d	Durch	.	.	8f#	Durch	.	.	8ff#	Durch	.	.
+2r	.	.	.	4g	Wäl-	.	.	4b	Wäl-	.	.	4ff#	Wäl-	.	.
+.	.	.	.	8g	-der	.	.	8b	-der	.	.	8ee	-der	.	.
+.	.	.	.	8g	und	.	.	8b	und	.	.	8dd	und	.	.
+=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34
+1r	.	.	.	4f#	Hei-	.	.	4b	Hei-	.	.	4dd	Hei-	.	.
+.	.	.	.	8e	-den	.	.	8a#X	-den	.	.	8cc#	-den	.	.
+.	.	.	.	8d	wo-	.	.	8b	wo-	.	.	8b	wo-	.	.
+.	.	.	.	4d	-hin,	.	.	4f#	-hin,	.	.	4b	-hin,	.	.
+.	.	.	.	8c#	ach	.	>	8e	ach	.	>	8a	ach	.	>
+.	.	.	.	8B	wo-	.	.	8d	wo-	.	.	8g	wo-	.	.
+=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35
+4r	.	.	.	2A#X	-hin?	.	.	2c#	-hin?	.	.	[1f#	-hin?	.	.
+8r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8F#	Durch	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4F#	Wäl-	.	.	2B	wo-	.	.	2d	wo-	.	.	.	.	.	.
+8B	-der	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8d	und	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36
+4c#	Hei-	.	.	2A#X	-hin,	.	.	2e	-hin,	.	.	1f#_	.	.	.
+8F#	-den,	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8F#	wo-	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8F#L	-hin	.	.	4.B	ach	.	.	4.d	ach	.	.	.	.	.	.
+8BJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8d	ach,	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8B	wo-	.	.	8B	wo-	.	.	8d	wo-	.	.	.	.	.	.
+=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37
+!LO:TX:t=rit.	!	!	!	!LO:TX:t=rit.	!	!	!	!LO:TX:t=rit.	!	!	!	!	!	!	!
+[1F#	-hin?	.	.	2A#X	-hin?	.	.	2c#	-hin?	.	.	4f#]	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	8r	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=rit.	!	!	!
+.	.	.	.	.	.	.	.	.	.	.	.	8f#	Durch	.	.
+.	.	.	.	2d	.	.	.	2f#	.	.	.	4f#	Wäl-	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	8b	-der	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	8dd	und	.	.
+=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38
+[1F#]	.	.	.	2A#X	.	.	.	2e	.	.	.	4cc#	Hei-	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	8f#	-den,	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	8f#	wo-	.	.
+.	.	.	.	2B	.	.	.	2d	.	.	.	8f#L	-hin	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	8bJ	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	8dd	ach,	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	8b	wo-	.	.
+=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39
+2..F#];	.	.	pp	2..c#;	.	.	pp	2..c#;	.	.	pp	2..ff#;	-hin?	.	pp
+8B	Er-	.	pp	8B	Er-	.	pp	8d#X	Er-	.	pp	8f#	Er-	.	pp
+=||40	=||40	=||40	=||40	=||40	=||40	=||40	=||40	=||40	=||40	=||40	=||40	=||40	=||40	=||40	=||40
+*k[f#c#g#d#a#]	*	*	*	*k[f#c#g#d#a#]	*	*	*	*k[f#c#g#d#a#]	*	*	*	*k[f#c#g#d#a#]	*	*	*
+*B:	*	*	*	*B:	*	*	*	*B:	*	*	*	*B:	*	*	*
+2B	-quick	.	.	(4.B	-quick	.	.	(4.d#	-quick	.	.	(4.f#	-quick	.	.
+.	.	.	.	8d#)	.	.	.	8f#)	.	.	.	8b)	.	.	.
+4.B	.	.	.	4.d#	li-	.	.	4.f#	li-	.	.	4.b	li-	.	.
+8B	li-	.	.	8e	-che	.	.	8b	-che	.	.	8cc#	-che	.	.
+=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41
+2B	-Fri-	.	.	2f#	Fri-	.	.	2b	Fri-	.	.	2dd#	Fri-	.	.
+2B	-sche	.	.	2d#	-sche	.	.	2f#	-sche	.	.	2b	-sche	.	.
+=42	=42	=42	=42	=42	=42	=42	=42	=42	=42	=42	=42	=42	=42	=42	=42
+2B	Süß-	.	.	2B	Süß-	.	.	2f#	Süß-	.	.	2dd#	Süß-	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	8qff#/	.	.	.
+6B	-schau-	.	.	6B	-schau-	.	.	6gn	-schau-	.	.	6ee	-schau-	.	.
+6B	-ri-	.	.	6B	-ri-	.	.	6f#	-ri-	.	.	6dd#	-ri-	.	.
+6B	-ge	.	.	6B	-ge	.	.	6g	-ge	.	.	6ee	-ge	.	.
+=43	=43	=43	=43	=43	=43	=43	=43	=43	=43	=43	=43	=43	=43	=43	=43
+1B	Lust!	.	.	1d#	Lust!	.	.	1f#	Lust!	.	.	1ff#	Lust!	.	.
+=44	=44	=44	=44	=44	=44	=44	=44	=44	=44	=44	=44	=44	=44	=44	=44
+2D#	Hoch	.	.	2B	Hoch	.	.	2f#	Hoch	.	.	2ff#	Hoch	.	.
+6F#	flat-	.	.	6A#	flat-	.	.	6f#	flat-	.	.	6dd#	flat-	.	.
+6F#	-tern	.	.	6A#	-tern	.	.	6e	-tern	.	.	6cc#	-tern	.	.
+6F#	die	.	.	6A#	die	.	.	6d#	die	.	.	6b	die	.	.
+=45	=45	=45	=45	=45	=45	=45	=45	=45	=45	=45	=45	=45	=45	=45	=45
+2G#	Bü-	.	.	2B	Bü-	.	.	2d#	Bü-	.	.	2b	Bü-	.	.
+2G#	-sche,	.	.	2B	-sche,	.	.	2d#	-sche,	.	.	2g#	-sche,	.	.
+=46	=46	=46	=46	=46	=46	=46	=46	=46	=46	=46	=46	=46	=46	=46	=46
+2G#	frei	.	sf	2B	frei	.	sf	2e#X	frei	.	sf	2dd#	frei	.	sf
+4.G#	schlägt	.	.	4.B	schlägt	.	.	4.e#	schlägt	.	.	4.cc#	schlägt	.	.
+8G#	die	.	.	8B	die	.	.	8e#	die	.	.	8b	die	.	.
+=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47
+2..F#	Brust.	.	.	(2d#	Brust.	.	.	2..f#	Brust.	.	.	(2b	Brust.	.	.
+.	.	.	.	4.c#)	.	.	.	.	.	.	.	4.a#)	.	.	.
+8F#	Er-	.	f	8A#	Er-	.	f	8en	Er-	.	f	8f#	Er-	.	f
+=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48
+2BB	-quick-	.	.	(4.B	-quick-	.	.	(4.d#	-quick-	.	.	(4.f#	-quick-	.	.
+.	.	.	.	8d#)	.	.	.	8f#)	.	.	.	8b)	.	.	.
+4.B	-li-	.	.	4.d#	-li-	.	.	4.f#	-li-	.	.	4.b	-li-	.	.
+8B	-che	.	.	8e	-che	.	.	8b	-che	.	.	8cc#	-che	.	.
+=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49
+2B	Fri-	.	.	2f#	Fri-	.	.	2b	Fri-	.	.	2dd#	Fri-	.	.
+2B	-sche	.	.	2d#	-sche	.	.	2f#	-sche	.	.	2b	-sche	.	.
+=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50
+2B	Süß-	.	.	2B	Süß-	.	.	2an	Süß-	.	.	2dd#	Süß-	.	.
+6B	-schau-	.	.	6B	-schau-	.	.	6a	-schau-	.	.	6dd#	-schau-	.	.
+6B	-ri-	.	.	6B	-ri-	.	.	6a	-ri-	.	.	6cc#	-ri-	.	.
+6B	-ge	.	.	6B	-ge	.	.	6a	-ge	.	.	6b	-ge	.	.
+=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51
+1E	Lust!	.	.	1e	Lust!	.	.	1g#	Lust!	.	.	1gg#	Lust!	.	.
+=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52
+2F#	Hoch	.	ff	2d#	Hoch	.	ff	2b	Hoch	.	ff	2ff#	Hoch	.	ff
+6F#	flat-	.	.	6A#	flat-	.	.	6f#	flat-	.	.	6dd#	flat-	.	.
+6F#	-tern	.	.	6A#	-tern	.	.	6e	-tern	.	.	6cc#	-tern	.	.
+6F#	die	.	.	6A#	die	.	.	6d#	die	.	.	6b	die	.	.
+=53	=53	=53	=53	=53	=53	=53	=53	=53	=53	=53	=53	=53	=53	=53	=53
+2G#	Bü-	.	.	2B	Bü-	.	.	(4d#	Bü-	.	.	2b	Bü-	.	.
+.	.	.	.	.	.	.	.	2g#^)	.	.	.	.	.	.	.
+2C#^	-sche,	.	.	(4B^	-sche,	.	.	.	.	.	.	(4ee^	-sche,	.	.
+.	.	.	.	4e)	.	.	.	4g#	-sche,	.	.	4cc#)	.	.	.
+=54	=54	=54	=54	=54	=54	=54	=54	=54	=54	=54	=54	=54	=54	=54	=54
+2F#	frei	.	.	2d#	frei	.	.	2f#	frei	.	.	2b	frei	.	.
+4.F#	schlägt	.	.	4.f#	schlägt	.	.	4.a#	schlägt	.	.	4.dd#	schlägt	.	.
+8F#	die	.	.	8e	die	.	.	8a#	die	.	.	8cc#	die	.	.
+=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55
+2.BB	Brust!	.	.	2.d#	Brust!	.	.	2.b	Brust!	.	.	2.b	Brust!	.	.
+4F#	Er-	.	p	4A#	Er-	.	p	4f#	Er-	.	p	4f#	Er-	.	p
+=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56
+2F#	-quick-	.	.	(4A#	-quick-	.	.	[1f#	-quick-	.	.	(4f#	-quick-	.	.
+.	.	.	.	4c#)	.	.	.	.	.	.	.	4a#)	.	.	.
+4.F#	-li-	.	.	4.e	-li-	.	.	.	.	.	.	4.cc#	-li-	.	.
+8F#	-che	.	.	8dn	-che	.	.	.	.	.	.	8b	-che	.	.
+=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57
+[1F#	Fri-	.	.	2c#	Fri-	.	.	2f#]	.	.	.	2b	Fri-	.	.
+.	.	.	.	4c#	-sche	.	.	4f#	-li-	.	.	4a#	-sche	.	.
+.	.	.	.	4B	Süß-	.	.	4gn	-che	.	.	4r	.	.	.
+=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58
+!LO:TX:t=ritard.	!	!	!	!LO:TX:t=ritard.	!	!	!	!LO:TX:t=ritard.	!	!	!	!LO:TX:t=ritard.	!	!	!
+1F#]	.	.	.	(4A#	-schau-	.	.	(1f#	Fri-	.	.	(4f#	Süß-	.	.
+.	.	.	.	4c#)	.	.	.	.	.	.	.	4a#)	.	.	.
+.	.	.	.	4e	-ri-	.	.	.	.	.	.	6cc#	-schau-	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	6cc#	-ri-	.	.
+.	.	.	.	4dn	-ge	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	6b	-ge	.	.
+=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59
+2..F#;	-sche!	.	.	2..c#;	Lust!	.	.	2..e);	-sche	.	.	(2b	Lust!	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	4.a#;)	.	.	.
+8F#	Er-	.	f	8A#	Er-	.	f	8e	Er-	.	f	8f#	Er-	.	f
+=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60
+2B	-quick-	.	.	(4.B	-quick	.	.	(4.d#	-quick	.	.	(4.f#	-quick	.	.
+.	.	.	.	8d#Xi)	.	.	.	8f#)	.	.	.	8b)	.	.	.
+4.B	-li-	.	.	4.d#	li-	.	.	4.f#	li-	.	.	4.b	li-	.	.
+8B	-che	.	.	8e	-che	.	.	8b	-che	.	.	8cc#	-che	.	.
+=61	=61	=61	=61	=61	=61	=61	=61	=61	=61	=61	=61	=61	=61	=61	=61
+2B	Fri-	.	.	2f#	Fri-	.	.	2b	Fri-	.	.	2dd#	Fri-	.	.
+2B	-sche	.	.	2d#	-sche	.	.	2f#	-sche	.	.	2b	-sche	.	.
+=62	=62	=62	=62	=62	=62	=62	=62	=62	=62	=62	=62	=62	=62	=62	=62
+2B	Süß-	.	.	2B	Süß-	.	.	2an	Süß-	.	.	2dd#	Süß-	.	.
+6B	-schau-	.	.	6B	-schau-	.	.	6a	-schau-	.	.	6dd#	-schau-	.	.
+6B	-ri-	.	.	6B	-ri-	.	.	6a	-ri-	.	.	6cc#	-ri-	.	.
+6B	-ge	.	.	6B	-ge	.	.	6a	-ge	.	.	6b	-ge	.	.
+=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63
+1E	Lust!	.	.	1e	Lust!	.	.	1g#	Lust!	.	.	1gg#	Lust!	.	.
+=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64
+2F#	Hoch	.	ff sf	2d#	Hoch	.	ff sf	2b	Hoch	.	ff sf	2ff#	Hoch	.	ff sf
+6F#	flat-	.	.	6A#	flat-	.	.	6f#	flat-	.	.	6dd#	flat-	.	.
+6F#	-tern	.	.	6A#	-tern	.	.	6e	-tern	.	.	6cc#	-tern	.	.
+6F#	die	.	.	6A#	die	.	.	6d#	die	.	.	6b	die	.	.
+=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65
+2G#	Bü-	.	.	2B	Bü-	.	.	(4d#	Bü-	.	.	2b	Bü-	.	.
+.	.	.	.	.	.	.	.	2g#^)	.	.	.	.	.	.	.
+2C#^	-sche,	.	.	(4B^	-sche,	.	.	.	.	.	.	(4ee^	-sche,	.	.
+.	.	.	.	4e)	.	.	.	4g#	-sche,	.	.	4cc#)	.	.	.
+=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66
+2F#	frei	.	.	2d#	frei	.	.	2f#	frei	.	.	2b	frei	.	.
+4.F#	schlägt	.	.	4.f#	schlägt	.	.	4.a#	schlägt	.	.	4.dd#	schlägt	.	.
+8F#	die	.	.	8e	die	.	.	8a#	die	.	.	8cc#	die	.	.
+=67	=67	=67	=67	=67	=67	=67	=67	=67	=67	=67	=67	=67	=67	=67	=67
+[1BB	Brust;	.	fp	4.d#	Brust;	.	.	4.b	Brust;	.	.	2b	Brust;	.	.
+.	.	.	.	8d#	und	.	pp	8f#	und	.	pp	.	.	.	.
+.	.	.	.	4e	wei-	.	.	4gn	wei-	.	.	2r	.	.	.
+.	.	.	.	8c#	-ter	.	.	8e	-ter	.	.	.	.	.	.
+.	.	.	.	8e	und	.	.	8g	und	.	.	.	.	.	.
+=68	=68	=68	=68	=68	=68	=68	=68	=68	=68	=68	=68	=68	=68	=68	=68
+1BB_	.	.	.	4d#	wei-	.	.	4f#	wei-	.	.	1r	.	.	.
+.	.	.	.	8B	-ter	.	.	8d#	-ter	.	.	.	.	.	.
+.	.	.	.	8d#	die	.	.	8f#	die	.	.	.	.	.	.
+.	.	.	.	8eL	Klän	.	.	8gnL	Klän	.	.	.	.	.	.
+.	.	.	.	8c#J	.	.	.	8eJ	.	.	.	.	.	.	.
+.	.	.	.	8c#L	ge	.	.	8eL	ge	.	.	.	.	.	.
+.	.	.	.	8eJ	.	.	.	8gJ	.	.	.	.	.	.	.
+=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69
+4BB]	.	.	.	2d#	ziehn,	.	.	2f#	ziehn,	.	.	2r	.	.	.
+8BB	im-	.	pp	.	.	.	.	.	.	.	.	.	.	.	.
+8BB	-mer	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4BB	wei-	.	.	4e	Wei-	.	>	4gn	Wei-	.	.	2b	Und	.	p>
+8BB	-ter	.	.	8e	-ter	.	.	8e	-ter	.	.	.	.	.	.
+8BB	und	.	.	8e	und	.	.	8g	und	.	.	.	.	.	.
+=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70
+4BB	wei-	.	.	4d#	wei-	.	.	4f#	wei-	.	.	2dd#	wei-	.	.
+8BB	-ter	.	.	8d#	-ter	.	.	8d#	-ter	.	.	.	.	.	.
+8BB	die	.	.	8d#	die	.	.	8f#	Die	.	.	.	.	.	.
+4BB	Klän-	.	.	4e	Klän-	.	.	8gnL	Klän	.	.	4cc#	-ter	.	.
+.	.	.	.	.	.	.	.	8eJ	.	.	.	.	.	.	.
+4BB	-ge	.	.	4e	-ge	.	.	8eL	ge	.	.	4b	und	.	.
+.	.	.	.	.	.	.	.	8gJ	.	.	.	.	.	.	.
+=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71
+2BB	ziehn,	.	.	2d#	ziehn,	.	.	2f#	ziehn,	.	.	2ff#	wei-	.	.
+4BB	wei-	.	.	2r	.	.	.	4gn	wei-	.	.	4b	-ter	.	.
+8BB	-ter	.	.	.	.	.	.	8e	-ter	.	.	4b	Die	.	.
+8BB	und	.	.	.	.	.	.	8g	und	.	.	.	.	.	.
+=72	=72	=72	=72	=72	=72	=72	=72	=72	=72	=72	=72	=72	=72	=72	=72
+4BB	wei-	.	.	(2B	wei-	.	.	(2f#	wei-	.	.	(2dd#	Klän-	.	.
+8BB	-ter	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8BB	die	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4BB	Klän-	.	.	2e)	.	.	.	2gn)	.	.	.	4cc#)	.	.	.
+4BB	-ge	.	.	.	.	.	.	.	.	.	.	4b	-ge	.	.
+=73	=73	=73	=73	=73	=73	=73	=73	=73	=73	=73	=73	=73	=73	=73	=73
+[1BB	ziehn,	.	<	[1d#	-ter	.	.	4.f#	-ter	.	.	[1ff#	ziehn,	.	.
+.	.	.	.	.	.	.	.	8b	Die	.	f	.	.	.	.
+.	.	.	.	.	.	.	.	4b	Klän-	.	<	.	.	.	.
+.	.	.	.	.	.	.	.	4b	-ge	.	.	.	.	.	.
+=74	=74	=74	=74	=74	=74	=74	=74	=74	=74	=74	=74	=74	=74	=74	=74
+4BB]	.	.	.	4.d#]	.	.	.	[1b	ziehn,	.	.	2ff#]	.	.	.
+4r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	8d#	Die	.	<	.	.	.	.	.	.	.	.
+2r	.	.	.	4d#	Klän-	.	.	.	.	.	.	2r	.	.	.
+.	.	.	.	4d#	-ge	.	.	.	.	.	.	.	.	.	.
+=75	=75	=75	=75	=75	=75	=75	=75	=75	=75	=75	=75	=75	=75	=75	=75
+4r	.	.	.	[1d#	ziehn,	.	.	1b_	.	.	.	2r	.	.	.
+8r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8B	Die	.	f	.	.	.	.	.	.	.	.	.	.	.	.
+4B	Klän-	.	.	.	.	.	.	.	.	.	.	2b	Und	.	f
+4B	-ge	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=76	=76	=76	=76	=76	=76	=76	=76	=76	=76	=76	=76	=76	=76	=76	=76
+2B	ziehn,	.	.	4.d#]	.	.	.	4.b]	.	.	.	2dd#	wei-	.	.
+.	.	.	.	8d#	Die	.	f	8b	Die	.	f	.	.	.	.
+2G#	.	.	.	4d#	Klän-	.	.	4b	Klän-	.	.	4cc#	-ter	.	.
+.	.	.	.	4d#	-ge	.	.	4b	-ge	.	.	4b	und	.	.
+=77	=77	=77	=77	=77	=77	=77	=77	=77	=77	=77	=77	=77	=77	=77	=77
+[1E#X	.	.	.	[1c#	ziehn	.	.	[1b	ziehn	.	sf	1gg#	wei-	.	.
+=78	=78	=78	=78	=78	=78	=78	=78	=78	=78	=78	=78	=78	=78	=78	=78
+2E#]	.	.	.	2c#]	.	.	.	2b]	.	.	.	2cc#	-ter	.	.
+2r	.	.	.	2r	.	.	.	2r	.	.	.	2r	.	.	.
+=79	=79	=79	=79	=79	=79	=79	=79	=79	=79	=79	=79	=79	=79	=79	=79
+2F#	Hoch	.	ff	2d#	Hoch	.	ff	2b	Hoch	.	ff	2ff#	Hoch	.	ff
+6F#	flat-	.	.	6A#	flat-	.	.	6f#	flat-	.	.	6dd#	flat-	.	.
+6F#	-tern	.	.	6A#	-tern	.	.	6e	-tern	.	.	6cc#	-tern	.	.
+6F#	die	.	.	6A#	die	.	.	6d#	die	.	.	6b	die	.	.
+=80	=80	=80	=80	=80	=80	=80	=80	=80	=80	=80	=80	=80	=80	=80	=80
+2G#	Bü-	.	.	2B	Bü-	.	.	(4d#	Bü-	.	.	2b	Bü-	.	.
+.	.	.	.	.	.	.	.	2g#)	.	.	.	.	.	.	.
+2C#	-sche	.	.	(4B	-sche	.	.	.	.	.	.	(4ee	-sche	.	.
+.	.	.	.	4e)	.	.	.	4g#	-sche	.	.	4cc#)	.	.	.
+=81	=81	=81	=81	=81	=81	=81	=81	=81	=81	=81	=81	=81	=81	=81	=81
+2F#	frei	.	.	2d#	frei	.	.	2f#	frei	.	.	2b	frei	.	.
+4.F#	schlägt	.	.	4.f#	schlägt	.	.	4.a#	schlägt	.	.	4.dd#	schlägt	.	.
+8F#	die	.	.	8e	die	.	.	8f#	die	.	.	8cc#	die	.	.
+=82	=82	=82	=82	=82	=82	=82	=82	=82	=82	=82	=82	=82	=82	=82	=82
+1BB;	Brust.	.	.	1d#;	Brust.	.	.	1f#;	Brust.	.	.	1b;	Brust.	.	.
+==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: ([s1,s2,s3,s4])
+!!!RDF**kern: i = editorial accidental
+!!!AGN: Choral
+!!!YOR: https://mdz-nbn-resolving.de/details:bsb11379755
+!!!YOO: München, Bayerische Staatsbibliothek
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb11379755?page=14
+!!!EED: Wolfgang Drescher
+!!!END: 2024/10/22
+!!!ENC: Wolfgang Drescher
+!!!END: 2024/10/22
+!!!title: @{OPS} @{ONM}. @{OTL}
