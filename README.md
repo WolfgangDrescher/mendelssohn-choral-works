@@ -1,5 +1,6 @@
 # Mendelssohn Choral Works
 
+* Op. 41 https://mdz-nbn-resolving.de/details:bsb11150717
 * Op. 59 https://mdz-nbn-resolving.de/details:bsb11379755
 
 | Op. | № | Title                                                                                                                                                                               |
