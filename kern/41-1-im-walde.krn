@@ -1,0 +1,137 @@
+!!!COM: Mendelssohn, Felix
+!!!CDT: 1809/02/03-1847/11/04
+!!!OPR: Sechs vierstimmige Lieder
+!!!OTL: Im Walde
+!!!OPS: Op. 41
+!!!ONM: Nr. 1
+!!!OMD: Lento e dolce
+**kern	**text	**text	**text	**dynam	**kern	**text	**text	**text	**dynam	**kern	**text	**text	**text	**dynam	**kern	**text	**text	**text	**dynam
+*part4	*part4	*part4	*part4	*part4	*part3	*part3	*part3	*part3	*part3	*part2	*part2	*part2	*part2	*part2	*part1	*part1	*part1	*part1	*part1
+*staff4	*staff4	*staff4	*staff4	*	*staff3	*staff3	*staff3	*staff3	*	*staff2	*staff2	*staff2	*staff2	*	*staff1	*staff1	*staff1	*staff1	*
+*I"Bass	*	*	*	*	*I"Tenor	*	*	*	*	*I"Alto	*	*	*	*	*I"Soprano	*	*	*	*
+*clefF4	*	*	*	*	*clefGv2	*	*	*	*	*clefG2	*	*	*	*	*clefG2	*	*	*	*
+*k[f#c#g#]	*	*	*	*	*k[f#c#g#]	*	*	*	*	*k[f#c#g#]	*	*	*	*	*k[f#c#g#]	*	*	*	*
+*A:	*	*	*	*	*A:	*	*	*	*	*A:	*	*	*	*	*A:	*	*	*	*
+*M2/4	*	*	*	*	*M2/4	*	*	*	*	*M2/4	*	*	*	*	*M2/4	*	*	*	*
+*MM60	*	*	*	*	*MM60	*	*	*	*	*MM60	*	*	*	*	*MM60	*	*	*	*
+=0	=0	=0	=0	=0	=0	=0	=0	=0	=0	=0	=0	=0	=0	=0	=0	=0	=0	=0	=0
+8E	1.Ihr	2.Ein	3.Ihr	p	8E	1.Ihr	2.Ein	3.Ihr	p	8e	1.Ihr	2.Ein	3.Ihr	p	8e	1.Ihr	2.Ein	3.Ihr	p
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+8.A	Vö-	Stünd-	sucht	.	8.c#	Vö-	Stünd-	sucht	.	8.e	Vö-	Stünd-	sucht	.	8.a	Vö-	Stünd-	sucht	.
+16A	-gel	-chen	der	.	16B	-gel	-chen	der	.	16e	-gel	-chen	der	.	16g#	-gel	-chen	der	.
+8A	in	schleich'	Bäu-	.	8d	in	schleich'	Bäu-	.	8e	in	schleich'	Bäu-	.	8b	in	schleich'	Bäu-	.
+8A	den	ich	-me	.	8c#	den	ich	-me	.	8e	den	ich	-me	.	8a	den	ich	-me	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+8.A	Zwei-	blos	grü-	.	8.f#	Zwei-	blos	grü-	.	8.a	Zwei-	blos	grü-	.	8.dd	Zwei-	blos	grü-	.
+16A	-gen	her-	-nes	.	16e	-gen	her-	-nes	.	16a	-gen	her-	-nes	.	16cc#	-gen	her-	-nes	.
+8A	schwank,	-aus	Dach,	.	8e	schwank,	-aus	Dach,	.	8a	schwank,	-aus	Dach,	.	8cc#	schwank,	-aus	Dach,	.
+8A	wie	in	der	.	8d	wie	in	der	.	8g#	wie	in	der	.	8b	wie	in	der	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+8A	seid	eu-	Wie-	<	8c#	seid	eu-	Wie-	<	8a	seid	eu-	Wie-	<	8a	seid	eu-	Wie-	<
+8A	ihr	-er	-se	(	8e	ihr	-er	-se	(	8a	ihr	-er	-se	(	8cc#	ihr	-er	-se	(
+8d	froh	lu-	Schmelz,	[ sf	8d	froh	lu-	Schmelz,	[ sf	8a	froh	lu-	Schmelz,	[ sf	8ff#	froh	lu-	Schmelz,	[ sf
+8c#	und	-stig	den	.	8e	und	-stig	den	.	8a	und	-stig	den	.	8ee	und	-stig	den	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+8.B	frisch	Som-	Kie-	.	8.f#	frisch	Som-	Kie-	.	8.a	frisch	Som-	Kie-	.	8.ee	frisch	Som-	Kie-	.
+16B	und	-mer-	-sel-	.	16f#	und	-mer-	-sel-	.	16a	und	-mer-	-sel-	.	16dd	und	-mer-	-sel-	.
+8B	frank,	-haus,	-bach,	.	8f#	frank,	-haus,	-bach,	.	8a	frank,	-haus,	-bach,	.	8dd	frank,	-haus,	-bach,	.
+8BB	und	und	ihr	p	8d	und	und	ihr	p	8a	und	und	ihr	p	8cc#	und	und	ihr	p
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+8E	tril-	muss	flicht	.	8d	tril-	muss	flicht	.	8g#	tril-	muss	flicht	.	8b	tril-	muss	flicht	.
+8E	-lert	mich	vor	.	8d	-lert	mich	vor	.	8g#	-lert	mich	vor	.	8b	-lert	mich	vor	.
+.	.	.	.	.	8qf#/	.	.	.	.	.	.	.	.	.	8qdd/	.	.	.	.
+8E	Mor-	dess	Stadt	.	8e	Mor-	dess	Stadt	.	8g#	Mor-	dess	Stadt	.	8cc#	Mor-	dess	Stadt	.
+8E	-gen-	be-	und	.	8d	-gen-	be-	und	.	8g#	-gen-	be-	und	.	8b	-gen-	be-	und	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+4A	-chö-	-kla-	Mau-	.	4c#	-chö-	-kla-	Mau-	.	4a	-chö-	-kla-	Mau-	.	4a	-chö-	-kla-	Mau-	.
+4A	-re,	-gen,	-er,	.	8c#	-re,	-gen,	-er,	.	8e	-re,	-gen,	-er,	.	4e	-re,	-gen,	-er,	.
+.	.	.	.	.	8c#	und	und	ihr	p	8e	und	und	ihr	p	.	.	.	.	.
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+.	.	.	.	.	.	.	.	.	.	8qg#/	.	.	.	.	.	.	.	.	.
+2r	.	.	.	.	8d	tril-	muss	flicht	.	8f#	tril-	muss	flicht	.	2r	.	.	.	.
+.	.	.	.	.	8c#	-lert	mich	vor	.	8e	-lert	mich	vor	.	.	.	.	.	.
+.	.	.	.	.	8.c#	Mor-	dess	Stadt	.	8.a	Mor-	dess	Stadt	.	.	.	.	.	.
+.	.	.	.	.	16c#	-gen-	be-	und	.	16e	-gen-	be-	und	.	.	.	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+4r	.	.	.	.	8B	-cho-	-kla-	Mau-	.	8d	-cho-	-kla-	Mau-	.	4r	.	.	.	.
+.	.	.	.	.	8A	-re.	-gen.	-er,	.	8c#	-re.	-gen.	-er,	.	.	.	.	.	.
+8r	.	.	.	.	8r	.	.	.	.	8r	.	.	.	.	8r	.	.	.	.
+8A	ich	Ihr	und	<	8c#	ich	Ihr	und	<	8e	ich	Ihr	und	<	8cc#	ich	Ihr	und	<
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+8A	füh-	le-	lasst	.	8c#	füh-	le-	lasst	.	8f#	füh-	le-	lasst	.	8cc#	füh-	le-	lasst	.
+8A	-le	-bet	die	.	8c#	-le	-bet	die	.	8f#	-le	-bet	die	.	8cc#	-le	-bet	die	.
+8A	mich	stets	Men-	.	8c#	mich	stets	Men-	.	8f#	mich	stets	Men-	.	8.dd#X	mich	stets	Men-	.
+8A	im	in	-schen	.	8c#	im	in	-schen	.	8f#	im	in	-schen	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16cc#	im	in	-schen	.
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+8.G#	Her-	Saus	seuf-	sf	8.d#	Her-	Saus	seuf-	sf	8.f#	Her-	Saus	seuf-	sf	8.cc#	Her-	Saus	seuf-	sf
+16G#	-zen	und	-zen,	.	16d#	-zen	und	-zen,	.	16f#	-zen	und	-zen,	.	16b#X	-zen	und	-zen,	.
+8G#	krank,	Braus,	ach!	.	8d#	krank,	Braus,	ach!	.	8f#	krank,	Braus,	ach!	.	8b#	krank,	Braus,	ach!	.
+8G#	wenn	seht's	in	p	8B#X	wenn	seht's	in	p	8f#	wenn	seht's	in	p	8g#	wenn	seht's	in	p
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+8G#	ich's	nach-	ih-	.	8c#	ich's	nach-	ih-	.	8e#X	ich's	nach-	ih-	.	8bn	ich's	nach-	ih-	.
+8G#	von	-ten	-rem	.	8c#	von	-ten	-rem	.	8e#	von	-ten	-rem	.	8b	von	-ten	-rem	.
+8G#	un-	hier	Vo-	.	8c#	un-	hier	Vo-	.	8e#	un-	hier	Vo-	.	8b	un-	hier	Vo-	.
+8C#	-ten	und	-gel-	.	8c#	-ten	und	-gel-	.	8e#	-ten	und	-gel-	.	8b	-ten	und	-gel-	.
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+4F#	hö-	ta-	-bau-	.	4c#	hö-	ta-	-bau-	.	4e#X	hö-	ta-	-bau-	.	4b	hö-	ta-	-bau-	.
+4F#	-re,	-gen,	-er,	.	4c#	-re,	-gen,	-er,	.	4f#	-re,	-gen,	-er,	.	4a	-re,	-gen,	-er,	.
+=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+4D	wenn	seht's	in	.	4B	wenn	seht's	in	.	4f#	wenn	seht's	in	.	8r	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8a	wenn	seht's	in	.
+8D	ich's	nach-	ih-	<	8B	ich's	nach-	ih-	<	8B	ich's	nach-	ih-	<	8g#	ich's	nach-	ih-	<
+8D	von	-ten	-rem	.	8A	von	-ten	-rem	.	8B	von	-ten	-rem	.	8f#	von	-ten	-rem	.
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+4.E	un-	hier	Vo-	.	(8G#L	un-	hier	Vo-	.	4.e	un-	hier	Vo-	.	(8eL	un-	hier	Vo-	.
+.	.	.	.	.	8B	.	.	.	.	.	.	.	.	.	8g#	.	.	.	.
+.	.	.	.	.	8dJ)	.	.	.	.	.	.	.	.	.	8bJ)	.	.	.	.
+8E	-ten	und	-gel-	.	8f#	-ten	und	-gel-	.	8g#	-ten	und	-gel-	.	8dd	-ten	und	-gel-	.
+=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
+2E	hö-	ta-	-bau-	.	(4e	hö-	ta-	-bau-	.	4g#	hö-	ta-	-bau-	.	(4.cc#	hö-	ta-	-bau-	.
+.	.	.	.	.	4d)	.	.	.	.	8g#	-re,	-gen,	-er,	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	8r	.	.	.	.	8b)	.	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+4F#	re,	gen,	er,	.	4c#	re,	gen,	er,	.	(8aL	wenn	seht's	in	.	4a	re,	gen,	er,	.
+.	.	.	.	.	.	.	.	.	.	8g#J)	.	.	.	.	.	.	.	.	.
+4r	.	.	.	.	4r	.	.	.	.	8f#	ich's	nach-	ih-	.	4r	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	8e	von	-ten	-rem,	.	.	.	.	.	.
+=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+8r	.	.	.	.	8r	.	.	.	.	4d#X	un-	hier,	in	.	8r	.	.	.	.
+8F#	wenn	seht's	in	f	8A	wenn	seht's	in	f	.	.	.	.	.	8cc#	wenn	seht's	in	f
+8F#	ich's	nach-	ih-	.	8G#	ich's	nach-	ih-	.	8d#	-ten,	nach-	ih-	f	8b	ich's	nach-	ih-	.
+8F#	von	-ten	-rem	.	8A	von	-ten	-rem	.	8d#	von	-ten	-rem	.	8a	von	-ten	-rem	.
+=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
+4.E	un-	hier	Vo-	.	(8BL	un-	hier	Vo-	.	4e	un-	hier	Vo-	.	(8g#L	un-	hier	Vo-	.
+.	.	.	.	.	8d	.	.	.	.	.	.	.	.	.	8ff#	.	.	.	.
+.	.	.	.	.	8c#J)	.	.	-gel-	.	4g#	-ten	und	-gel-	.	8eeJ)	.	.	.	.
+8E	-ten	und	-gel-	.	8B	-ten	und	.	.	.	.	.	.	.	8dd	-ten	und	-gel-	.
+=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
+2E	hö-	ta-	-bau-	>]	(4.e	hö-	ta-	-bau-	>	2g#	hö-	ta-	-bau-	>]	(4.cc#	hö-	ta-	-bau-	>
+.	.	.	.	.	8d)	.	.	.	]]	.	.	.	.	.	8b)	.	.	.	]]
+=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
+[2A	-re.	-gen.	-er.	.	4c#	-re.	-gen.	-er.	.	4a	-re.	-gen.	-er.	.	4a	-re.	-gen.	-er.	.
+.	.	.	.	.	8r	.	.	.	.	8r	.	.	.	.	4r	.	.	.	.
+.	.	.	.	.	8c#	wenn	seht's	in	p	8e	wenn	seht's	in	p	.	.	.	.	.
+=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
+.	.	.	.	.	.	.	.	.	.	(8qg#/	.	.	.	.	.	.	.	.	.
+2A]	.	.	.	.	8d	ich's	nach-	ih-	.	8f#)	ich's	nach-	ih-	.	2r	.	.	.	.
+.	.	.	.	.	8c#	von	-ten	-rem	.	8e	von	-ten	-rem	.	.	.	.	.	.
+.	.	.	.	.	8.c#	un-	hier	Vo-	.	8.a	un-	hier	Vo-	.	.	.	.	.	.
+.	.	.	.	.	16c#	-ten	und	-gel-	>	16e	-ten	und	-gel-	>	.	.	.	.	.
+=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
+4r	.	.	.	.	8B	hö-	ta-	-bau-	.	8d	hö-	ta-	-bau-	.	4r	.	.	.	.
+.	.	.	.	.	8A	-re.	-gen.	-er.	.	8c#	-re.	-gen.	-er.	.	.	.	.	.	.
+8r;	.	.	.	.	8r;	.	.	.	.	8r;	.	.	.	.	8r;	.	.	.	.
+==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: ([s1,s2,s3,s4])
+!!!RDF**kern: i = editorial accidental
+!!!AGN: Choral
+!!!YOR: https://mdz-nbn-resolving.de/details:bsb11150717
+!!!YOO: München, Bayerische Staatsbibliothek
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb11150717?page=6
+!!!EED: Wolfgang Drescher
+!!!END: 2024/10/29
+!!!ENC: Wolfgang Drescher
+!!!END: 2024/10/29
+!!!title: @{OPS} @{ONM}. @{OTL}
