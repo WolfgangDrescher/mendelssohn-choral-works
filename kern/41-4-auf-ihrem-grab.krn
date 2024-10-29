@@ -1,0 +1,202 @@
+!!!COM: Mendelssohn, Felix
+!!!CDT: 1809/02/03-1847/11/04
+!!!OPR: Sechs vierstimmige Lieder
+!!!OTL: Auf ihrem Grab
+!!!OPS: Op. 41
+!!!ONM: Nr. 4
+!!!OMD: Assai sostenuto
+**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam
+*part4	*part4	*part4	*part3	*part3	*part3	*part2	*part2	*part2	*part1	*part1	*part1
+*staff4	*staff4	*	*staff3	*staff3	*	*staff2	*staff2	*	*staff1	*staff1	*
+*I"Bass	*	*	*I"Tenor	*	*	*I"Alt	*	*	*I"Sopran	*	*
+*clefF4	*	*	*clefGv2	*	*	*clefG2	*	*	*clefG2	*	*
+*k[f#c#g#d#]	*	*	*k[f#c#g#d#]	*	*	*k[f#c#g#d#]	*	*	*k[f#c#g#d#]	*	*
+*E:	*	*	*E:	*	*	*E:	*	*	*E:	*	*
+*M4/4	*	*	*M4/4	*	*	*M4/4	*	*	*M4/4	*	*
+*met(c)	*	*	*met(c)	*	*	*met(c)	*	*	*met(c)	*	*
+*MM60	*	*	*MM60	*	*	*MM60	*	*	*MM60	*	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+4E	1.Auf	.	4G#	1.Auf	.	4B	1.Auf	.	4e	1.Auf	.
+8.E	ih-	.	8.B	ih-	.	8.e	ih-	.	8.g#	ih-	.
+16E	-em	.	16B	-em	.	16e	-em	.	16g#	-em	.
+=	=	=	=	=	=	=	=	=	=	=	=
+4.G#	Grab	.	4.B	Grab	.	4.e	Grab	.	4.b	Grab	.
+8G#	da	.	8B	da	.	8e	da	.	8b	da	.
+!	!	!	!	!	!	!LO:TX:i:t=dolce	!	!	!LO:TX:i:t=dolce	!	!
+4F#	steht	.	4c#	steht	.	8eL	steht	.	8a#XL	steht	.
+.	.	.	.	.	.	8g#J	.	.	8eeJ	.	.
+8F#	ei-	.	8A#X	ei-	.	8f#	ei-	.	8dd#	ei-	.
+8F#	-ne	.	8A#	-ne	.	8e	-ne	.	8cc#	-ne	.
+=	=	=	=	=	=	=	=	=	=	=	=
+4F#	Lin-	.	4A#X	Lin-	.	4e	Lin-	.	4cc#	Lin-	.
+4BB	-de,	.	8B	-de,	.	8d#	-de,	.	8b	-de,	.
+.	.	.	8B	drin	p	8d#	drin	p	8b	drin	p
+2r	.	.	4B	pfei-	.	4d#	pfei-	.	8bL	pfei-	.
+.	.	.	.	.	.	.	.	.	8f#J	.	.
+.	.	.	8B	-fen	.	8e	-fen	.	8g#	-fen	.
+.	.	.	8B	die	.	8f#	die	.	8a	die	.
+=	=	=	=	=	=	=	=	=	=	=	=
+1r	.	.	4B	Vö-	.	8eL	Vö-	.	8g#L	Vö-	.
+.	.	.	.	.	.	8aJ	.	.	8cc#J	.	.
+.	.	.	8B	-gel	.	8g#	-gel	.	8b	-gel	.
+.	.	.	8B	und	.	8g#	und	.	8b	und	.
+.	.	.	4B	A-	.	8g#L	A-	.	8bL	A-	.
+.	.	.	.	.	.	8d#J	.	.	8f#J	.	.
+.	.	.	4B	-bend-	.	8eL	-bend-	.	8g#L	-bend-	.
+.	.	.	.	.	.	8f#J	.	.	8aJ	.	.
+=	=	=	=	=	=	=	=	=	=	=	=
+2r	.	.	4e	-win	.	8eL	-win	.	8g#L	-win	.
+.	.	.	.	.	.	8aJ	.	.	8cc#J	.	.
+.	.	.	8e	-de,	.	8g#	-de,	.	8b	-de,	.
+.	.	.	8r	.	.	8r	.	.	8r	.	.
+4F#	und	.	4F#	und	.	4f#	und	.	4f#	und	.
+8F#	drun-	<	8f#	drun-	<	8f#	drun-	<	8g#	drun-	<
+8F#	-ter	.	8e	-ter	.	8f#	-ter	.	8a#X	-ter	.
+=	=	=	=	=	=	=	=	=	=	=	=
+4F#	sitzt	.	4d#	sitzt	.	4f#	sitzt	.	4b	sitzt	.
+8F#	auf	.	8c#	auf	.	8f#	auf	.	8cc#	auf	.
+8F#	dem	.	8B	dem	.	8f#	dem	.	8dd#	dem	.
+4F#	grü-	.	4A#X	grü-	.	4f#	grü-	.	4ee	grü-	.
+4F#	-nen	.	4c#	-nen	.	4f#	-nen	.	4cc#	-nen	.
+=	=	=	=	=	=	=	=	=	=	=	=
+4F#	Platz	.	4e	Platz	.	4f#	Platz	.	4a#X	Platz	.
+4B	der	.	8r	.	.	8r	.	.	8r	.	.
+.	.	>	8d#	der	>	8f#	der	>	8b	der	>
+4An	Mül-	.	4d#	Mül-	.	4f#	Mül-	.	4cc#	Mül-	.
+4G#	-lers-	.	4e	-lers-	.	4g#	-lers-	.	4b	-lers-	.
+=	=	=	=	=	=	=	=	=	=	=	=
+4F#	-knecht	.	4B	-knecht	.	4d#	-knecht	.	4an	-knecht	.
+4E	mit	.	4B	mit	.	4e	mit	.	4g#	mit	.
+4BB	sei-	p	4B	sei-	p	4f#	sei-	p	4a	sei-	p
+4BB	-nem	.	4B	-nem	.	4d#	-nem	.	8f#L	-nem	.
+.	.	.	.	.	.	.	.	.	8bJ	.	.
+=	=	=	=	=	=	=	=	=	=	=	=
+4E	Schatz,	.	4B	Schatz,	.	4e	Schatz,	.	4g#	Schatz,	.
+4r	.	.	4r	.	.	4r	.	.	4r	.	.
+4F#	und	.	4A#X	und	.	4e	und	.	4f#	und	.
+8F#	drun-	<	8f#	drun-	<	8d#	drun-	<	8g#	drun-	<
+8F#	-ter	.	8e	-ter	.	8c#	-ter	.	8a#X	-ter	.
+=	=	=	=	=	=	=	=	=	=	=	=
+4F#	sitzt	.	4d#	sitzt	.	4f#	sitzt	.	4b	sitzt	.
+8F#	auf	.	8c#	auf	.	8a#X	auf	.	8cc#	auf	.
+8F#	dem	.	8B	dem	.	8b	dem	.	8dd#	dem	.
+4F#	grü-	.	4A#X	grü-	.	4cc#	grü-	.	8ff#L	grü-	.
+.	.	.	.	.	.	.	.	.	8eeJ	.	.
+4F#	-nen	.	4c#	-nen	.	4a#	-nen	.	8eeL	-nen	.
+.	.	.	.	.	.	.	.	.	8cc#J	.	.
+=	=	=	=	=	=	=	=	=	=	=	=
+4F#	Platz	.	4e	Platz	.	4f#	Platz	.	4a#X	Platz	.
+4B	der	.	8r	.	.	8r	.	.	8r	.	.
+.	.	.	8d#	der	.	8f#	der	.	8b	der	.
+4An	Mül-	>	4d#	Mül-	>	4f#	Mül-	>	4cc#	Mül-	>
+4G#	-lers-	.	4e	-lers-	.	4g#	-lers-	.	4b	-lers-	.
+=	=	=	=	=	=	=	=	=	=	=	=
+4F#	-knecht	.	4B	-knecht	.	4d#	-knecht	.	4a	-knecht	.
+4E	mit	.	4B	mit	.	4e	mit	.	4g#	mit	.
+4BB	sei-	p	4B	sei-	p	4f#	sei-	p	4a	sei-	p
+4BB	-nem	.	4A	-nem	.	4d#	-nem	.	4f#	-nem	.
+=	=	=	=	=	=	=	=	=	=	=	=
+4.EE 4.E;	Schatz.	.	4.G#;	Schatz.	.	4.e;	Schatz.	.	4.e;	Schatz.	.
+=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||
+8E	2.Die	.	8G#	2.Die	.	8B	2.Die	.	8e	2.Die	.
+4E	Win-	.	4G#	Win-	.	4B	Win-	.	8.eL	Win-	.
+.	.	.	.	.	.	.	.	.	16g#Jk	.	.
+8.EL	-de	.	4B	-de	.	4e	-de	.	8.g#L	-de	.
+16G#Jk	.	.	.	.	.	.	.	.	16bJk	.	.
+
+=	=	=	=	=	=	=	=	=	=	=	=
+4.G#	weh'n	.	4.B	weh'n	.	4.e	weh'n	.	4.b	weh'n	.
+8G#	so	.	8B	so	.	8e	so	.	8b	so	.
+4F#	still	.	4c#	still	.	8eL	still	.	8a#XL	still	.
+.	.	.	.	.	.	8g#J	.	.	8eeJ	.	.
+8F#	und	.	8A#X	und	.	8f#	und	.	8dd#	und	.
+8F#	so	.	8A#	so	.	8e	so	.	8cc#	so	.
+=	=	=	=	=	=	=	=	=	=	=	=
+4F#	schau-	.	4A#X	schau-	.	4e	schau-	.	4cc#	schau-	.
+4BB	-rig,	.	8B	-rig,	.	8d#	-rig,	.	8b	-rig,	.
+.	.	.	8B	die	p	8d#	die	p	8b	die	p
+2r	.	.	4B	Vö-	.	4d#	Vö-	.	8bL	Vö-	.
+.	.	.	.	.	.	.	.	.	8f#J	.	.
+.	.	.	4B	-gel	.	8eL	-gel	.	8g#L	-gel	.
+.	.	.	.	.	.	8f#J	.	.	8aJ	.	.
+=	=	=	=	=	=	=	=	=	=	=	=
+1r	.	.	4B	sin-	.	8eL	sin-	.	8g#L	sin-	.
+.	.	.	.	.	.	8aJ	.	.	8cc#J	.	.
+.	.	.	8B	-gen	.	8g#	-gen	.	8b	-gen	.
+.	.	.	8B	so	.	8g#	so	.	8b	so	.
+.	.	.	4B	süss	.	8g#L	süss	.	8bL	süss	.
+.	.	.	.	.	.	8d#J	.	.	8f#J	.	.
+.	.	.	8B	und	.	8e	und	.	8g#	und	.
+.	.	.	8B	so	.	8f#	so	.	8a	so	.
+=	=	=	=	=	=	=	=	=	=	=	=
+4r	.	.	4e	trau-	.	8eL	trau-	.	8g#L	trau-	.
+.	.	.	.	.	.	8aJ	.	.	8cc#J	.	.
+8r	.	.	8e	-rig,	.	8g#	-rig,	.	8b	-rig,	.
+8C#	die	.	8e	die	.	8e	die	.	8g#	die	.
+4F#	schwa-	.	8A#XL	schwa-	.	4e	schwa-	.	4f#	schwa-	.
+.	.	.	8c#J	.	.	.	.	.	.	.	.
+8F#	-tzen-	<	8f#	-tzen-	<	8d#	-tzen-	<	8g#	-tzen-	<
+8F#	-den	.	8e	-den	.	8c#	-den	.	8a#X	-den	.
+=	=	=	=	=	=	=	=	=	=	=	=
+4F#	Buh-	.	4d#	Buh-	.	4f#	Buh-	.	4b	Buh-	.
+8F#	-len,	.	8c#	-len,	.	8f#	-len,	.	8cc#	-len,	.
+8F#	sie	.	8B	sie	.	8f#	sie	.	8dd#	sie	.
+4F#	wer-	.	4A#X	wer-	.	4f#	wer-	.	4ee	wer-	.
+4F#	-den	.	4c#	-den	.	4f#	-den	.	4cc#	-den	.
+=	=	=	=	=	=	=	=	=	=	=	=
+4F#	stumm,	.	4e	stumm,	.	4f#	stumm,	.	4a#X	stumm,	.
+4B	sie	.	8r	.	.	8r	.	.	8r	.	.
+.	.	.	8d#	sie	.	8f#	sie	.	8b	sie	.
+4An	wei-	>	4d#	wei-	>	4f#	wei-	>	4cc#	wei-	>
+8G#	-nen	.	8e	-nen	.	8g#	-nen	.	8b	-nen	.
+8G#	und	.	8e	und	.	8g#	und	.	8b	und	.
+=	=	=	=	=	=	=	=	=	=	=	=
+4F#	wis-	.	4B	wis-	.	4d#	wis-	.	4an	wis-	.
+4E	-sen	.	4B	-sen	.	4e	-sen	.	4g#	-sen	.
+4BB	selbst	p	4B	selbst	p	4f#	selbst	p	4a	selbst	p
+8BB	nicht	.	8B	nicht	.	8d#	nicht	.	8f#	nicht	.
+8BB	wa-	.	8B	wa-	.	8d#	wa-	.	8b	wa-	.
+=	=	=	=	=	=	=	=	=	=	=	=
+4E	rum,	.	4B	rum,	.	4e	rum,	.	4g#	rum,	.
+8r	.	.	8r	.	.	8r	.	.	8r	.	.
+8C#	die	.	8B	die	.	8e	die	.	8g#	die	.
+4F#	schwa-	.	8A#XL	schwa-	.	4e	schwa-	.	4f#	schwa-	.
+.	.	.	8c#J	.	.	.	.	.	.	.	.
+8F#	-tzen-	<	8f#	-tzen-	<	8d#	-tzen-	<	8g#	-tzen-	<
+8F#	-den	.	8e	-den	.	8c#	-den	.	8a#X	-den	.
+=	=	=	=	=	=	=	=	=	=	=	=
+4F#	Buh-	.	4d#	Buh-	.	4f#	Buh-	.	4b	Buh-	.
+8F#	-len,	.	8c#	-len,	.	8a#X	-len,	.	8cc#	-len,	.
+8F#	sie	.	8B	sie	.	8b	sie	.	8dd#	sie	.
+4F#	wer-	.	4A#X	wer-	.	4cc#	wer-	.	8ff#L	wer-	.
+.	.	.	.	.	.	.	.	.	8eeJ	.	.
+4F#	-den	.	4c#	-den	.	4a#	-den	.	8eeL	-den	.
+.	.	.	.	.	.	.	.	.	8cc#J	.	.
+=	=	=	=	=	=	=	=	=	=	=	=
+4F#	stumm,	.	4e	stumm,	.	4f#	stumm,	.	4a#X	stumm,	.
+4B	sie	.	8r	.	.	8r	.	.	8r	.	.
+.	.	p	8d#	sie	p	8f#	sie	p	8b	sie	p
+4An	wei-	.	4d#	wei-	.	4f#	wei-	.	4cc#	wei-	.
+8G#	-nen	.	8e	-nen	.	8g#	-nen	.	8b	-nen	.
+8G#	und	.	8e	und	.	8g#	und	.	8b	und	.
+=	=	=	=	=	=	=	=	=	=	=	=
+4F#	wis-	.	4B	wis-	.	4d#	wis-	.	4an	wis-	.
+4E	-sen	.	4B	-sen	.	4e	-sen	.	4g#	-sen	.
+4BB	selbst	pp	4B	selbst	pp	4f#	selbst	pp	4a	selbst	pp
+8BB	nicht	.	8A	nicht	.	8d#	nicht	.	8f#	nicht	.
+8BB	wa-	.	8A	wa-	.	8d#	wa-	.	8f#	wa-	.
+=	=	=	=	=	=	=	=	=	=	=	=
+2EE 2E	-rum.	.	2G#	-rum.	.	2e	-rum.	.	2e	-rum.	.
+==	==	==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: ([s1,s2,s3,s4])
+!!!RDF**kern: i = editorial accidental
+!!!AGN: Choral
+!!!YOR: https://mdz-nbn-resolving.de/details:bsb11150717
+!!!YOO: München, Bayerische Staatsbibliothek
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb11150717?page=11
+!!!EED: Wolfgang Drescher
+!!!END: 2024/10/29
+!!!ENC: Wolfgang Drescher
+!!!END: 2024/10/29
+!!!title: @{OPS} @{ONM}. @{OTL}
