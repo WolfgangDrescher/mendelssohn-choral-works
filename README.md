@@ -6,6 +6,7 @@
 |-----|---|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 41  | 1 | [Im Walde](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/mendelssohn-choral-works/master/kern/41-1-im-walde.krn)                             |
 | 41  | 2 | [Entflieh’ mit mir](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/mendelssohn-choral-works/master/kern/41-2-entflieh-mit-mir.krn)            |
+| 41  | 3 | [Es fiel ein Reif](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/mendelssohn-choral-works/master/kern/41-3-es-fiel-ein-reif.krn)             |
 | 59  | 1 | [Im Grünen](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/mendelssohn-choral-works/master/kern/59-1-im-gruenen.krn)                          |
 | 59  | 2 | [Frühzeitiger Frühling](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/mendelssohn-choral-works/master/kern/59-2-fruehzeitiger-fruehling.krn) |
 | 59  | 3 | [Abschied vom Walde](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/mendelssohn-choral-works/master/kern/59-3-abschied-vom-walde.krn)         |
