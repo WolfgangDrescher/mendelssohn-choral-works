@@ -22,6 +22,7 @@
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 4.G#	Grab	.	4.B	Grab	.	4.e	Grab	.	4.b	Grab	.
 8G#	da	.	8B	da	.	8e	da	.	8b	da	.
+*B:	*	*	*B:	*	*	*B:	*	*	*B:	*	*
 !	!	!	!	!	!	!LO:TX:i:t=dolce	!	!	!LO:TX:i:t=dolce	!	!
 4F#	steht	.	4c#	steht	.	8eL	steht	.	8a#XL	steht	.
 .	.	.	.	.	.	8g#J	.	.	8eeJ	.	.
@@ -30,6 +31,7 @@
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
 4F#	Lin-	.	4A#X	Lin-	.	4e	Lin-	.	4cc#	Lin-	.
 4BB	-de,	.	8B	-de,	.	8d#	-de,	.	8b	-de,	.
+*E:	*	*	*E:	*	*	*E:	*	*	*E:	*	*
 .	.	.	8B	drin	p	8d#	drin	p	8b	drin	p
 2r	.	.	4B	pfei-	.	4d#	pfei-	.	8bL	pfei-	.
 .	.	.	.	.	.	.	.	.	8f#J	.	.
@@ -49,6 +51,7 @@
 .	.	.	.	.	.	8aJ	.	.	8cc#J	.	.
 .	.	.	8e	-de,	.	8g#	-de,	.	8b	-de,	.
 .	.	.	8r	.	.	8r	.	.	8r	.	.
+*B:	*	*	*B:	*	*	*B:	*	*	*B:	*	*
 4F#	und	.	4F#	und	.	4f#	und	.	4f#	und	.
 8F#	drun-	<	8f#	drun-	<	8f#	drun-	<	8g#	drun-	<
 8F#	-ter	.	8e	-ter	.	8f#	-ter	.	8a#X	-ter	.
@@ -62,6 +65,7 @@
 4F#	Platz	.	4e	Platz	.	4f#	Platz	.	4a#X	Platz	.
 4B	der	.	8r	.	.	8r	.	.	8r	.	.
 .	.	>	8d#	der	>	8f#	der	>	8b	der	>
+*E:	*	*	*E:	*	*	*E:	*	*	*E:	*	*
 4An	Mül-	.	4d#	Mül-	.	4f#	Mül-	.	4cc#	Mül-	.
 4G#	-lers-	.	4e	-lers-	.	4g#	-lers-	.	4b	-lers-	.
 =7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
@@ -73,6 +77,7 @@
 =8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
 4E	Schatz,	.	4B	Schatz,	.	4e	Schatz,	.	4g#	Schatz,	.
 4r	.	.	4r	.	.	4r	.	.	4r	.	.
+*B:	*	*	*B:	*	*	*B:	*	*	*B:	*	*
 4F#	und	.	4A#X	und	.	4e	und	.	4f#	und	.
 8F#	drun-	<	8f#	drun-	<	8d#	drun-	<	8g#	drun-	<
 8F#	-ter	.	8e	-ter	.	8c#	-ter	.	8a#X	-ter	.
@@ -88,6 +93,7 @@
 4F#	Platz	.	4e	Platz	.	4f#	Platz	.	4a#X	Platz	.
 4B	der	.	8r	.	.	8r	.	.	8r	.	.
 .	.	.	8d#	der	.	8f#	der	.	8b	der	.
+*E:	*	*	*E:	*	*	*E:	*	*	*E:	*	*
 4An	Mül-	>	4d#	Mül-	>	4f#	Mül-	>	4cc#	Mül-	>
 4G#	-lers-	.	4e	-lers-	.	4g#	-lers-	.	4b	-lers-	.
 =11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
@@ -107,6 +113,7 @@
 =13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
 4.G#	weh'n	.	4.B	weh'n	.	4.e	weh'n	.	4.b	weh'n	.
 8G#	so	.	8B	so	.	8e	so	.	8b	so	.
+*B:	*	*	*B:	*	*	*B:	*	*	*B:	*	*
 4F#	still	.	4c#	still	.	8eL	still	.	8a#XL	still	.
 .	.	.	.	.	.	8g#J	.	.	8eeJ	.	.
 8F#	und	.	8A#X	und	.	8f#	und	.	8dd#	und	.
@@ -114,6 +121,7 @@
 =14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
 4F#	schau-	.	4A#X	schau-	.	4e	schau-	.	4cc#	schau-	.
 4BB	-rig,	.	8B	-rig,	.	8d#	-rig,	.	8b	-rig,	.
+*E:	*	*	*E:	*	*	*E:	*	*	*E:	*	*
 .	.	.	8B	die	p	8d#	die	p	8b	die	p
 2r	.	.	4B	Vö-	.	4d#	Vö-	.	8bL	Vö-	.
 .	.	.	.	.	.	.	.	.	8f#J	.	.
@@ -132,6 +140,7 @@
 4r	.	.	4e	trau-	.	8eL	trau-	.	8g#L	trau-	.
 .	.	.	.	.	.	8aJ	.	.	8cc#J	.	.
 8r	.	.	8e	-rig,	.	8g#	-rig,	.	8b	-rig,	.
+*B:	*	*	*B:	*	*	*B:	*	*	*B:	*	*
 8C#	die	.	8e	die	.	8e	die	.	8g#	die	.
 4F#	schwa-	.	8A#XL	schwa-	.	4e	schwa-	.	4f#	schwa-	.
 .	.	.	8c#J	.	.	.	.	.	.	.	.
@@ -147,6 +156,7 @@
 4F#	stumm,	.	4e	stumm,	.	4f#	stumm,	.	4a#X	stumm,	.
 4B	sie	.	8r	.	.	8r	.	.	8r	.	.
 .	.	.	8d#	sie	.	8f#	sie	.	8b	sie	.
+*E:	*	*	*E:	*	*	*E:	*	*	*E:	*	*
 4An	wei-	>	4d#	wei-	>	4f#	wei-	>	4cc#	wei-	>
 8G#	-nen	.	8e	-nen	.	8g#	-nen	.	8b	-nen	.
 8G#	und	.	8e	und	.	8g#	und	.	8b	und	.
@@ -159,6 +169,7 @@
 =20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
 4E	rum,	.	4B	rum,	.	4e	rum,	.	4g#	rum,	.
 8r	.	.	8r	.	.	8r	.	.	8r	.	.
+*B:	*	*	*B:	*	*	*B:	*	*	*B:	*	*
 8C#	die	.	8B	die	.	8e	die	.	8g#	die	.
 4F#	schwa-	.	8A#XL	schwa-	.	4e	schwa-	.	4f#	schwa-	.
 .	.	.	8c#J	.	.	.	.	.	.	.	.
@@ -176,6 +187,7 @@
 4F#	stumm,	.	4e	stumm,	.	4f#	stumm,	.	4a#X	stumm,	.
 4B	sie	.	8r	.	.	8r	.	.	8r	.	.
 .	.	p	8d#	sie	p	8f#	sie	p	8b	sie	p
+*E:	*	*	*E:	*	*	*E:	*	*	*E:	*	*
 4An	wei-	.	4d#	wei-	.	4f#	wei-	.	4cc#	wei-	.
 8G#	-nen	.	8e	-nen	.	8g#	-nen	.	8b	-nen	.
 8G#	und	.	8e	und	.	8g#	und	.	8b	und	.
