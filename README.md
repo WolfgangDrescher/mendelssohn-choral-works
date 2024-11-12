@@ -13,6 +13,11 @@
 | 41  | 5 |                                                                                                                                                                                     |
 | 41  | 6 |                                                                                                                                                                                     |
 | 48  | 1 | [Frühlingsahnung](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/mendelssohn-choral-works/master/kern/48-1-fruehlingsahnung.krn)              |
+| 48  | 2 |                                                                                                                                                                                     |
+| 48  | 3 |                                                                                                                                                                                     |
+| 48  | 4 |                                                                                                                                                                                     |
+| 48  | 5 |                                                                                                                                                                                     |
+| 48  | 6 |                                                                                                                                                                                     |
 | 59  | 1 | [Im Grünen](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/mendelssohn-choral-works/master/kern/59-1-im-gruenen.krn)                          |
 | 59  | 2 | [Frühzeitiger Frühling](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/mendelssohn-choral-works/master/kern/59-2-fruehzeitiger-fruehling.krn) |
 | 59  | 3 | [Abschied vom Walde](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/mendelssohn-choral-works/master/kern/59-3-abschied-vom-walde.krn)         |
