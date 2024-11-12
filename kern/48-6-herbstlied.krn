@@ -11,7 +11,7 @@
 *I"Bass	*	*	*I"Tenor	*	*	*I"Alt	*	*	*I"Sopran	*	*
 *clefF4	*	*	*clefGv2	*	*	*clefG2	*	*	*clefG2	*	*
 *k[f#]	*	*	*k[f#]	*	*	*k[f#]	*	*	*k[f#]	*	*
-*G:	*	*	*G:	*	*	*G:	*	*	*G:	*	*
+*e:	*	*	*e:	*	*	*e:	*	*	*e:	*	*
 *M3/8	*	*	*M3/8	*	*	*M3/8	*	*	*M3/8	*	*
 *MM40	*	*	*MM40	*	*	*MM40	*	*	*MM40	*	*
 =	=	=	=	=	=	=	=	=	=	=	=
@@ -41,6 +41,7 @@
 =5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
 8.E	sah	.	8.c	sah	.	8.g	sah	.	8.b	sah	.
 16E	dein	<	16c	dein	<	16g	dein	<	16a	dein	<
+*G:	*	*	*G:	*	*	*G:	*	*	*G:	*	*
 16D	fro-	.	16c	fro-	.	16f#	fro-	.	16dd	fro-	.
 16D	-hes	.	16c	-hes	.	16f#	-hes	.	16a	-hes	.
 =6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
@@ -54,6 +55,7 @@
 16G	ban-	.	16B	ban-	.	16e	ban-	.	16ee	ban-	.
 16F#	-ges	.	16B	-ges	.	16f#	-ges	.	16dd	-ges	.
 =8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+*b:	*	*	*b:	*	*	*b:	*	*	*b:	*	*
 8EL	Trei-	.	8B	Trei-	.	8g	Trei-	.	8dd	Trei-	.
 8EJ	-ben,	.	8A#X	-ben,	.	8g	-ben,	.	8cc#X	-ben,	.
 8r	.	.	8r	.	.	16.f#	braust	f	8r	.	.
@@ -64,9 +66,11 @@
 8BB	des	.	8f#	des	.	.	.	.	8dd	des	.
 =10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
 (8EL	Herb-	.	8e	Herb-	.	8gL	.	.	(8cc#XL	Herb-	.
+*G:	*	*	*G:	*	*	*G:	*	*	*G:	*	*
 8F#J)	.	>	4d	-stes	>	8aJ)	.	>	8ccnJ)	.	>
 8G	-stes	.	.	.	.	8g	-stes	.	8b	-stes	.
 =11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+*b:	*	*	*b:	*	*	*b:	*	*	*b:	*	*
 8G	ban-	.	8B	ban-	.	8e	ban-	.	4ee	ban-	.
 8G	-ges	.	8B	-ges	.	8e	-ges	.	.	.	.
 8r	.	.	8r	.	.	8r	.	.	(16eeL	-ges	.
@@ -83,6 +87,7 @@
 .	.	.	.	.	.	.	.	.	16f#	trau-	.
 .	.	.	.	.	.	.	.	.	16f#	-rig	[[
 =14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+*C:	*	*	*C:	*	*	*C:	*	*	*C:	*	*
 4.r	.	.	16.B	Wie	pp	16.d	Wie	pp	4.g	fuhr	.
 .	.	.	32Bk	der	.	32dk	der	.	.	.	.
 .	.	.	16B	Wind	.	16d	Wind	.	.	.	.
@@ -92,6 +97,7 @@
 =15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
 16.C	Wie	p	(8c	fuhr	.	(8e	fuhr	.	16.g	durch	.
 32Ck	der	.	.	.	.	.	.	.	32g#X	den	<
+*G:	*	*	*G:	*	*	*G:	*	*	*G:	*	*
 16C	Wind	<	4e)	.	<	4g)	.	<	16a	Strauch,	.
 16C	so	.	.	.	.	.	.	.	16a	als	.
 16C#X	trau-	.	.	.	.	.	.	.	16a	ob	.
@@ -104,6 +110,7 @@
 16D	durch	.	16A	ob	.	16f#	ob	.	.	.	.
 16D	den	.	16A	er	.	16f#	er	.	.	.	.
 =17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+*e:	*	*	*e:	*	*	*e:	*	*	*e:	*	*
 8.D#X	Strauch,	f	(8AL	wei-	f	8f#	wei-	f	16.cc	durch	f
 .	.	.	.	.	.	.	.	.	32cc	den	.
 .	.	.	8.f#	.	.	4a	.	.	16cc	Strauch,	.
@@ -192,6 +199,7 @@
 .	.	.	.	.	.	.	.	.	16f#	durch	.
 .	.	.	.	.	.	.	.	.	16f#	den	[[
 =32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32
+*C:	*	*	*C:	*	*	*C:	*	*	*C:	*	*
 4.r	.	.	16.B	Fra-	pp	16.dnX	Fra-	pp	4.g	Wald:	.
 .	.	.	32Bk	-gend	.	32dk	-gend	.	.	.	.
 .	.	.	16B	rauscht	.	16d	rauscht	.	.	.	.
@@ -201,6 +209,7 @@
 =33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33
 4.r	.	.	(4c	Wald:	.	(8e	Wald:	.	16g	hat	.
 .	.	.	.	.	.	.	.	.	16g#X	dein	.
+*G:	*	*	*G:	*	*	*G:	*	*	*G:	*	*
 .	.	.	.	.	<	4g)	.	<	16.a	Herz	<
 .	.	.	.	.	.	.	.	.	32ak	sein	.
 .	.	.	8c#X)	.	.	.	.	.	16a	Glück	.
@@ -213,6 +222,7 @@
 .	.	.	16d	Glück	.	16f#	Glück	.	.	.	.
 .	.	.	16d	ge-	.	16f#	ge-	.	.	.	.
 =35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35
+*e:	*	*	*e:	*	*	*e:	*	*	*e:	*	*
 16.D#X	Fra-	f	8f#	-fun-	f	8a	-fun-	f	16.cc	Fra-	f
 32D#k	-gend	.	.	.	.	.	.	.	32cck	-gend	.
 16D#	rauscht	.	8f#	-den?	.	8a	-den?	.	16cc	rauscht	.
@@ -278,6 +288,7 @@
 =48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48
 4E	Hof-	.	4F#	Hof-	.	4d#	Hof-	.	4a	Hof-	.
 4E	-fen,	.	4E	-fen,	.	4e	-fen,	.	4g#	-fen,	.
+*B:	*	*	*B:	*	*	*B:	*	*	*B:	*	*
 4.E	treu-	f	4.e	treu-	f	4.g#	treu-	f	4.gg#	treu-	f
 8c#	-lich	.	8e	-lich	.	8g#	-lich	.	8ee	-lich	.
 =49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49
@@ -311,6 +322,7 @@
 .	.	.	8B	-des-	.	.	.	.	.	.	.
 =55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55
 2r	.	.	1B	-rau-	<	2r	.	.	2r	.	.
+*f#:	*	*	*f#:	*	*	*f#:	*	*	*f#:	*	*
 4.G#	Wal-	<	.	.	.	4.e#X	Wal-	<	4.ddn	Wal-	<
 8G#	-des-	.	.	.	[	8e#	-des-	.	8dd	-des-	.
 =56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56
@@ -328,6 +340,7 @@
 =59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59
 4F#	mir	.	4c#	mir	.	4a	mir	.	4a	mir	.
 4F#	das	.	4c#	das	.	4a	das	.	4cc#	das	.
+*E:	*	*	*E:	*	*	*E:	*	*	*E:	*	*
 4.F#^	Herz	.	4.cn^	Herz	.	4.a^	Herz	.	4.ff#^	Herz	.
 8F#	ge-	.	8c	ge-	.	8a	ge-	.	8ee	ge-	.
 =60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60
