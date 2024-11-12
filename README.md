@@ -1,6 +1,7 @@
 # Mendelssohn Choral Works
 
 * Op. 41 https://mdz-nbn-resolving.de/details:bsb11150717
+* Op. 48 https://mdz-nbn-resolving.de/details:bsb11328486
 * Op. 59 https://mdz-nbn-resolving.de/details:bsb11379755
 
 | Op. | № | Title                                                                                                                                                                               |
@@ -11,6 +12,7 @@
 | 41  | 4 | [Auf ihrem Grab](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/mendelssohn-choral-works/master/kern/41-4-auf-ihrem-grab.krn)                 |
 | 41  | 5 |                                                                                                                                                                                     |
 | 41  | 6 |                                                                                                                                                                                     |
+| 48  | 1 | [Frühlingsahnung](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/mendelssohn-choral-works/master/kern/48-1-fruehlingsahnung.krn)              |
 | 59  | 1 | [Im Grünen](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/mendelssohn-choral-works/master/kern/59-1-im-gruenen.krn)                          |
 | 59  | 2 | [Frühzeitiger Frühling](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/mendelssohn-choral-works/master/kern/59-2-fruehzeitiger-fruehling.krn) |
 | 59  | 3 | [Abschied vom Walde](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/mendelssohn-choral-works/master/kern/59-3-abschied-vom-walde.krn)         |
