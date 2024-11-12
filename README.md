@@ -13,7 +13,7 @@
 | 41  | 5 |                                                                                                                                                                                     |
 | 41  | 6 |                                                                                                                                                                                     |
 | 48  | 1 | [Frühlingsahnung](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/mendelssohn-choral-works/master/kern/48-1-fruehlingsahnung.krn)              |
-| 48  | 2 |                                                                                                                                                                                     |
+| 48  | 2 | [Die Primel](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/mendelssohn-choral-works/master/kern/48-2-die-primel.krn)                         |
 | 48  | 3 |                                                                                                                                                                                     |
 | 48  | 4 |                                                                                                                                                                                     |
 | 48  | 5 |                                                                                                                                                                                     |
