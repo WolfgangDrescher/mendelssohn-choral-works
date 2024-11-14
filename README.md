@@ -25,3 +25,6 @@
 | 59  | 5 | [Ruhethal](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/mendelssohn-choral-works/master/kern/59-5-ruhethal.krn)                             |
 | 59  | 6 | [Jagdlied](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/mendelssohn-choral-works/master/kern/59-6-jagdlied.krn)                             |
 | 100 | 1 | [Andenken](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/mendelssohn-choral-works/master/kern/100-1-andenken.krn)                            |
+| 100 | 2 |                                                                                                                                                                                     |
+| 100 | 3 |                                                                                                                                                                                     |
+| 100 | 4 |                                                                                                                                                                                     |
