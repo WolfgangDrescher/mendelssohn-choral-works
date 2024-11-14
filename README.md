@@ -32,5 +32,5 @@
 | 88  | 6 | Der wandernde Musikant                                                                                                                                                              |
 | 100 | 1 | [Andenken](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/mendelssohn-choral-works/master/kern/100-1-andenken.krn)                            |
 | 100 | 2 | [Lob des Frühlings](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/mendelssohn-choral-works/master/kern/100-2-lob-des-fruehlings.krn)         |
-| 100 | 3 | Frühlingslied                                                                                                                                                                       |
+| 100 | 3 | [Frühlingslied](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/mendelssohn-choral-works/master/kern/100-3-fruehlingslied.krn)                 |
 | 100 | 4 | Im Wald                                                                                                                                                                             |
