@@ -3,6 +3,7 @@
 * Op. 41 https://mdz-nbn-resolving.de/details:bsb11150717
 * Op. 48 https://mdz-nbn-resolving.de/details:bsb11328486
 * Op. 59 https://mdz-nbn-resolving.de/details:bsb11379755
+* Op. 100 https://mdz-nbn-resolving.de/details:bsb00026636
 
 | Op. | № | Title                                                                                                                                                                               |
 |-----|---|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
