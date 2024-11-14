@@ -1,0 +1,195 @@
+!!!COM: Mendelssohn, Felix
+!!!CDT: 1809/02/03-1847/11/04
+!!!OPR: Vier vierstimmige Lieder
+!!!OTL: Frühlingslied
+!!!OPS: Op. 100
+!!!ONM: Nr. 4
+!!!OMD: Allegro moderato
+**kern	**text	**text	**dynam	**kern	**text	**text	**dynam	**kern	**text	**text	**dynam	**kern	**text	**text	**dynam
+*part4	*part4	*part4	*part4	*part3	*part3	*part3	*part3	*part2	*part2	*part2	*part2	*part1	*part1	*part1	*part1
+*staff4	*staff4	*staff4	*	*staff3	*staff3	*staff3	*	*staff2	*staff2	*staff2	*	*staff1	*staff1	*staff1	*
+*I"Bass	*	*	*	*I"Tenor	*	*	*	*I"Alt	*	*	*	*I"Sopran	*	*	*
+*clefF4	*	*	*	*clefGv2	*	*	*	*clefG2	*	*	*	*clefG2	*	*	*
+*k[f#c#]	*	*	*	*k[f#c#]	*	*	*	*k[f#c#]	*	*	*	*k[f#c#]	*	*	*
+*M4/4	*	*	*	*M4/4	*	*	*	*M4/4	*	*	*	*M4/4	*	*	*
+*met(c)	*	*	*	*met(c)	*	*	*	*met(c)	*	*	*	*met(c)	*	*	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+4D	1.O	2.O	f	4d	1.O	2.O	f	4f#	1.O	2.O	f	4a	1.O	2.O	f
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+4.d	Wald,	Wald,	.	4.f#	Wald,	Wald,	.	4.a	Wald,	Wald,	.	4.dd	Wald,	Wald,	.
+8d	du	du	.	8d	du	du	.	8f#	du	du	.	8a	du	du	.
+4A	küh-	Tem-	.	4d	küh-	Tem-	.	4a	küh-	Tem-	.	4ff#	küh-	Tem-	.
+8G	-len-	-pel	.	8c#	-len-	-pel	.	8a	-len-	-pel	.	8ee	-len-	-pel	.
+8F#	-der	der	.	8d	-der	der	.	8a	-der	der	.	8dd	-der	der	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+2F#	Bron-	Tö-	.	2d	Bron-	Tö-	.	2a	Bron-	Tö-	.	2dd	Bron-	Tö-	.
+[2D	-nen!	-ne,	.	4d	-nen,	-ne,	.	4f#	-nen,	-ne,	.	4a	-nen,	-ne,	.
+.	.	.	.	4d	wie	hoch	p	4f#	wie	hoch	p	4a	wie	hoch	p
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+1D]	.	.	p	4d	labst	wölbt	.	4g	labst	wölbt	.	4b	labst	wölbt	.
+.	.	.	.	8d	du	sich	.	8f#	du	sich	.	8a	du	sich	.
+.	.	.	.	8d	die	dein	.	8f#	die	dein	.	8dd	die	dein	.
+.	.	.	.	4d	lech-	grü-	.	4g	lech-	grü-	.	4b	lech-	grü-	.
+.	.	.	.	8d	-zen-	-nen-	.	8f#	-zen-	-nen-	.	8a	-zen-	-nen-	.
+.	.	.	.	8d	-de	-des	.	8f#	-de	-des	.	8dd	-de	-des	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+2r	.	.	.	2.d	Brust!	Dach,	.	(2g	Brust!	Dach,	.	(2b	Brust!	Dach,	.
+4r	.	.	.	.	.	.	.	4f#)	.	.	.	4a)	.	.	.
+4D	Vom	hell	.	4d	Vom	hell	.	4f#	Vom	hell	.	4a	Vom	hell	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+4A	sen-	klingt	<	4c#	sen-	klingt	<	4e	sen-	klingt	<	4a	sen-	klingt	<
+8A	-gen-	in	.	8c#	-gen-	in	.	8a	-gen-	in	.	8a	-gen-	in	.
+8A	-den	ver-	.	8c#	-den	ver-	.	8a	-den	ver-	.	8a	-den	ver-	.
+4A	Bran-	-dop-	.	4d	Bran-	-dop-	.	4g#X	Bran-	-dop-	.	4b	Bran-	-dop-	.
+8A	-de	-pel-	.	8c#	-de	-pel-	.	8g#	-de	-pel-	.	8a	-de	-pel-	.
+8A	der	-ter	.	8d	der	-ter	.	8g#	der	-ter	.	8b	der	-ter	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+2A^	Son-	Schö-	.	2f#^	Son-	Schö-	.	2a^	Son-	Schö-	.	2dd^	Son-	Schö-	.
+4A	-ne	-ne	.	4e	-ne	-ne	.	4a	-ne	-ne	.	4cc#	-ne	-ne	.
+4A	lädst	Ge-	.	4e	lädst	Ge-	.	4a	lädst	Ge-	.	4cc#	lädst	Ge-	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+4A	du	-sang	.	4e	du	-sang	.	4a	du	-sang	.	4cc#	du	-sang	.
+8A	zu	in	<	8e	zu	in	<	8a	zu	in	<	8cc#	zu	in	<
+8A	er-	den	.	8e	er-	den	.	8a	er-	den	.	8cc#	er-	den	.
+4B	-fri-	Wi-	.	4d	-fri-	Wi-	.	4g#X	-fri-	Wi-	.	4dd	-fri-	Wi-	.
+8A	-schen-	-pfeln	.	8e	-schen-	-pfeln	.	8g#	-schen-	-pfeln	.	8cc#	-schen-	-pfeln	.
+8B	-der	noch	.	8d	-der	noch	.	8g#	-der	noch	.	8dd	-der	noch	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+2c#	Lust,	nach,	.	(1c#	Lust,	nach,	.	2a	Lust,	nach,	.	2.ee	Lust,	nach,	.
+2r	.	.	.	.	.	.	.	2gnX	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	4a	lädst	Ge-	f
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+1r	.	.	.	4d)	.	.	.	4f#	.	.	.	(4ff#	du	-sang	.
+.	.	.	.	4r	.	.	.	4r	.	.	.	4cc#)	.	.	.
+.	.	.	.	4r	.	.	.	2r	.	.	.	4dd	zu	in	.
+.	.	.	.	4A	lädst	Ge-	f	.	.	.	.	4ee	er-	den	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+2r	.	.	.	(4f#	du	-sang	.	2r	.	.	.	(4.a	-fri-	Wi-	.
+.	.	.	.	4c#)	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	8b)	-schen-	.	.
+4r	.	.	.	4d	zu	in	.	4r	.	.	.	4a	-der,	pfeln,	.
+4C#	er-	den	f	4e	er-	den	.	4g	er-	den	f	4a	er-	den	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+(4D	-fri-	Wi-	.	(4.A	-fri-	Wi-	.	2f#	-fri-	Wi-	.	(4a	-fri-	Wi-	.
+4F#)	.	.	.	.	.	.	.	.	.	.	.	4dd)	.	.	.
+.	.	.	.	8B)	.	.	.	.	.	.	.	.	.	.	.
+4A	-schen-	-pfeln	.	4A	-schen-	pfeln,	.	4g	-schen-	-pfeln	.	4cc#	-schen-	-pfeln	.
+4A	-der	noch	.	4A	-der	noch	.	4g	-der	noch	.	(8ff#L	-der	noch	.
+.	.	.	.	.	.	.	.	.	.	.	.	8eeJ)	.	.	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+2D	Lust.	nach.	.	2A	Lust.	nach.	.	2f#	Lust.	nach.	.	2dd	Lust.	nach.	.
+4r	.	.	.	4r	.	.	.	4r	.	.	.	4r	.	.	.
+4D	.	.	pp	4A	Und	Und	pp	4fn	Und	Und	pp	4a	Und	Und	pp
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+4D	ruh’n	rührt	.	4A	ruh’n	rührt	.	4fn	ruh’n	rührt	.	4a	ruh’n	rührt	.
+8D	wir	uns	.	8A	wir	uns	.	8e	wir	uns	.	8g	wir	uns	.
+8D	be-	beim	.	8A	be-	beim	.	8d	be-	beim	.	8fn	be-	beim	.
+4D	-schat-	Klan-	.	4A	-schat-	Klan-	.	4f	-schat-	Klan-	.	4a	-schat-	Klan-	.
+8D	-tet	-ge	.	8A	-tet	-ge	.	8e	-tet	-ge	.	8g	-tet	-ge	.
+8D	von	der	.	8A	von	der	.	8d	von	der	.	8f	von	der	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+2E	Zwei-	Lie-	.	2A	Zwei-	Lie-	.	2c#	Zwei-	Lie-	.	2e	Zwei-	Lie-	.
+4E	-gen,	-der	.	4A	-gen,	-der	.	4c#	-gen,	-der	.	4a	-gen,	-der	.
+4E	das	des	.	4A	das	des	.	4c#	das	des	.	4cc#	das	des	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+4E	Au-	Got-	.	4G#X	Au-	Got-	.	4d	Au-	Got-	.	4b	Au-	Got-	.
+8E	-ge	-tes	.	8A	-ge	-tes	.	8d	-ge	-tes	.	8a	-ge	-tes	.
+8E	zum	all-	.	8B	zum	all-	.	8d	zum	all-	.	8g#X	zum	all-	.
+4E	Ae-	-mäch-	.	4G#	Ae-	-mäch-	.	4d	Ae-	-mäch-	.	4dd	Ae-	-mäch-	.
+8E	-ther	-ti-	.	8G#	-ther	-ti-	.	8d	-ther	-ti-	.	8cc#	-ther	-ti-	.
+8E	ge-	-ge	.	8G#	ge-	-ge	.	8d	ge-	-ge	.	8b	ge-	-ge	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+2A	-wandt,	Hand,	.	2A	-wandt,	Hand,	.	2c#	-wandt,	Hand,	.	2a	-wandt,	Hand,	.
+2AA	so	dann	p	4r	.	.	.	4r	.	.	.	4r	.	.	.
+.	.	.	.	4A	so	dann	p	4fn	so	dann	p	4a	so	dann	p
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+[1AA	scheint	säu-	.	4A	scheint	säu-	.	4fn	scheint	säu-	.	4a	scheint	säu-	.
+.	.	.	.	8GnX	sich	-selt’s	.	8e	sich	-selt’s	.	8a	sich	-selt’s	.
+.	.	.	.	8Fn	der	aus	.	8d	der	aus	.	8a	der	aus	.
+.	.	.	.	4A	Him-	Zwei-	.	4f	Him-	Zwei-	.	4a	Him-	Zwei-	.
+.	.	.	.	8G	-mel	-gen	.	8e	-mel	-gen	.	8a	-mel	-gen	.
+.	.	.	.	8F	zu	her-	.	8d	zu	her-	.	8a	zu	her-	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+2AA]	.	.	.	2E	nei-	-nie-	.	2c#	nei-	-nie-	.	2a	nei-	-nie-	.
+4AA	sich	-selt’s	.	4A	-gen,	-der,	.	4c#	-gen,	-der,	.	4e	-gen,	-der,	.
+4A	der	aus	.	4c#	so	dann	.	4e	so	dann	.	4cc#	der	aus	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+2G#X	Him-	Zwei-	.	4d	scheint	säu-	.	4e	scheint	säu-	.	2b	Him-	Zwei-	.
+.	.	.	<	8d	sich	-selt’s	<	8e	sich	-selt’s	<	.	.	.	<
+.	.	.	.	8d	der	aus	.	8e	der	aus	.	.	.	.	.
+4G#	-mel	-gen	.	4d	Him-	Zwei-	.	4e	Him-	Zwei-	.	4b	-mel	-gen	.
+4G#	zu	her-	.	8d	-mel	-gen	.	8e	-mel	-gen	.	4b	zu	her-	.
+.	.	.	.	8d	zu	her-	.	8e	zu	her-	.	.	.	.	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+2GnX	nei-	-nie-	.	2d	nei-	-nie-	.	2e	nei-	-nie-	.	(4ee	nei-	-nie	.
+.	.	.	.	.	.	.	.	.	.	.	.	4dd)	.	.	.
+2G	-gen,	-der,	.	2d	-gen,	-der,	.	2e	-gen,	-der,	.	(4cc#	-gen,	der	.
+.	.	.	.	.	.	.	.	.	.	.	.	4b)	.	.	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+1G	kühl	wie	f	1c#	kühl	wie	f	1e	kühl	wie	f	2a	kühl	wie	f
+.	.	.	.	.	.	.	.	.	.	.	.	([2aa	weht’s	Träu-	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+2F#	weht’s	Träu-	.	2d	weht’s	Träu-	.	(4a	weht’s	Träu-	.	4aa]	.	.	.
+.	.	.	.	.	.	.	.	4a#X)	.	.	.	4ff#)	.	.	.
+4G	wie	-me	.	4d	wie	-me	.	4b	wie	-me	.	4dd	wie	-me	.
+4G	aus	aus	.	4d	aus	aus	.	(8anL	aus	aus	.	(8cc#L	aus	aus	.
+.	.	.	.	.	.	.	.	8gJ)	.	.	.	8bJ)	.	.	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+2A	himm-	himm-	.	2d	himm-	himm-	.	2f#	himm-	himm-	.	(4a	himm-	himm-	.
+.	.	.	.	.	.	.	.	.	.	.	.	4dd)	.	.	.
+4A	-li-	-li-	.	4e	-li-	-li-	.	4g	-li-	-li-	.	4cc#	-li-	-li-	.
+4A	-schem	-schem	.	(8dL	-schem	-schem	.	4g	-schem	-schem	.	(8ff#L	-schem	-schem	.
+.	.	.	.	8c#J)	.	.	.	.	.	.	.	8eeJ)	.	.	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+2d	Land,	Land,	.	2d	Land,	Land,	.	2f#	Land,	Land,	.	2dd	Land,	Land,	.
+2r	.	.	.	2A	kühl	dann	p	2r	.	.	.	2r	.	.	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+2r	.	.	.	(4f#	weht’s	Träu-	.	2r	.	.	.	2r	.	.	.
+.	.	.	.	4c#)	.	.	.	.	.	.	.	.	.	.	.
+4r	.	.	.	4d	wie	-me	.	4r	.	.	.	2a	kühl	wie	p
+4C#	kühl	dann	p	4e	aus	aus	.	4g	kühl	dann	p	.	.	.	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+2D	weht’s	säu-	.	4.A	himm-	himm-	.	2f#	weht’s	säu-	.	(4ff#	weht’s	Träu-	.
+.	.	.	.	.	.	.	.	.	.	.	.	4cc#)	.	.	.
+.	.	.	.	8B	-li-	-li-	.	.	.	.	.	.	.	.	.
+4r	.	.	.	4A	-schem,	-schem,	.	4r	.	.	.	4dd	wie	-me	.
+4C#	kühl	-selt	.	4A	aus	aus	.	4g	kühl	-selt	.	4ee	aus	aus	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+2D	weht’s	sanft	.	(4f#	himm-	himm-	.	2f#	weht’s	sanft	.	4.a	himm-	himm-	.
+.	.	.	.	4c#)	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	8b	-li-	-li-	.
+4D	wie	wie	.	4d	-li-	-li-	.	4f#	wie	wie	.	4a	-schem,	-schem,	.
+4C#	aus	aus	.	4e	-schem	-schem,	.	4g	aus	aus	.	4a	aus	aus	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+2D	himm-	himm-	.	(4.A	Land,	Land,	.	2f#	himm-	himm-	.	(4ff#	himm-	himm-	.
+.	.	.	.	.	.	.	.	.	.	.	.	4cc#)	.	.	.
+.	.	.	.	8B	.	.	.	.	.	.	.	.	.	.	.
+4D	-li-	-li-	.	[2A	.	.	.	4f#	-li-	-li-	.	4dd	-li-	-li-	.
+4C#	-schem	-schem	.	.	.	.	.	4g	-schem	-schem	.	4ee	-schem	-schem	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+2D	Land,	Land,	.	2A])	.	.	.	2f#	Land,	Land,	.	2a	Land,	Land,	.
+2F#	kühl	wie	f	2A#X	kühl	wie	f	2f#	kühl	wie	f	2dd	kühl	wie	f
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+(4F#	weht’s	Träu-	.	(4A#X	weht’s	Träu-	.	(4e	weht’s	Träu-	.	(4cc#	weht’s	Träu-	.
+4G)	.	.	.	4B)	.	.	.	4d)	.	.	.	4b)	.	.	.
+4G	wie	-me	.	4B	wie	-me	.	4a	wie	-me	.	4ff#	wie	-me	.
+4G	aus	aus	.	4e	aus	aus	.	4g	aus	aus	.	4ee	aus	aus	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+2A	himm-	himm-	.	2e	himm-	himm-	.	2g	himm-	himm-	.	2dd	himm-	himm-	.
+4.A	-li-	-li-	.	4.e	-li-	-li-	.	4.g	-li-	-li-	.	4.cc#	-li-	-li-	.
+8A	-schem	-schem	.	8e	-schem	-schem	.	8g	-schem	-schem	.	8dd	-schem	-schem	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+2.D;	Land.	Land.	.	2.d;	Land.	Land.	.	2.f#;	Land.	Land.	.	2.dd;	Land.	Land.	.
+==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: ([s1,s2,s3,s4])
+!!!RDF**kern: i = editorial accidental
+!!!AGN: Choral
+!!!YOR: https://mdz-nbn-resolving.de/details:bsb00026636
+!!!YOO: München, Bayerische Staatsbibliothek
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb00026636?page=5
+!!!EED: Wolfgang Drescher
+!!!END: 2024/11/15
+!!!ENC: Wolfgang Drescher
+!!!EEV: 2024/11/15
+!!!title: @{OPS} @{ONM}. @{OTL}
