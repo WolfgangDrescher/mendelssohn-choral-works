@@ -10,13 +10,13 @@
 | 41  | 2 | [Entflieh’ mit mir](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/mendelssohn-choral-works/master/kern/41-2-entflieh-mit-mir.krn)            |
 | 41  | 3 | [Es fiel ein Reif](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/mendelssohn-choral-works/master/kern/41-3-es-fiel-ein-reif.krn)             |
 | 41  | 4 | [Auf ihrem Grab](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/mendelssohn-choral-works/master/kern/41-4-auf-ihrem-grab.krn)                 |
-| 41  | 5 |                                                                                                                                                                                     |
-| 41  | 6 |                                                                                                                                                                                     |
+| 41  | 5 | Mailied                                                                                                                                                                             |
+| 41  | 6 | Auf dem See                                                                                                                                                                         |
 | 48  | 1 | [Frühlingsahnung](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/mendelssohn-choral-works/master/kern/48-1-fruehlingsahnung.krn)              |
 | 48  | 2 | [Die Primel](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/mendelssohn-choral-works/master/kern/48-2-die-primel.krn)                         |
 | 48  | 3 | [Frühlingsfeier](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/mendelssohn-choral-works/master/kern/48-3-fruehlingsfeier.krn)                |
-| 48  | 4 |                                                                                                                                                                                     |
-| 48  | 5 |                                                                                                                                                                                     |
+| 48  | 4 | Morgengebet                                                                                                                                                                         |
+| 48  | 5 | Herbstlied                                                                                                                                                                          |
 | 48  | 6 | [Herbstlied](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/mendelssohn-choral-works/master/kern/48-6-herbstlied.krn)                         |
 | 59  | 1 | [Im Grünen](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/mendelssohn-choral-works/master/kern/59-1-im-gruenen.krn)                          |
 | 59  | 2 | [Frühzeitiger Frühling](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/mendelssohn-choral-works/master/kern/59-2-fruehzeitiger-fruehling.krn) |
@@ -24,7 +24,13 @@
 | 59  | 4 | [Die Nachtigall](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/mendelssohn-choral-works/master/kern/59-4-die-nachtigall.krn)                 |
 | 59  | 5 | [Ruhethal](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/mendelssohn-choral-works/master/kern/59-5-ruhethal.krn)                             |
 | 59  | 6 | [Jagdlied](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/mendelssohn-choral-works/master/kern/59-6-jagdlied.krn)                             |
+| 88  | 1 | Neujahrslied                                                                                                                                                                        |
+| 88  | 2 | Der Glückliche                                                                                                                                                                      |
+| 88  | 3 | Hirtenlied                                                                                                                                                                          |
+| 88  | 4 | Die Waldvögelein                                                                                                                                                                    |
+| 88  | 5 | Deutschland                                                                                                                                                                         |
+| 88  | 6 | Der wandernde Musikant                                                                                                                                                              |
 | 100 | 1 | [Andenken](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/mendelssohn-choral-works/master/kern/100-1-andenken.krn)                            |
-| 100 | 2 |                                                                                                                                                                                     |
-| 100 | 3 |                                                                                                                                                                                     |
-| 100 | 4 |                                                                                                                                                                                     |
+| 100 | 2 | Lob des Frühlings                                                                                                                                                                   |
+| 100 | 3 | Frühlingslied                                                                                                                                                                       |
+| 100 | 4 | Im Wald                                                                                                                                                                             |
