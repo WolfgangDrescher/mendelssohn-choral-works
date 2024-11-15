@@ -11,6 +11,7 @@
 *I"Bass	*	*	*I"Tenor	*	*	*I"Alt	*	*	*I"Sopran	*	*
 *clefF4	*	*	*clefGv2	*	*	*clefG2	*	*	*clefG2	*	*
 *k[f#]	*	*	*k[f#]	*	*	*k[f#]	*	*	*k[f#]	*	*
+*G:	*	*	*G:	*	*	*G:	*	*	*G:	*	*
 *M6/8	*	*	*M6/8	*	*	*M6/8	*	*	*M6/8	*	*
 *MM120	*	*	*MM120	*	*	*MM120	*	*	*MM120	*	*
 =	=	=	=	=	=	=	=	=	=	=	=
@@ -135,6 +136,7 @@
 8G	in	.	8B	in	.	8d	in	.	8f#	in	.
 8G	der	.	8B	der	.	8d	der	.	8g	der	.
 =19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
+*e:	*	*	*e:	*	*	*e:	*	*	*e:	*	*
 4F#	Wald-	.	4c	Wald-	.	4d#X	Wald-	.	4a	Wald-	.
 8F#	-nacht	.	8c	-nacht	.	8d#	-nacht	.	8a	-nacht	.
 8E	zwi-	.	8c	zwi-	.	8e	zwi-	.	8a	zwi-	.
@@ -160,6 +162,7 @@
 8E	-keln	<	8B	-keln	<	8g	-keln	<	8a#X	-keln	<
 8E	die	.	8B	die	.	8g	die	.	8b	die	.
 =23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
+*b:	*	*	*b:	*	*	*b:	*	*	*b:	*	*
 4.E	Strö-	.	4.B	Strö-	.	4.g	Strö-	.	4.cc#X	Strö-	.
 4E	-me,	<	4B	-me,	<	4g	-me,	<	8cc#L	-me,	<
 .	.	.	.	.	.	.	.	.	8bJ	.	.
@@ -183,6 +186,7 @@
 8F#	mein	.	8d	mein	.	8f#	mein	.	8b	mein	.
 =28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28
 4.B;	.	.	4.d;	Herz!	.	4.f#;	.	.	4.b;	Herz!	.
+*f#:	*	*	*f#:	*	*	*f#:	*	*	*f#:	*	*
 4r	.	.	8B	Wie	p	8d	Wie	p	8f#	Wie	p
 .	.	.	8B	vom	.	8d	vom	.	8f#	vom	.
 8r	.	.	8B	Ge-	.	8d	Ge-	.	8f#	Ge-	.
@@ -226,6 +230,7 @@
 8F#	-ruft	.	8c#	-ruft	.	8f#	-ruft	.	8a	-ruft	.
 8F#	der	.	8c#	der	.	8f#	der	.	8a	der	.
 =35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35
+*G:	*	*	*G:	*	*	*G:	*	*	*G:	*	*
 4.EnX	däm-	.	4.A	däm-	.	4.gn	däm-	.	(4.cc#X	däm-	.
 4E	-mern-	<	4A	-mern-	<	4g	-mern-	<	8cc#)	.	<
 .	.	.	.	.	.	.	.	.	8b	-mern-	.
@@ -279,6 +284,7 @@
 4.GG	un-	sf	4.B	un-	sf	4.g	un-	sf	4.gg	un-	sf
 4.GG	-er-	.	4.B	-er-	.	4.g	-er-	.	4.dd	-er-	.
 =49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49
+*C:	*	*	*C:	*	*	*C:	*	*	*C:	*	*
 4.G	-mess-	.	4.d	-mess-	.	4.fn	-mess-	.	4.b	-mess-	.
 4G	-lich	.	4c	-lich	.	4f	-lich	.	4a	-lich	.
 8G	ist	.	8B	ist	.	8f	ist	.	8g	ist	.
@@ -289,6 +295,7 @@
 =51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51
 2.C	Lieb’,	.	2.c	Lieb’,	.	2.e	Lieb’,	.	2.ee	Lieb’,	.
 =52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52
+*a:	*	*	*a:	*	*	*a:	*	*	*a:	*	*
 4.c	so	p	4.e	so	p	4.a	so	p	4.a	so	p
 4d	un-	.	4fn	un-	.	4g#X	un-	.	4cc	un-	.
 8d	-er-	.	8f	-er-	.	8g#	-er-	.	8b	-er-	.
@@ -306,6 +313,7 @@
 =56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56
 4.c#]	.	.	(4.e]	.	.	4.a]	.	.	(4aa	un-	.
 .	.	.	.	.	.	.	.	.	8gg)	.	.
+*G:	*	*	*G:	*	*	*G:	*	*	*G:	*	*
 4.cnX	ist	f	4d)	.	.	4.a	ist	f	(4ff#	-er-	.
 .	.	.	8f#X	ist	f	.	.	.	8ee)	.	.
 =57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57
