@@ -17,8 +17,8 @@
 | 48  | 1 | [Frühlingsahnung](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/mendelssohn-choral-works/master/kern/48-1-fruehlingsahnung.krn)              |
 | 48  | 2 | [Die Primel](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/mendelssohn-choral-works/master/kern/48-2-die-primel.krn)                         |
 | 48  | 3 | [Frühlingsfeier](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/mendelssohn-choral-works/master/kern/48-3-fruehlingsfeier.krn)                |
-| 48  | 4 | Morgengebet                                                                                                                                                                         |
-| 48  | 5 | Herbstlied                                                                                                                                                                          |
+| 48  | 4 | Lerchengesang                                                                                                                                                                         |
+| 48  | 5 | Morgengebet                                                                                                                                                                          |
 | 48  | 6 | [Herbstlied](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/mendelssohn-choral-works/master/kern/48-6-herbstlied.krn)                         |
 | 59  | 1 | [Im Grünen](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/mendelssohn-choral-works/master/kern/59-1-im-gruenen.krn)                          |
 | 59  | 2 | [Frühzeitiger Frühling](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/mendelssohn-choral-works/master/kern/59-2-fruehzeitiger-fruehling.krn) |
