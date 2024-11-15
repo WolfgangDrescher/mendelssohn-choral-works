@@ -11,6 +11,7 @@
 *I"Bass	*	*	*I"Tenor	*	*	*I"Alt	*	*	*I"Sopran	*	*
 *clefF4	*	*	*clefGv2	*	*	*clefG2	*	*	*clefG2	*	*
 *k[f#c#g#]	*	*	*k[f#c#g#]	*	*	*k[f#c#g#]	*	*	*k[f#c#g#]	*	*
+*A:	*	*	*A:	*	*	*A:	*	*	*A:	*	*
 *M4/4	*	*	*M4/4	*	*	*M4/4	*	*	*M4/4	*	*
 *met(c)	*	*	*met(c)	*	*	*met(c)	*	*	*met(c)	*	*
 *MM120	*	*	*MM120	*	*	*MM120	*	*	*MM120	*	*
@@ -65,6 +66,7 @@
 =9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
 4.F#	dann	<	4.A	dann	<	4.c#	dann	<	4.a	dann	<
 8F#	noch	.	8c#	noch	.	8a	noch	.	8a	noch	.
+*D:	*	*	*D:	*	*	*D:	*	*	*D:	*	*
 4A	gro-	.	4c#	gro-	.	4gn	gro-	.	(8ff#L	gro-	.
 .	.	.	.	.	.	.	.	.	8eeJ)	.	.
 4A	-sser	.	(8dL	-sser	.	4g	-sser	.	(8ddL	-sser	.
@@ -73,10 +75,12 @@
 4A	Din-	sf	4e	Din-	sf	4gn	Din-	sf	4cc#	Din-	sf
 4D	-ge,	.	4d	-ge,	.	4f#	-ge,	.	4dd	-ge,	.
 (4D'	dich	.	(4A'	dich	.	(4f#'	dich	.	(4ff#'	dich	.
+*b:	*	*	*b:	*	*	*b:	*	*	*b:	*	*
 4D'	zu	>	4A#X'	zu	>	4f#'	zu	>	4ee'	zu	>
 =11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
 4D'	prei-	.	4B'	prei-	.	4f#'	prei-	.	4dd'	prei-	.
 4D'	-sen,	]	4e'	-sen,	]	4f#'	-sen,	]	4cc#'	-sen,	]
+*A:	*	*	*A:	*	*	*A:	*	*	*A:	*	*
 4D'	Früh-	.	4d'	Früh-	.	4f#'	Früh-	.	4b')	Früh-	.
 4D#X')	-lings-	.	4cn')	-lings-	.	4f#')	-lings-	.	(8bL	-lings-	.
 .	.	.	.	.	.	.	.	.	8aJ)	.	.
@@ -116,6 +120,7 @@
 4.E	Veil	<	4B	duft,	.	4e	duft,	.	4g#	duft,	.
 .	.	.	4r	.	.	4r	.	.	4r	.	.
 8E	chen	.	.	.	.	.	.	.	.	.	.
+*b:	*	*	*b:	*	*	*b:	*	*	*b:	*	*
 2E	duft,	.	4.e	Ler-	sf	4.gn	Ler-	sf	4.cc#	Ler-	sf
 .	.	.	8d	-chen-	.	8g	-chen-	.	8b	-chen-	.
 =19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
@@ -144,6 +149,7 @@
 =22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
 2r	.	.	[1B	Luft,	p	4f#	Luft,	.	4g#	Luft,	.
 .	.	.	.	.	.	4r	.	.	4r	.	.
+*f#:	*	*	*f#:	*	*	*f#:	*	*	*f#:	*	*
 4.D	lin-	p	.	.	.	4.f#	lin-	p	4.g#	lin-	p
 8D	-de	.	.	.	.	8f#	-de	.	8g#	-de	.
 =23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
@@ -153,6 +159,7 @@
 =24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
 4.F#	sol-	.	4.A	sol-	.	4.c#	sol-	.	4.f#	sol-	.
 8F#	-che	.	8A	-che	.	8c#	-che	.	8f#	-che	.
+*A:	*	*	*A:	*	*	*A:	*	*	*A:	*	*
 4D	Wor-	.	(8BL	Wor-	.	(8dL	Wor-	.	(8ddL	Wor-	.
 .	.	.	8c#J)	.	.	8enXJ)	.	.	8cc#J)	.	.
 4D	-te	.	4d	-te	.	4f#	-te	.	(8bL	-te	.
@@ -166,6 +173,7 @@
 =26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26
 4.A	dann	.	4.c#	dann	.	4.e	dann	.	4.a	dann	.
 8A	noch	.	8d	noch	.	8f#	noch	.	8a	noch	.
+*D:	*	*	*D:	*	*	*D:	*	*	*D:	*	*
 4A	gro-	.	4c#	gro-	.	4gn	gro-	.	(8ff#L	gro-	.
 .	.	.	.	.	.	.	.	.	8eeJ)	.	.
 4A	-sser	.	(8dL	-sser	.	4g	-sser	.	(8ddL	-sser	.
@@ -174,10 +182,12 @@
 4A	Din-	.	4e	Din-	.	4gn	Din-	.	4cc#	Din-	.
 4D	-ge,	.	4d	-ge,	.	4f#	-ge,	.	4dd	-ge,	.
 4D	dich	.	4A	dich	.	4f#	dich	.	4ff#	dich	.
+*b:	*	*	*b:	*	*	*b:	*	*	*b:	*	*
 4D	zu	.	4A#X	zu	.	4f#	zu	.	4ee	zu	.
 =28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28
 4D	prei-	.	4B	prei-	.	4f#	prei-	.	4dd	prei-	.
 4D	-sen,	.	4e	-sen,	.	4f#	-sen,	.	4cc#	-sen,	.
+*A:	*	*	*A:	*	*	*A:	*	*	*A:	*	*
 4D	Früh-	.	4d	Früh-	.	4f#	Früh-	.	4b	Früh-	.
 4D#X	-lings-	.	4cn	-lings-	.	4f#	-lings-	.	(8bL	-lings-	.
 .	.	.	.	.	.	.	.	.	8aJ)	.	.

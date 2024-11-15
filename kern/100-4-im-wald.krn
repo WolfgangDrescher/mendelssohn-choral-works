@@ -11,6 +11,7 @@
 *I"Bass	*	*	*	*I"Tenor	*	*	*	*I"Alt	*	*	*	*I"Sopran	*	*	*
 *clefF4	*	*	*	*clefGv2	*	*	*	*clefG2	*	*	*	*clefG2	*	*	*
 *k[f#c#]	*	*	*	*k[f#c#]	*	*	*	*k[f#c#]	*	*	*	*k[f#c#]	*	*	*
+*D:	*	*	*	*D:	*	*	*	*D:	*	*	*	*D:	*	*	*
 *M4/4	*	*	*	*M4/4	*	*	*	*M4/4	*	*	*	*M4/4	*	*	*
 *met(c)	*	*	*	*met(c)	*	*	*	*met(c)	*	*	*	*met(c)	*	*	*
 =	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
@@ -79,6 +80,7 @@
 =12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
 2D	Lust.	nach.	.	2A	Lust.	nach.	.	2f#	Lust.	nach.	.	2dd	Lust.	nach.	.
 4r	.	.	.	4r	.	.	.	4r	.	.	.	4r	.	.	.
+*A:	*	*	*	*A:	*	*	*	*A:	*	*	*	*A:	*	*	*
 4D	.	.	pp	4A	Und	Und	pp	4fn	Und	Und	pp	4a	Und	Und	pp
 =13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
 4D	ruh’n	rührt	.	4A	ruh’n	rührt	.	4fn	ruh’n	rührt	.	4a	ruh’n	rührt	.
@@ -121,6 +123,7 @@
 4G#	zu	her-	.	8d	-mel	-gen	.	8e	-mel	-gen	.	4b	zu	her-	.
 .	.	.	.	8d	zu	her-	.	8e	zu	her-	.	.	.	.	.
 =20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
+*D:	*	*	*	*D:	*	*	*	*D:	*	*	*	*D:	*	*	*
 2GnX	nei-	-nie-	.	2d	nei-	-nie-	.	2e	nei-	-nie-	.	(4ee	nei-	-nie	.
 .	.	.	.	.	.	.	.	.	.	.	.	4dd)	.	.	.
 2G	-gen,	-der,	.	2d	-gen,	-der,	.	2e	-gen,	-der,	.	(4cc#	-gen,	der	.
@@ -168,10 +171,12 @@
 4C#	-schem	-schem	.	.	.	.	.	4g	-schem	-schem	.	4ee	-schem	-schem	.
 =29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29
 2D	Land,	Land,	.	2A])	.	.	.	2f#	Land,	Land,	.	2a	Land,	Land,	.
+*b:	*	*	*	*b:	*	*	*	*b:	*	*	*	*b:	*	*	*
 2F#	kühl	wie	f	2A#X	kühl	wie	f	2f#	kühl	wie	f	2dd	kühl	wie	f
 =30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30
 (4F#	weht’s	Träu-	.	(4A#X	weht’s	Träu-	.	(4e	weht’s	Träu-	.	(4cc#	weht’s	Träu-	.
 4G)	.	.	.	4B)	.	.	.	4d)	.	.	.	4b)	.	.	.
+*D:	*	*	*	*D:	*	*	*	*D:	*	*	*	*D:	*	*	*
 4G	wie	-me	.	4B	wie	-me	.	4a	wie	-me	.	4ff#	wie	-me	.
 4G	aus	aus	.	4e	aus	aus	.	4g	aus	aus	.	4ee	aus	aus	.
 =31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31

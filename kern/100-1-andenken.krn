@@ -11,6 +11,7 @@
 *I"Bass	*	*	*	*I"Tenor	*	*	*	*I"Alt	*	*	*	*I"Sopran	*	*	*
 *clefF4	*	*	*	*clefGv2	*	*	*	*clefG2	*	*	*	*clefG2	*	*	*
 *k[f#c#]	*	*	*	*k[f#c#]	*	*	*	*k[f#c#]	*	*	*	*k[f#c#]	*	*	*
+*D:	*	*	*	*D:	*	*	*	*D:	*	*	*	*D:	*	*	*
 *M3/4	*	*	*	*M3/4	*	*	*	*M3/4	*	*	*	*M3/4	*	*	*
 =	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
 4A	1.Die	2.Wohl	p	4A	1.Die	2.Wohl	p	4a	1.Die	2.Wohl	p	4a	1.Die	2.Wohl	p
@@ -34,9 +35,11 @@
 4A	-der,	-ben,	.	4e	-der,	-ben,	.	4a	-der,	-ben,	.	4cc#	-der,	-ben,	.
 4A	und	und	.	4c#	und	und	.	4a	und	und	.	4a	und	und	.
 =5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+*e:	*	*	*	*e:	*	*	*	*e:	*	*	*	*e:	*	*	*
 4.E	wie-	je-	.	4.e	wie-	je-	.	4.gnX	wie-	je-	.	4.ggnX	wie-	je-	.
 8F#	-der	-de	<	8d#X	-der	-de	<	8a	-der	-de	<	8ff#	-der	-de	<
 8G	singt	Blüth’	.	8e	singt	Blüth’	.	8b	singt	Blüth’	.	8ee	singt	Blüth’	.
+*D:	*	*	*	*D:	*	*	*	*D:	*	*	*	*D:	*	*	*
 8G#X	die	an	[[	8e	die	an	[[	8b	die	an	[[	8dd	die	an	[[
 =6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
 8A	Nach-	je-	>	8e	Nach-	je-	>	8e	Nach-	je-	>	8cc#	Nach-	je-	>
@@ -119,6 +122,7 @@
 =20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
 2D	-dacht.	-all.	.	2A	-dacht.	-all.	.	2d	-dacht.	-all.	.	2d	-dacht.	-all.	.
 =||21	=||21	=||21	=||21	=||21	=||21	=||21	=||21	=||21	=||21	=||21	=||21	=||21	=||21	=||21	=||21
+*b:	*	*	*	*b:	*	*	*	*b:	*	*	*	*b:	*	*	*
 8r	.	.	.	8d	3.O	.	p	8f#	3.O	.	p	8f#L	3.O	.	p
 4r	.	.	.	8d	lie-	.	.	8f#	lie-	.	.	8bJ	lie-	.	.
 .	.	.	.	8d	-bes	.	.	8f#	-bes	.	.	8b	-bes	.	.
@@ -146,6 +150,7 @@
 8D	muss	.	.	8B	muss	.	.	8f#	muss	.	.	8b	muss	.	.
 8D	der	.	.	8B	der	.	.	8f#	der	.	.	8b	der	.	.
 =26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26
+*f#:	*	*	*	*f#:	*	*	*	*f#:	*	*	*	*f#:	*	*	*
 4C#	Früh-	.	.	4c#	Früh-	.	.	4f#	Früh-	.	.	4b	Früh-	.	.
 4C#	-ling	.	.	4c#	-ling	.	.	4f#	-ling	.	.	4anX	-ling	.	.
 8BB	auch	.	.	8d	auch	.	.	8e#X	auch	.	.	8g#X	auch	.	.
@@ -171,6 +176,7 @@
 8F#	der	.	.	8A	der	.	.	8c#	der	.	.	8a	der	.	.
 8F#	Früh-	.	.	8A	Früh-	.	.	8c#	Früh-	.	.	8g#X	Früh-	.	.
 8F#	-ling	.	.	8A	-ling	.	.	8c#	-ling	.	.	8a	-ling	.	.
+*A:	*	*	*	*A:	*	*	*	*A:	*	*	*	*A:	*	*	*
 8F#	doch	.	.	8A	doch	.	.	8d	doch	.	.	8dd	doch	.	.
 8F#	für	.	.	8A	für	.	.	8d	für	.	.	8cc#	für	.	.
 =31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31
@@ -192,11 +198,13 @@
 .	.	.	.	8d	der	.	.	8f#	der	.	.	8ff#	der	.	.
 4r	.	.	.	8e	Früh-	.	.	8g	Früh-	.	.	8ee	Früh-	.	.
 .	.	.	.	8f#	-ling	.	.	8a	-ling	.	.	8dd	-ling	.	.
+*b:	*	*	*	*b:	*	*	*	*b:	*	*	*	*b:	*	*	*
 4G	Was	.	>	8e	doch	.	>	8e	doch	.	>	8cc#	doch	.	>
 .	.	.	.	8c#	für	.	.	8e	für	.	.	8b	für	.	.
 =35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35
 2F#	ist	.	.	4.c#	mich,	.	.	4.e	mich,	.	.	4.a#X	mich,	.	.
 .	.	.	.	8A#X	was	.	p	8e	was	.	p	8f#	was	.	p
+*D:	*	*	*	*D:	*	*	*	*D:	*	*	*	*D:	*	*	*
 4B	ein	.	p	8B	ist	.	.	8d	ist	.	.	8g	ist	.	.
 .	.	.	.	8d	ein	.	.	8e	ein	.	.	8g#X	ein	.	.
 =36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36
@@ -213,12 +221,14 @@
 .	.	.	.	8f#	der	.	.	.	.	.	.	.	.	.	.
 4r	.	.	.	8e	Früh-	.	.	4r	.	.	.	.	.	.	.
 .	.	.	.	8d	-ling	.	.	.	.	.	.	.	.	.	.
+*b:	*	*	*	*b:	*	*	*	*b:	*	*	*	*b:	*	*	*
 4G	Es	.	p	8c#	doch	.	.	4e	Es	.	p	.	.	.	.
 .	.	.	.	8B	für	.	.	.	.	.	.	.	.	.	.
 =39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39
 2F#	ist	.	.	4.A#X	mich?	.	.	2e	ist	.	.	4r	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	8r	.	.	.
 .	.	.	.	8A#	Es	.	p	.	.	.	.	8f#	Es	.	p
+*D:	*	*	*	*D:	*	*	*	*D:	*	*	*	*D:	*	*	*
 4BB	kein	.	.	8B	ist	.	.	(8dL	kein	.	.	8g	ist	.	.
 .	.	.	.	8d	kein	.	.	8eJ)	.	.	.	8g#X	kein	.	.
 =40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40
