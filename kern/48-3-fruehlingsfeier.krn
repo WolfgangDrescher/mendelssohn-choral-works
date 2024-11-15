@@ -18,7 +18,7 @@
 8.A	Sü-	mf	8.e	Sü-	sf	8.c#	Sü-	sf	8.cc#	Sü-	sf
 16G#	-sser,	.	16B	-sser,	.	16e	-sser,	.	16b	-sser,	.
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
-4.G#	gold'-	.	4.B	gold'-	.	4.e	gold'-	.	4.b	gold'-	.
+4.G#	gold’-	.	4.B	gold’-	.	4.e	gold’-	.	4.b	gold’-	.
 8G#	-ner	.	8B	-ner	.	8e	-ner	.	8e	-ner	.
 8.F#	Früh-	.	8.B	Früh-	.	8.d#	Früh-	.	8.a	Früh-	.
 16E	-lings-	.	16B	-lings-	.	16e	-lings-	.	16g#	-lings-	.
@@ -58,15 +58,15 @@
 =8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
 4A	-lang,	f	4e	-lang,	f	4a	-lang,	f	4cc#	-lang,	f
 *E:	*	*	*E:	*	*	*E:	*	*	*E:	*	*
-4.A	sollt'	sf	4.d#X	sollt'	sf	4.f#	sollt'	sf	4.dd#X	sollt'	sf
+4.A	sollt’	sf	4.d#X	sollt’	sf	4.f#	sollt’	sf	4.dd#X	sollt’	sf
 8A	es	.	8d#	es	.	8f#	es	.	8cc#	es	.
 =9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
-2G#	heut',	.	4e	heut',	.	4b	heut',	.	4b	heut',	.
-.	.	.	4.d#	sollt'	sf	4.e	sollt'	sf	4.b	sollt'	sf
+2G#	heut’,	.	4e	heut’,	.	4b	heut’,	.	4b	heut’,	.
+.	.	.	4.d#	sollt’	sf	4.e	sollt’	sf	4.b	sollt’	sf
 4A	es	.	.	.	.	.	.	.	.	.	.
 .	.	.	8c#	es	.	8e	es	.	8a	es	.
 =10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
-4E	heut'	.	4B	heut'	.	4e	heut'	.	(4g#	heut'	.
+4E	heut’	.	4B	heut’	.	4e	heut’	.	(4g#	heut’	.
 2AA	nicht	.	2c#	nicht	.	2e	nicht	.	8f#L)	.	.
 .	.	.	.	.	.	.	.	.	8g#J	.	.
 .	.	.	.	.	.	.	.	.	8aL	nicht	.
@@ -77,14 +77,14 @@
 .	.	.	4A)	.	.	.	.	.	4f##X)	.	.
 =12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
 4E	-cken?	.	4G#	-cken?	.	4e	-cken?	.	4g#	-cken?	.
-4.A	sollt'	sf	4.B	sollt'	sf	4.f#	sollt'	sf	4.dd#	sollt'	sf
+4.A	sollt’	sf	4.B	sollt’	sf	4.f#	sollt’	sf	4.dd#	sollt’	sf
 8A	es	.	8d#	es	.	8f#	es	.	8cc#	es	.
 =13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
-4G#	heut',	.	4e	heut',	.	4b	heut',	.	4b	heut',	.
-4.F#	sollt'	>	4.c#	sollt'	>	4.e	sollt'	>	4.b	sollt'	>
+4G#	heut’,	.	4e	heut’,	.	4b	heut’,	.	4b	heut’,	.
+4.F#	sollt’	>	4.c#	sollt’	>	4.e	sollt’	>	4.b	sollt’	>
 8BB	es	]]	8d#	es	]]	8f#	es	]]	8a	es	]]
 =14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
-2.E	heut'	.	(4e	heut'	.	(4e	heut'	.	[2.g#	heut'	.
+2.E	heut’	.	(4e	heut’	.	(4e	heut’	.	[2.g#	heut’	.
 .	.	.	[2B)	.	.	4d#	.	.	.	.	.
 .	.	.	.	.	.	4dn	.	.	.	.	.
 =15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
@@ -144,12 +144,12 @@
 4.A	lasst	sf	4.d#X	lasst	sf	4.f#	lasst	sf	4.dd#X	lasst	sf
 8A	mich	.	8d#	mich	.	8f#	mich	.	8cc#	mich	.
 =25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25
-2G#	ruh'n,	.	4e	ruh'n,	.	4b	ruh'n,	.	4b	ruh'n,	.
+2G#	ruh’n,	.	4e	ruh’n,	.	4b	ruh’n,	.	4b	ruh’n,	.
 .	.	.	4.d#	lasst	sf	[2e	.	.	4.b	lasst	sf
 4A	mich	.	.	.	.	.	.	.	.	.	.
 .	.	.	8c#	mich	.	.	.	.	8a	mich	.
 =26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26
-4E	ruh'n	.	4B	ruh'n	sf	4e]	.	.	(4g#	ruh'n	.
+4E	ruh’n	.	4B	ruh’n	sf	4e]	.	.	(4g#	ruh’n	.
 2AA	und	.	2c#	und	.	2e	und	.	8f#L	.	.
 .	.	.	.	.	.	.	.	.	8g#J)	.	.
 .	.	.	.	.	.	.	.	.	8aL	und	.
@@ -163,13 +163,13 @@
 4.A	lasst	f	4.B	lasst	f	4.d#	lasst	f	4.ff#	lasst	f
 8A	mich	.	8B	mich	.	8f#	mich	.	8dd#	mich	.
 =29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29
-4G#	ruh'n,	.	4B	ruh'n,	.	4b	ruh'n,	.	4ee	ruh'n,	.
+4G#	ruh’n,	.	4B	ruh’n,	.	4b	ruh’n,	.	4ee	ruh’n,	.
 4E	lasst	>	4e	lasst	>	4g#	lasst	>	4.b	lasst	>
 4F#	mich	.	8d#L	mich	.	4f#	mich	.	.	.	.
 .	.	.	8c#J	.	.	.	.	.	8a	mich	.
 =30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30
 *c#:	*	*	*c#:	*	*	*c#:	*	*	*c#:	*	*
-2.G#	ruh'n	.	2.B#X	ruh'n	.	(4f#	ruh'n	.	[2.g#	ruh'n	.
+2.G#	ruh’n	.	2.B#X	ruh’n	.	(4f#	ruh’n	.	[2.g#	ruh’n	.
 .	.	.	.	.	.	4e	.	.	.	.	.
 .	.	.	.	.	.	4d#	.	.	.	.	.
 =31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31
@@ -189,17 +189,17 @@
 4r	.	.	4r	.	.	.	.	.	4r	.	.
 .	.	.	.	.	.	8e	mich	.	.	.	.
 =34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34
-2.r	.	.	4r	.	.	[2.e	ruh'n,	.	2.r	.	.
+2.r	.	.	4r	.	.	[2.e	ruh’n,	.	2.r	.	.
 .	.	.	4.dn	lasst	p	.	.	.	.	.	.
 .	.	.	8d	mich	.	.	.	.	.	.	.
 =35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35
-2.r	.	.	(2.dn	ruh'n	.	2e_	.	.	4r	.	.
+2.r	.	.	(2.dn	ruh’n	.	2e_	.	.	4r	.	.
 .	.	.	.	.	.	.	.	.	4.cc#^	lasst	p
 .	.	.	.	.	.	8e]	.	.	.	.	.
 .	.	.	.	.	.	8e	mich	.	8b	mich	.
 =36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36
-4r	.	.	2c#)	.	.	2e	ruh'n	.	(4a	ruh'n	.
-4.AA	ruh'n	.	.	.	.	.	.	.	4g#)	.	.
+4r	.	.	2c#)	.	.	2e	ruh’n	.	(4a	ruh’n	.
+4.AA	ruh’n	.	.	.	.	.	.	.	4g#)	.	.
 .	.	.	4A	und	.	4c#	und	.	4f#	und	.
 8AA	und	.	.	.	.	.	.	.	.	.	.
 =37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37
@@ -219,5 +219,5 @@
 !!!EED: Wolfgang Drescher
 !!!END: 2024/11/12
 !!!ENC: Wolfgang Drescher
-!!!EEV: 2024/11/13
+!!!EEV: 2024/11/15
 !!!title: @{OPS} @{ONM}. @{OTL}

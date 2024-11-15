@@ -150,7 +150,7 @@
 =16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
 [1d	ruft,	Ross	.	4.f#	ruft,	Ross,	.	4.dd	ruft,	Ross,	.	4.ff#	ruft,	Ross,	.
 .	.	.	.	8f#	Es	o	ff	8a	Es	o	ff	8dd	Es	o	ff
-.	.	.	.	4g	wie-	Lieb',	.	4b	wie-	Lieb',	.	4dd	wie-	Lieb',	.
+.	.	.	.	4g	wie-	Lieb’,	.	4b	wie-	Lieb’,	.	4dd	wie-	Lieb’,	.
 *	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*
 *	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*
@@ -164,7 +164,7 @@
 .	.	.	.	8dJ)	.	.	.	8f#J)	.	.	.	8aJ)	.	.	.
 4D	es	o,	.	8d	-se,	-be,	.	8f#	-se,	-be	.	8a	-se,	-be	.
 .	.	.	.	8f#	Es	so	.	8a	Es	so	.	8dd	Es	so	.
-4D	wie-	Lieb',	.	(8gL	wie-	lass	.	8bL	wie-	lass	.	8ddL	wie-	lass	.
+4D	wie-	Lieb’,	.	(8gL	wie-	lass	.	8bL	wie-	lass	.	8ddL	wie-	lass	.
 .	.	.	.	8dJ)	.	.	.	8gJ	.	.	.	8bJ	.	.	.
 *^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 *	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*
@@ -202,7 +202,7 @@
 =20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
 2.d	Luft!	los!	.	4d	Luft!	los!	.	4a	Luft!	los!	.	1ff#	Luft!	los!	.
 .	.	.	.	4f#	es	o	f	4a	es	o	f	.	.	.	.
-.	.	.	.	4f#	wie-	Lieb'	.	4a	wie-	Lieb'	.	.	.	.	.
+.	.	.	.	4f#	wie-	Lieb’	.	4a	wie-	Lieb’	.	.	.	.	.
 *	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*
 *	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*
 4r	.	.	.	8e	8eL	-hern	o	.	8g	8gL	-hern	o	.	.	.	.	.
@@ -214,7 +214,7 @@
 *b:	*	*	*	*b:	*	*	*	*b:	*	*	*	*b:	*	*	*
 4d	es	o	f	.	.	.	.	.	.	.	.	4ff#	es	o,	f
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
-4d	wie-	Lieb',	.	4d	-se,	be!	.	4f#	-se,	-be!	.	4ff#	wie-	Lieb',	.
+4d	wie-	Lieb’,	.	4d	-se,	be!	.	4f#	-se,	-be!	.	4ff#	wie-	Lieb’,	.
 *^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 *	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*
 8c#	8c#L	-hern	o	.	4r	.	.	.	4r	.	.	.	8ee	8eeL	-hern	o	.
@@ -552,5 +552,5 @@
 !!!EED: Wolfgang Drescher
 !!!END: 2024/10/22
 !!!ENC: Wolfgang Drescher
-!!!EEV: 2024/11/13
+!!!EEV: 2024/11/15
 !!!title: @{OPS} @{ONM}. @{OTL}

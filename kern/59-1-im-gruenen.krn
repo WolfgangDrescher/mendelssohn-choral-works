@@ -16,7 +16,7 @@
 *MM112	*	*	*	*	*MM112	*	*	*	*	*MM112	*	*	*	*	*MM112	*	*	*	*
 =	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
 8A	1.Im	2.Was	3.Wie	mf	8c#	1.Im	2.Was	3.Wie	mf	8e	1.Im	2.Was	3.Wie	mf	8e	1.Im	2.Was	3.Wie	mf
-4A	Grün	such'st	hol-	.	4c#	Grün	such'st	hol-	.	4e	Grün	such'st	hol-	.	8eL	Grün	such'st	hol-	.
+4A	Grün	such’st	hol-	.	4c#	Grün	such’st	hol-	.	4e	Grün	such’st	hol-	.	8eL	Grün	such’st	hol-	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8cc#J	.	.	.	.
 8A	er-	der	-de	.	8c#	er-	der	-de	.	8e	er-	der	-de	.	8a	er-	der	-de	.
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
@@ -41,31 +41,31 @@
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
 4AA	blickt.	-kind?	-lieb,	.	4c#	blickt.	-kind?	-lieb,	.	4a	blickt.	-kind?	-lieb,	.	[4.a	blickt.	-kind?	-lieb,	.
 8A	Im	Komm,	und	p	8c#	Im	Komm,	und	p	8e	Im	Komm,	und	p	.	.	.	.	.
-4A	Grü-	fühl'	nimmt	.	4c#	Grü-	fühl'	nimmt	.	4e	Grü-	fühl'	nimmt	.	4a]	.	.	.	.
-8A	-nen	hier	all'	.	8c#	-nen	hier	all'	.	8e	-nen	hier	all'	.	8r	.	.	.	.
+4A	Grü-	fühl’	nimmt	.	4c#	Grü-	fühl’	nimmt	.	4e	Grü-	fühl’	nimmt	.	4a]	.	.	.	.
+8A	-nen	hier	all’	.	8c#	-nen	hier	all’	.	8e	-nen	hier	all’	.	8r	.	.	.	.
 4A	da	un-	dei-	.	4c#	da	un-	dei-	.	4e	da	un-	dei-	.	4.cc#	Im	Komm,	und	.
-8A	geht	-ter'm	-nen	.	8c#	geht	-ter'm	-nen	.	8e	geht	-ter'm	-nen	.	.	.	.	.	.
+8A	geht	-ter’m	-nen	.	8c#	geht	-ter’m	-nen	.	8e	geht	-ter’m	-nen	.	.	.	.	.	.
 =5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
 *E:	*	*	*	*	*E:	*	*	*	*	*E:	*	*	*	*	*E:	*	*	*	*
-2.A	al-	grü-	Gram	<	2.d#X	al-	grü-	Gram	<	2.f#	al-	grü-	Gram	<	4cc#	Grü-	fühl'	nimmt	.
-.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8b	-nen	hier	all'	.
+2.A	al-	grü-	Gram	<	2.d#X	al-	grü-	Gram	<	2.f#	al-	grü-	Gram	<	4cc#	Grü-	fühl’	nimmt	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8b	-nen	hier	all’	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	4cc#	da	un-	dei-	.
-.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8b	geht	-ter'm	-nen	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8b	geht	-ter’m	-nen	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8qdd#X/	.	.	.	.
 4.A	-les	-nen	mit	.	4.d#	-les	-nen	mit	.	4.f#	-les	-nen	mit	.	4cc#	al-	grü-	Gram	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8b	-les	-nen	mit	.
 =6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
 4G#	gut,	Baum,	sich,	.	4e	gut,	Baum,	sich,	.	4b	gut,	Baum,	sich,	.	2.b	gut,	Baum,	sich,	.
 8G#	im	komm,	und	p	8B	im	komm,	und	p	8e	im	komm,	und	p	.	.	.	.	.
-4G#	Grü-	fühl'	nimmt	.	4B	Grü-	fühl'	nimmt	.	4e	Grü-	fühl'	nimmt	.	.	.	.	.	.
-8G#	-nen	hier	all'	.	8B	-nen	hier	all'	.	8e	-nen	hier	all'	.	.	.	.	.	.
+4G#	Grü-	fühl’	nimmt	.	4B	Grü-	fühl’	nimmt	.	4e	Grü-	fühl’	nimmt	.	.	.	.	.	.
+8G#	-nen	hier	all’	.	8B	-nen	hier	all’	.	8e	-nen	hier	all’	.	.	.	.	.	.
 4G#	da	un-	dei-	.	4B	da	un-	dei-	.	4e	da	un-	dei-	.	4.b	im	komm,	und	.
-8G#	geht	-ter'm	-nen	.	8B	geht	-ter'm	-nen	.	8e	geht	-ter'm	-nen	.	.	.	.	.	.
+8G#	geht	-ter’m	-nen	.	8B	geht	-ter’m	-nen	.	8e	geht	-ter’m	-nen	.	.	.	.	.	.
 =7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
-2.F#	al-	grü-	Gram	<	2.c#	al-	grü-	Gram	<	2.e	al-	grü-	Gram	<	4a	Grü-	fühl'	nimmt	.
-.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8g#	-nen	hier	all'	.
+2.F#	al-	grü-	Gram	<	2.c#	al-	grü-	Gram	<	2.e	al-	grü-	Gram	<	4a	Grü-	fühl’	nimmt	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8g#	-nen	hier	all’	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	4a	da	un-	dei-	.
-.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8a	geht	-ter'm	-nen	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8a	geht	-ter’m	-nen	.
 4.F#	-les	-nen	mit	.	4.A	-les	-nen	mit	.	4.d#X	-les	-nen	mit	.	4cc#	al-	grü-	Gram	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8a	-les	-nen	mit	.
 =8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
@@ -121,5 +121,5 @@
 !!!EED: Wolfgang Drescher
 !!!END: 2024/10/17
 !!!ENC: Wolfgang Drescher
-!!!EEV: 2024/11/13
+!!!EEV: 2024/11/15
 !!!title: @{OPS} @{ONM}. @{OTL}
