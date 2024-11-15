@@ -27,7 +27,7 @@
 | 59  | 5 | [Ruhethal](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/mendelssohn-choral-works/master/kern/59-5-ruhethal.krn)                             |
 | 59  | 6 | [Jagdlied](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/mendelssohn-choral-works/master/kern/59-6-jagdlied.krn)                             |
 | 88  | 1 | [Neujahrslied](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/mendelssohn-choral-works/master/kern/88-1-neujahrslied.krn)                     |
-| 88  | 2 | Der Glückliche                                                                                                                                                                      |
+| 88  | 2 | [Der Glückliche](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/mendelssohn-choral-works/master/kern/88-2-der-glueckliche.krn)                |
 | 88  | 3 | Hirtenlied                                                                                                                                                                          |
 | 88  | 4 | Die Waldvögelein                                                                                                                                                                    |
 | 88  | 5 | Deutschland                                                                                                                                                                         |
