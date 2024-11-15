@@ -31,7 +31,7 @@
 | 88  | 3 | Hirtenlied                                                                                                                                                                          |
 | 88  | 4 | Die Waldvögelein                                                                                                                                                                    |
 | 88  | 5 | [Deutschland](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/mendelssohn-choral-works/master/kern/88-5-deutschland.krn)                       |
-| 88  | 6 | Der wandernde Musikant                                                                                                                                                              |
+| 88  | 6 | [Der wandernde Musikant](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/mendelssohn-choral-works/master/kern/88-6-der-wandernde-musikant.krn) |
 | 100 | 1 | [Andenken](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/mendelssohn-choral-works/master/kern/100-1-andenken.krn)                            |
 | 100 | 2 | [Lob des Frühlings](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/mendelssohn-choral-works/master/kern/100-2-lob-des-fruehlings.krn)         |
 | 100 | 3 | [Frühlingslied](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/mendelssohn-choral-works/master/kern/100-3-fruehlingslied.krn)                 |
