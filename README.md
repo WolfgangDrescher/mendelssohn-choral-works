@@ -3,6 +3,7 @@
 * Op. 41 https://mdz-nbn-resolving.de/details:bsb11150717
 * Op. 48 https://mdz-nbn-resolving.de/details:bsb11328486
 * Op. 59 https://mdz-nbn-resolving.de/details:bsb11379755
+* Op. 88 https://mdz-nbn-resolving.de/details:bsb00026635
 * Op. 100 https://mdz-nbn-resolving.de/details:bsb00026636
 
 | Op. | № | Title                                                                                                                                                                               |
@@ -25,7 +26,7 @@
 | 59  | 4 | [Die Nachtigall](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/mendelssohn-choral-works/master/kern/59-4-die-nachtigall.krn)                 |
 | 59  | 5 | [Ruhethal](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/mendelssohn-choral-works/master/kern/59-5-ruhethal.krn)                             |
 | 59  | 6 | [Jagdlied](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/mendelssohn-choral-works/master/kern/59-6-jagdlied.krn)                             |
-| 88  | 1 | Neujahrslied                                                                                                                                                                        |
+| 88  | 1 | [Neujahrslied](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/mendelssohn-choral-works/master/kern/88-1-neujahrslied.krn)                     |
 | 88  | 2 | Der Glückliche                                                                                                                                                                      |
 | 88  | 3 | Hirtenlied                                                                                                                                                                          |
 | 88  | 4 | Die Waldvögelein                                                                                                                                                                    |
