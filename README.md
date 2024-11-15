@@ -29,7 +29,7 @@
 | 88  | 1 | [Neujahrslied](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/mendelssohn-choral-works/master/kern/88-1-neujahrslied.krn)                     |
 | 88  | 2 | [Der Glückliche](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/mendelssohn-choral-works/master/kern/88-2-der-glueckliche.krn)                |
 | 88  | 3 | Hirtenlied                                                                                                                                                                          |
-| 88  | 4 | Die Waldvögelein                                                                                                                                                                    |
+| 88  | 4 | [Die Waldvögelein](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/mendelssohn-choral-works/master/kern/88-4-die-waldvoegelein.krn)            |
 | 88  | 5 | [Deutschland](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/mendelssohn-choral-works/master/kern/88-5-deutschland.krn)                       |
 | 88  | 6 | [Der wandernde Musikant](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/mendelssohn-choral-works/master/kern/88-6-der-wandernde-musikant.krn) |
 | 100 | 1 | [Andenken](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/mendelssohn-choral-works/master/kern/100-1-andenken.krn)                            |
