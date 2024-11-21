@@ -1,0 +1,195 @@
+!!!COM: Mendelssohn, Felix
+!!!CDT: 1809/02/03-1847/11/04
+!!!OPR: Sechs vierstimmige Lieder
+!!!OTL: Morgengebet
+!!!OPS: Op. 48
+!!!ONM: Nr. 5
+!!!OMD: Adagio
+**kern	**text	**text	**dynam	**kern	**text	**text	**dynam	**kern	**text	**text	**dynam	**kern	**text	**text	**dynam
+*part4	*part4	*part4	*part4	*part3	*part3	*part3	*part3	*part2	*part2	*part2	*part2	*part1	*part1	*part1	*part1
+*staff4	*staff4	*staff4	*	*staff3	*staff3	*staff3	*	*staff2	*staff2	*staff2	*	*staff1	*staff1	*staff1	*
+*I"Bass	*	*	*	*I"Tenor	*	*	*	*I"Alto	*	*	*	*I"Soprano	*	*	*
+*clefF4	*	*	*	*clefGv2	*	*	*	*clefG2	*	*	*	*clefG2	*	*	*
+*k[]	*	*	*	*k[]	*	*	*	*k[]	*	*	*	*k[]	*	*	*
+*C:	*	*	*	*C:	*	*	*	*C:	*	*	*	*C:	*	*	*
+*M4/4	*	*	*	*M4/4	*	*	*	*M4/4	*	*	*	*M4/4	*	*	*
+*met(c)	*	*	*	*met(c)	*	*	*	*met(c)	*	*	*	*met(c)	*	*	*
+*MM66	*	*	*	*MM66	*	*	*	*MM66	*	*	*	*MM66	*	*	*
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+4C	1.O	2.Ich	f	4c	1.O	2.Ich	f	4e	1.O	2.Ich	f	4g	1.O	2.Ich	f
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+4.c	wun-	füh-	.	4.e	wun-	füh-	.	4.g	wun-	füh-	.	4.ee	wun-	füh-	.
+8c	-der-	-le	.	8e	-der-	-le	.	8g	-der-	-le	.	8ee	-der-	-le	.
+4G	-ba-	mich	.	4B	-ba-	mich	.	4f	-ba-	mich	.	4dd	-ba-	mich	.
+4A	-res,	wie	.	4c	-res,	wie	.	4e	-res,	wie	.	4cc	-res,	wie	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+4.D	tie-	neu	.	4.c	tie-	neu	.	4.a	tie-	neu	.	4.ff	tie-	neu	.
+8D	-fes	ge-	.	8c	-fes	ge-	.	8a	-fes	ge-	.	8ff	-fes	ge-	.
+4G	Schwei-	-schaf-	>	4c	Schwei-	-schaf-	>	4g	Schwei-	-schaf-	>	4ee	Schwei-	-schaf-	>
+4G	-gen!	-fen,	]]	4B	-gen!	-fen,	]]	4g	-gen!	-fen,	]]	4dd	-gen!	-fen,	]]
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+4G	wie	wo	p	4G	wie	wo	p	4g	wie	wo	p	4g	wie	wo	p
+8.A	ein-	ist	.	8.A	ein-	ist	.	8.a	ein-	ist	.	8.a	ein-	ist	.
+16F	-sam	die	.	16F	-sam	die	.	16f	-sam	die	.	16f	-sam	die	.
+4F	ist’s	Sor-	.	4F	ist’s	Sor-	.	4f	ist’s	Sor-	.	4f	ist’s	Sor-	.
+4E	noch	-ge	.	4E	noch	-ge	.	4e	noch	-ge	.	4e	noch	-ge	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+*a:	*	*	*	*a:	*	*	*	*a:	*	*	*	*a:	*	*	*
+4D	auf	nun	pp	4A	auf	nun	pp	4e	auf	nun	pp	4f	auf	nun	pp
+4D	der	und	.	8.BL	der	und	.	8.dL	der	und	.	4f	der	und	.
+.	.	.	.	16AJk	.	.	.	16cJk	.	.	.	.	.	.	.
+4.E	Welt!	Noth?	.	4.G#X	Welt!	Noth?	.	4.B	Welt!	Noth?	.	4.e	Welt!	Noth?	.
+8E	Die	Was	.	8G#	Die	Was	.	8d	Die	Was	.	8e	Die	Was	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+4AA	Wal-	ges-	<	8AL	Wal-	ges-	<	8cL	Wal-	ges-	<	4a	Wal-	ges-	<
+.	.	.	.	8BJ	.	.	.	8dJ	.	.	.	.	.	.	.
+4AA	-der	-tern	.	8cL	-der	-tern	.	8eL	-der	-tern	.	4a	-der	-tern	.
+.	.	.	.	8dJ	.	.	.	8fJ	.	.	.	.	.	.	.
+4.E	nur	noch	.	4.c	nur	noch	.	4.e	nur	noch	.	4a	nur	noch	.
+.	.	.	.	.	.	.	.	.	.	.	.	4g#X	sich	mich	.
+8E	sich	mich	.	8B	sich	mich	.	8d	sich	mich	.	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+8AL	lei-	wollt’	.	8AL	lei-	wollt’	.	8cL	lei-	wollt’	.	4cc	lei-	wollt’	.
+8GnJ	.	.	.	8BJ	.	.	.	8eJ	.	.	.	.	.	.	.
+*G:	*	*	*	*G:	*	*	*	*G:	*	*	*	*G:	*	*	*
+8F#XL	-se	er-	.	8cL	-se	er-	.	8aL	-se	er-	.	4cc	-se	er-	.
+8EJ	.	.	.	8eJ	.	.	.	8gJ	.	.	.	.	.	.	.
+4D	nei-	-schlaf-	<	4A	nei-	-schlaf-	<	4f#X	nei-	-schlaf-	<	4cc	nei-	-schlaf-	.
+8D	-gen,	-fen,	.	8d	-gen,	-fen,	.	8f#	-gen,	-fen,	.	8b	-gen,	-fen,	.
+8C	als	dess	[[	8F#X	als	dess	[[	8a	als	dess	[[	8a	als	dess	.
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+*C:	*	*	*	*C:	*	*	*	*C:	*	*	*	*C:	*	*	*
+4.BB	ging’	schäm’	>	4.G	ging’	schäm’	>	4g	ging’	schäm’	>	4.dd	ging’	schäm’	sf
+.	.	.	.	.	.	.	.	4fn	der	ich	.	.	.	.	.
+8BB	der	ich	.	8G	der	ich	.	.	.	.	.	8b	der	ich	>
+4C	Herr	mich	]	4G	Herr	mich	]	4e	Herr	mich	]	4g	Herr	mich	.
+4FF#X 4F#X	durchs	im	p	4c	durchs	im	p	4e-X	durchs	im	p	4a	durchs	im	p
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+4GG 4G	stil-	Mor-	.	4c	stil-	Mor-	.	4d	stil-	Mor-	.	4.g	stil-	Mor-	.
+4GG 4G	-le	-gen-	.	4B	-le	-gen-	.	4f	-le	-gen-	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	8g	-le	-gen-	.
+4.C	Feld,	-roth,	<	4.c	Feld,	-roth,	<	2en	Feld,	-roth,	.	[2g	Feld,	-roth,	.
+8c	als	dess	[[	8e	als	dess	[[	.	.	.	.	.	.	.	.
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+(4c	ging’	schäm’	f	(4e	ging’	schäm’	f	4r	.	.	.	4g]	.	.	.
+8.B)	.	.	.	8.d)	.	.	.	8r	.	.	.	4r	.	.	.
+.	.	.	.	.	.	.	.	8f	als	dess	f	.	.	.	.
+16A	der	ich	.	16c	der	ich	.	.	.	.	.	.	.	.	.
+4.G	Herr,	mich,	.	4.B	Herr,	mich,	.	(4f	ging’	schäm’	.	2r	.	.	.
+.	.	.	.	.	.	.	.	8.e)	.	.	.	.	.	.	.
+8F	als	dess	.	8g	als	dess	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16d	der	ich	.	.	.	.	.
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+(4E	ging’	schäm’	.	(4g	ging’	schäm’	.	4c	Herr,	mich,	.	4r	.	.	.
+8.D)	.	.	>	8.f)	.	.	>	4b-X	als	dess	>	8r	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	8cc	als	dess	f
+16C	der	ich	.	16e	der	ich	.	.	.	.	.	.	.	.	.
+(4F	Herr,	mich	]	4f	Herr,	mich	]	4a	ging’	schäm’	]	(4cc	ging’	schäm’	>
+4F#X	der	.	.	(4c	der	.	.	4e-X	der	ich	.	8.bn)	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	16a	der	ich	]]
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+4.G)	Herr	.	.	4.c)	Herr	.	.	4.d	Herr	mich	.	4.g	Herr	mich	.
+8GG 8G	durchs	im	p	8c	durchs	im	p	8en	durchs	im	p	8g	durchs	im	p
+4GG 4G	stil-	Mor-	.	4c	stil-	Mor-	.	4f	stil-	Mor-	.	4g	stil-	Mor-	.
+4GG 4G	-le	-gen-	.	4B	-le	-gen-	.	4f	-le	-gen-	.	4g	-le	-gen-	.
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+!LO:TX:b:B:t=< >	!	!	!	!LO:TX:b:B:t=< >	!	!	!	!LO:TX:b:B:t=< >	!	!	!	!LO:TX:b:B:t=< >	!	!	!
+2.C;	Feld.	-roth.	.	2.c;	Feld.	-roth.	.	2.e;	Feld.	-roth.	.	2.g;	Feld.	-roth.	.
+=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||
+4C	3.Die	.	f	4G	3.Die	.	f	4e	3.Die	.	f	4g	3.Die	.	f
+=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+4C	Welt	.	.	4.c	Welt	.	.	4.g	Welt	.	.	4.ee	Welt	.	.
+4E	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	8c	mit	.	.	8g	mit	.	.	8ee	mit	.	.
+4G	ih-	.	.	4f	ih-	.	.	4b	ih-	.	.	4dd	ih-	.	.
+4A	-rem	.	.	4e	-rem	.	.	4cc	-rem	.	.	4cc	-rem	.	.
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+4.D 4.d	Gram	.	.	4.f	Gram	.	.	4.a	Gram	.	.	4.ff	Gram	.	.
+8D 8d	und	.	.	8f	und	.	.	8a	und	.	.	8ff	und	.	.
+4.G	Glü-	.	>	4c	Glü-	.	>	4g	Glü-	.	>	4ee	Glü-	.	>
+.	.	.	.	4B	-cke,	.	]]	4g	-cke,	.	]]	4dd	-cke,	.	]]
+8F	-cke,	.	]]	.	.	.	.	.	.	.	.	.	.	.	.
+=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
+4E	will	.	p	4c	will	.	p	4g	will	.	p	4g	will	.	p
+8.F	ich,	.	.	8.c	ich,	.	.	8.c	ich,	.	.	8.a	ich,	.	.
+16D	ein	.	.	16G	ein	.	.	16B	ein	.	.	16f	ein	.	.
+4D	Pil-	.	.	4G	Pil-	.	.	4B	Pil-	.	.	4f	Pil-	.	.
+4C	-ger,	.	.	4G	-ger,	.	.	8cL	-ger,	.	.	4e	-ger,	.	.
+.	.	.	.	.	.	.	.	8eJ	.	.	.	.	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+*d:	*	*	*	*d:	*	*	*	*d:	*	*	*	*d:	*	*	*
+4FF	froh-	.	pp	4A	froh-	.	pp	4e	froh-	.	pp	4f	froh-	.	pp
+8FFL	-be-	.	.	4A	-be-	.	.	4d	-be-	.	.	4f	-be-	.	.
+8GGJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4.AA	-reit	.	.	4.A	-reit	.	.	4.c#X	-reit	.	.	4.e	-reit	.	.
+8G	be-	.	.	8A	be-	.	.	8c#	be-	.	.	8e	be-	.	.
+=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+*a:	*	*	*	*a:	*	*	*	*a:	*	*	*	*a:	*	*	*
+4F	-tre-	.	<	4A	-tre-	.	<	8c#L	-tre-	.	<	4a	-tre-	.	<
+.	.	.	.	.	.	.	.	8dJ	.	.	.	.	.	.	.
+8EL	-ten	.	.	8AL	-ten	.	.	8eL	-ten	.	.	4a	-ten	.	.
+8DJ	.	.	.	8dJ	.	.	.	8fJ	.	.	.	.	.	.	.
+4.E	nur	.	.	4.B	nur	.	.	4.e	nur	.	.	4a	nur	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	4g#X	als	.	.
+8E	als	.	.	8B	als	.	.	8d	als	.	.	.	.	.	.
+=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
+8AL	ei-	.	.	8AL	ei-	.	.	8cnL	ei-	.	.	4cc	ei-	.	.
+8GJ	.	.	.	8BJ	.	.	.	8eJ	.	.	.	.	.	.	.
+*G:	*	*	*	*G:	*	*	*	*G:	*	*	*	*G:	*	*	*
+8F#XL	-ne	.	<	8cL	-ne	.	<	8aL	-ne	.	<	4cc	-ne	.	<
+8EJ	.	.	.	8eJ	.	.	.	8gJ	.	.	.	.	.	.	.
+4D	Brü-	.	.	4A	Brü-	.	.	4f#X	Brü-	.	.	4cc	Brü-	.	.
+8D	-cke	.	.	8d	-cke	.	.	8f#	-cke	.	.	8b	-cke	.	.
+8c	zu	.	.	8d	zu	.	.	8f#	zu	.	.	8a	zu	.	.
+=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
+*C:	*	*	*	*C:	*	*	*	*C:	*	*	*	*C:	*	*	*
+4.B	dir,	.	f	4.d	dir,	.	f	4.g	dir,	.	f	4dd	dir,	.	f
+.	.	.	<	.	.	.	<	.	.	.	<	4ffn	Herr,	.	<
+8B	Herr,	.	.	8d	Herr,	.	.	8g	Herr,	.	.	.	.	.	.
+4c	ü-	.	.	4e	ü-	.	.	4g	ü-	.	.	4.ee	ü-	.	.
+4F	-ber’n	.	.	(8cL	-ber’n	.	.	4a	-ber’n	.	.	.	.	.	.
+.	.	.	.	8dJ)	.	.	.	.	.	.	.	8dd	-ber’n	.	.
+=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
+4G	Strom	.	.	4e	Strom	.	.	4.g	Strom	.	.	4cc	Strom	.	.
+4F	der	.	.	8BL	der	.	.	.	.	.	.	8ddL	der	.	.
+.	.	.	.	8dJ	.	.	.	8g	der	.	.	8bJ	.	.	.
+4.E	Zeit,	.	.	4.c	Zeit,	.	.	[2g	Zeit,	.	.	[2gg	Zeit,	.	sf
+8c	.	.	f	8e	zu	.	f	.	.	.	.	.	.	.	.
+=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
+(4c	dir,	.	sf	(4e	dir,	.	sf	4g]	.	.	.	4.gg]	.	.	.
+8.B)	.	.	.	8.d)	.	.	.	8r	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	8f	zu	.	.	8r	.	.	.
+16A	zu	.	.	16c	zu	.	.	.	.	.	.	.	.	.	.
+4.G	dir,	.	.	4.B	dir,	.	.	(4f	dir,	.	.	2r	.	.	.
+.	.	.	.	.	.	.	.	8.e)	.	.	.	.	.	.	.
+8F	zu	.	.	8g	zu	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16d	zu	.	.	.	.	.	.
+=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
+(4E	dir,	.	.	(4g	dir,	.	.	(4c	dir,	.	f	4r	.	.	.
+8.D)	.	.	>	8.f)	.	.	>	4b-X	.	.	>	8r	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	8cc	zu	.	.
+16C	zu	.	.	16e	zu	.	.	.	.	.	.	.	.	.	.
+4F	dir,	.	.	4f	dir,	.	.	4a)	.	.	.	4cc	dir,	.	sf
+4F#X	Herr,	.	]]	4c	Herr,	.	]]	4e-X	Herr,	.	]]	8.bnL	Herr,	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	16aJk	.	.	.
+=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
+4.G	ü-	.	p	4.c	ü-	.	p	4.d	ü-	.	p	4.g	ü-	.	p
+8GG 8G	-ber’n	.	.	8c	-ber’n	.	.	8en	-ber’n	.	.	8g	-ber’n	.	.
+4GG 4G	Strom	.	.	4c	Strom	.	.	4f	Strom	.	.	4g	Strom	.	.
+4GG 4G	der	.	.	4B	der	.	.	4f	der	.	.	4g	der	.	.
+=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
+!LO:TX:a:B:t=< >	!	!	!	!LO:TX:a:B:t=< >	!	!	!	!LO:TX:a:B:t=< >	!	!	!	!LO:TX:a:B:t=< >	!	!	!
+1C;	Zeit!	.	.	1c;	Zeit!	.	.	1e;	Zeit!	.	.	1g;	Zeit!	.	.
+==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: ([s1,s2,s3,s4])
+!!!RDF**kern: i = editorial accidental
+!!!AGN: Choral
+!!!YOR: https://mdz-nbn-resolving.de/details:bsb11328486
+!!!YOO: München, Bayerische Staatsbibliothek
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb11328486?page=11
+!!!EED: Wolfgang Drescher
+!!!END: 2024/11/21
+!!!ENC: Wolfgang Drescher
+!!!EEV: 2024/11/21
+!!!title: @{OPS} @{ONM}. @{OTL}
