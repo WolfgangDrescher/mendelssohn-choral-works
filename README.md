@@ -12,7 +12,7 @@
 | 41  | 2 | [Entflieh’ mit mir](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/mendelssohn-choral-works/master/kern/41-2-entflieh-mit-mir.krn)            |
 | 41  | 3 | [Es fiel ein Reif](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/mendelssohn-choral-works/master/kern/41-3-es-fiel-ein-reif.krn)             |
 | 41  | 4 | [Auf ihrem Grab](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/mendelssohn-choral-works/master/kern/41-4-auf-ihrem-grab.krn)                 |
-| 41  | 5 | Mailied                                                                                                                                                                             |
+| 41  | 5 | [Mailied](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/mendelssohn-choral-works/master/kern/41-5-mailied.krn)                               |
 | 41  | 6 | Auf dem See                                                                                                                                                                         |
 | 48  | 1 | [Frühlingsahnung](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/mendelssohn-choral-works/master/kern/48-1-fruehlingsahnung.krn)              |
 | 48  | 2 | [Die Primel](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/mendelssohn-choral-works/master/kern/48-2-die-primel.krn)                         |
