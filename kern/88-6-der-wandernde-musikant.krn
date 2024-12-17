@@ -16,7 +16,8 @@
 *M6/8	*	*	*	*	*M6/8	*	*	*	*	*M6/8	*	*	*	*	*M6/8	*	*	*	*
 *MM132	*	*	*	*	*MM132	*	*	*	*	*MM132	*	*	*	*	*MM132	*	*	*	*
 =	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
-8E-	1.Durch	2.Die	3.Vom	f	8G	1.Durch	2.Die	3.Vom	f	8e-	1.Durch	2.Die	3.Vom	f	8b-	1.Durch	2.Die	3.Vom	f
+*	*v:1	*v:2	*v:3	*	*	*v:1	*v:2	*v:3	*	*	*v:1	*v:2	*v:3	*	*	*v:1	*v:2	*v:3	*
+8E-	Durch	Die	Vom	f	8G	Durch	Die	Vom	f	8e-	Durch	Die	Vom	f	8b-	Durch	Die	Vom	f
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 4E-	Feld	Lerch’	Ber-	.	4E-	Feld	Lerch’	Ber-	.	4e-	Feld	Lerch’	Ber-	.	4g	Feld	Lerch’	Ber-	.
 8E-	und	als	-ge	.	8G	und	als	-ge	.	8e-	und	als	-ge	.	8b-	und	als	-ge	.
@@ -204,5 +205,5 @@
 !!!EED: Wolfgang Drescher
 !!!END: 2024/11/15
 !!!ENC: Wolfgang Drescher
-!!!EEV: 2024/11/23
+!!!EEV: 2024/12/17
 !!!title: @{OPS} @{ONM}. @{OTL}

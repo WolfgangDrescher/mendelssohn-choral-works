@@ -18,7 +18,8 @@
 *MM184	*	*	*	*MM184	*	*	*	*MM184	*	*	*	*MM184	*	*	*
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 4r	.	.	.	4r	.	.	.	4r	.	.	.	1r	.	.	.
-4B	1.Durch	2.Bald	pp	4d	1.Durch	2.Bald	pp	4f#	1.Durch	2.Bald	pp	.	.	.	.
+*	*v:1	*v:2	*	*	*v:1	*v:2	*	*	*v:1	*v:2	*	*	*	*	*
+4B	Durch	Bald	pp	4d	Durch	Bald	pp	4f#	Durch	Bald	pp	.	.	.	.
 4B	schwan-	Län-	.	4e	schwan-	Län-	.	4g	schwan-	Län-	.	.	.	.	.
 8B	-ken-	-der	.	8c#	-ken-	-der	.	8e	-ken-	-der	.	.	.	.	.
 8B	-de	und	.	8e	-de	und	.	8g	-de	und	.	.	.	.	.
@@ -38,7 +39,8 @@
 *	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*
 =3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
 4.B	Strahl,	-zug,	.	4.d	Strahl,	-zug,	.	4.f#	Strahl,	zug,	.	4r	.	.	.
-.	.	.	.	.	.	.	.	.	.	.	.	4b	1.Durch	2.Bald	p
+*	*	*	*	*	*	*	*	*	*	*	*	*	*v:1	*v:2	*
+.	.	.	.	.	.	.	.	.	.	.	.	4b	Durch	Bald	p
 8B	Durch	bald	.	8d	Durch	bald,	.	8f#	Durch	bald,	.	.	.	.	.
 4B	schwan-	Län-	.	4e	schwan-	Län-	.	4g	schwan-	Län-	.	8bL	schwan-	Län-	<
 .	.	.	.	.	.	.	.	.	.	.	.	8cc#J	.	.	.
@@ -553,5 +555,5 @@
 !!!EED: Wolfgang Drescher
 !!!END: 2024/10/22
 !!!ENC: Wolfgang Drescher
-!!!EEV: 2024/11/15
+!!!EEV: 2024/12/17
 !!!title: @{OPS} @{ONM}. @{OTL}

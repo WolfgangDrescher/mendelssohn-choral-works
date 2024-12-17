@@ -17,7 +17,8 @@
 *met(c)	*	*	*	*met(c)	*	*	*	*met(c)	*	*	*	*met(c)	*	*	*
 *MM66	*	*	*	*MM66	*	*	*	*MM66	*	*	*	*MM66	*	*	*
 =	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
-4C	1.O	2.Ich	f	4c	1.O	2.Ich	f	4e	1.O	2.Ich	f	4g	1.O	2.Ich	f
+*	*v:1	*v:2	*	*	*v:1	*v:2	*	*	*v:1	*v:2	*	*	*v:1	*v:2	*
+4C	O	Ich	f	4c	O	Ich	f	4e	O	Ich	f	4g	O	Ich	f
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 4.c	wun-	füh-	.	4.e	wun-	füh-	.	4.g	wun-	füh-	.	4.ee	wun-	füh-	.
 8c	-der-	-le	.	8e	-der-	-le	.	8g	-der-	-le	.	8ee	-der-	-le	.
@@ -97,7 +98,8 @@
 !LO:TX:b:B:t=< >	!	!	!	!LO:TX:b:B:t=< >	!	!	!	!LO:TX:b:B:t=< >	!	!	!	!LO:TX:b:B:t=< >	!	!	!
 2.C;	Feld.	-roth.	.	2.c;	Feld.	-roth.	.	2.e;	Feld.	-roth.	.	2.g;	Feld.	-roth.	.
 =||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||
-4C	3.Die	.	f	4G	3.Die	.	f	4e	3.Die	.	f	4g	3.Die	.	f
+*	*v:3	*	*	*	*v:3	*	*	*	*v:3	*	*	*	*v:3	*	*
+4C	Die	.	f	4G	Die	.	f	4e	Die	.	f	4g	Die	.	f
 =13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
 4C	Welt	.	.	4.c	Welt	.	.	4.g	Welt	.	.	4.ee	Welt	.	.
 4E	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
@@ -192,5 +194,5 @@
 !!!EED: Wolfgang Drescher
 !!!END: 2024/11/21
 !!!ENC: Wolfgang Drescher
-!!!EEV: 2024/11/21
+!!!EEV: 2024/12/17
 !!!title: @{OPS} @{ONM}. @{OTL}

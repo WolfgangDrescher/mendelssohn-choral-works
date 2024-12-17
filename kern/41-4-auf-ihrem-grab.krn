@@ -17,7 +17,8 @@
 *met(c)	*	*	*met(c)	*	*	*met(c)	*	*	*met(c)	*	*
 *MM60	*	*	*MM60	*	*	*MM60	*	*	*MM60	*	*
 =	=	=	=	=	=	=	=	=	=	=	=
-4E	1.Auf	.	4G#	1.Auf	.	4B	1.Auf	.	4e	1.Auf	.
+*	*v:1	*	*	*v:1	*	*	*v:1	*	*	*v:1	*
+4E	Auf	.	4G#	Auf	.	4B	Auf	.	4e	Auf	.
 8.E	ih-	.	8.B	ih-	.	8.e	ih-	.	8.g#	ih-	.
 16E	-em	.	16B	-em	.	16e	-em	.	16g#	-em	.
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
@@ -105,7 +106,8 @@
 =12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
 4.EE 4.E;	Schatz.	.	4.G#;	Schatz.	.	4.e;	Schatz.	.	4.e;	Schatz.	.
 =||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||
-8E	2.Die	.	8G#	2.Die	.	8B	2.Die	.	8e	2.Die	.
+*	*v:2	*	*	*v:2	*	*	*v:2	*	*	*v:2	*
+8E	Die	.	8G#	Die	.	8B	Die	.	8e	Die	.
 4E	Win-	.	4G#	Win-	.	4B	Win-	.	8.eL	Win-	.
 .	.	.	.	.	.	.	.	.	16g#J	.	.
 8.EL	-de	.	4B	-de	.	4e	-de	.	8.g#L	-de	.
@@ -210,5 +212,5 @@
 !!!EED: Wolfgang Drescher
 !!!END: 2024/10/29
 !!!ENC: Wolfgang Drescher
-!!!EEV: 2024/11/15
+!!!EEV: 2024/12/17
 !!!title: @{OPS} @{ONM}. @{OTL}

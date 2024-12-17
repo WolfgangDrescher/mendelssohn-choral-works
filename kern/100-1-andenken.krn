@@ -15,7 +15,8 @@
 *D:	*	*	*	*D:	*	*	*	*D:	*	*	*	*D:	*	*	*
 *M3/4	*	*	*	*M3/4	*	*	*	*M3/4	*	*	*	*M3/4	*	*	*
 =	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
-4A	1.Die	2.Wohl	p	4A	1.Die	2.Wohl	p	4a	1.Die	2.Wohl	p	4a	1.Die	2.Wohl	p
+*	*v:1	*v:2	*	*	*v:1	*v:2	*	*	*v:1	*v:2	*	*	*v:1	*v:2	*
+4A	Die	Wohl	p	4A	Die	Wohl	p	4a	Die	Wohl	p	4a	Die	Wohl	p
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 4.D	Bäu-	al-	.	4.A	Bäu-	al-	.	4.f#	Bäu-	al-	.	4.ff#	Bäu-	al-	.
 8D	-me	-les,	.	8F#	-me	-les,	.	8a	-me	-les,	.	8dd	-me	-les,	.
@@ -124,12 +125,14 @@
 2D	-dacht.	-all.	.	2A	-dacht.	-all.	.	2d	-dacht.	-all.	.	2d	-dacht.	-all.	.
 =||21	=||21	=||21	=||21	=||21	=||21	=||21	=||21	=||21	=||21	=||21	=||21	=||21	=||21	=||21	=||21
 *b:	*	*	*	*b:	*	*	*	*b:	*	*	*	*b:	*	*	*
-8r	.	.	.	8d	3.O	.	p	8f#	3.O	.	p	8f#L	3.O	.	p
+*	*	*	*	*	*v:3	*	*	*	*v:3	*	*	*	*v:3	*	*
+8r	.	.	.	8d	O	.	p	8f#	O	.	p	8f#L	O	.	p
 4r	.	.	.	8d	lie-	.	.	8f#	lie-	.	.	8bJ	lie-	.	.
 .	.	.	.	8d	-bes	.	.	8f#	-bes	.	.	8b	-bes	.	.
 =22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
 4r	.	.	.	4.c#	Herz	.	.	4.e	Herz	.	.	(4b	Herz	.	.
 8r	.	.	.	.	.	.	.	.	.	.	.	8a#X)	.	.	.
+*	*v:3	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 8c#	und	.	p <	8e	und	.	<	8f#	und	.	<	8a#	und	.	<
 8B	soll	.	.	8e	soll	.	.	8f#	soll	.	.	8b	soll	.	.
 8A#X	ich	.	.	8e	ich	.	.	8f#	ich	.	.	8cc#	ich	.	.
@@ -252,5 +255,5 @@
 !!!EED: Wolfgang Drescher
 !!!END: 2024/11/14
 !!!ENC: Wolfgang Drescher
-!!!EEV: 2024/11/14
+!!!EEV: 2024/12/17
 !!!title: @{OPS} @{ONM}. @{OTL}

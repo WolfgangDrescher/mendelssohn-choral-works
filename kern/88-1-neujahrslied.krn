@@ -18,7 +18,8 @@
 *met(c)	*	*	*	*	*met(c)	*	*	*	*	*met(c)	*	*	*	*	*met(c)	*	*	*	*
 *MM92	*	*	*	*	*MM92	*	*	*	*	*MM92	*	*	*	*	*MM92	*	*	*	*
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
-4E-	1.Mit	2.Und	3.War’s	p	4G	1.Mit	2.Und	3.War’s	p	4e-	1.Mit	2.Und	3.War’s	p	4b-	1.Mit	2.Und	3.War’s	p
+*	*v:1	*v:2	*v:3	*	*	*v:1	*v:2	*v:3	*	*	*v:1	*v:2	*v:3	*	*	*v:1	*v:2	*v:3	*
+4E-	Mit	Und	War’s	p	4G	Mit	Und	War’s	p	4e-	Mit	Und	War’s	p	4b-	Mit	Und	War’s	p
 4E-	der	wo	nicht	.	4A-	der	wo	nicht	.	4f	der	wo	nicht	.	4b-	der	wo	nicht	.
 4.E-	Freu-	man-	so	.	4.B-	Freu-	man-	so	.	4.g	Freu-	man-	so	.	4.ee-	Freu-	man-	so	.
 8E-	-de	-che	im	.	8B-	-de	-che	im	.	8g	-de	-che	im	.	8b-	-de	-che	im	.
@@ -86,7 +87,8 @@
 4r	.	.	.	.	4r	.	.	.	.	4r	.	.	.	.	4r	.	.	.	.
 =:|!14	=:|!14	=:|!14	=:|!14	=:|!14	=:|!14	=:|!14	=:|!14	=:|!14	=:|!14	=:|!14	=:|!14	=:|!14	=:|!14	=:|!14	=:|!14	=:|!14	=:|!14	=:|!14	=:|!14
 *A-:	*	*	*	*	*A-:	*	*	*	*	*A-:	*	*	*	*	*A-:	*	*	*	*
-4GG	4.Ge-	.	.	pp	4B-	4.Ge-	.	.	pp	4d-X	4.Ge-	.	.	pp	4e-	4.Ge-	.	.	pp
+*	*v:4	*	*	*	*	*v:4	*	*	*	*	*v:4	*	*	*	*	*v:4	*	*	*
+4GG	Ge-	.	.	pp	4B-	Ge-	.	.	pp	4d-X	Ge-	.	.	pp	4e-	Ge-	.	.	pp
 4GG	-be	.	.	.	4B-	-be	.	.	.	4d-	-be	.	.	.	4e-	-be	.	.	.
 4.AA-	denn,	.	.	.	4.A-	denn,	.	.	.	4.c	denn,	.	.	.	4.e-	denn,	.	.	.
 8AA-	der	.	.	.	8A-	der	.	.	.	8c	der	.	.	.	8e-	der	.	.	.
@@ -163,5 +165,5 @@
 !!!EED: Wolfgang Drescher
 !!!END: 2024/11/15
 !!!ENC: Wolfgang Drescher
-!!!EEV: 2024/11/16
+!!!EEV: 2024/12/17
 !!!title: @{OPS} @{ONM}. @{OTL}

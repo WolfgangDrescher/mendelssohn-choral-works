@@ -16,7 +16,8 @@
 *M3/8	*	*	*	*M3/8	*	*	*	*M3/8	*	*	*	*M3/8	*	*	*
 *MM104	*	*	*	*MM104	*	*	*	*MM104	*	*	*	*MM104	*	*	*
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
-8G	1.Ta-	2.Bläu-	mf	8d	1.Ta-	2.Bläu-	mf	8b	1.Ta-	2.Bläu-	mf	8dd	1.Ta-	2.Bläu-	mf
+*	*v:1	*v:2	*	*	*v:1	*v:2	*	*	*v:1	*v:2	*	*	*v:1	*v:2	*
+8G	Ta-	Bläu-	mf	8d	Ta-	Bläu-	mf	8b	Ta-	Bläu-	mf	8dd	Ta-	Bläu-	mf
 .	.	.	.	.	.	.	.	.	.	.	.	8qff#/	.	.	.
 8G	-ge	-li-	.	8c	-ge	-li-	.	8a	-ge	-li-	.	8ee	-ge	-li-	.
 8G	der	-che	.	8c	der	-che	.	8a	der	-che	.	8dd	der	-che	.
@@ -546,5 +547,5 @@
 !!!EED: Wolfgang Drescher
 !!!END: 2024/10/21
 !!!ENC: Wolfgang Drescher
-!!!EEV: 2024/11/15
+!!!EEV: 2024/12/17
 !!!title: @{OPS} @{ONM}. @{OTL}

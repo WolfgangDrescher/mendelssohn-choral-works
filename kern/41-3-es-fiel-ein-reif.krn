@@ -17,7 +17,8 @@
 *met(c)	*	*	*met(c)	*	*	*met(c)	*	*	*met(c)	*	*
 *MM100	*	*	*MM100	*	*	*MM100	*	*	*MM100	*	*
 =	=	=	=	=	=	=	=	=	=	=	=
-4E'	1.Es	p	4E'	1.Es	p	4e'	1.Es	p	4e'	1.Es	p
+*	*v:1	*	*	*v:1	*	*	*v:1	*	*	*v:1	*
+4E'	Es	p	4E'	Es	p	4e'	Es	p	4e'	Es	p
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 4A'	fiel	.	4e'	fiel	.	4e'	fiel	.	4cc'	fiel	.
 4A'	ein	.	4d'	ein	.	4e'	ein	.	4b'	ein	.
@@ -61,7 +62,8 @@
 =8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
 2.AA;	-ret.	.	2.e;	-ret.	.	2.e;	-ret.	.	2.a;	-ret.	.
 =||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||
-4E'	2.Ein	p	4E'	2.Ein	p	4e'	2.Ein	p	4e'	2.Ein	p
+*	*v:2	*	*	*v:2	*	*	*v:2	*	*	*v:2	*
+4E'	Ein	p	4E'	Ein	p	4e'	Ein	p	4e'	Ein	p
 =9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
 4A'	Jüng-	.	4e'	Jüng-	.	4e'	Jüng-	.	4cc'	Jüng-	.
 4A'	-ling	.	4d'	-ling	.	4e'	-ling	.	4b'	-ling	.
@@ -107,7 +109,8 @@
 =16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
 2.AA;	-ter.	.	2.e;	-ter.	.	2.e;	-ter.	.	2.a;	-ter.	.
 =||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||
-4E	3.Sie	p	4E	3.Sie	p	4e	3.Sie	p	4e	3.Sie	p
+*	*v:3	*	*	*v:3	*	*	*v:3	*	*	*v:3	*
+4E	Sie	p	4E	Sie	p	4e	Sie	p	4e	Sie	p
 =17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
 4A'	sind	.	4e'	sind	.	4e'	sind	.	4cc'	sind	.
 4E'	ge-	.	4d'	ge-	.	4e'	ge-	.	4b'	ge-	.
@@ -163,5 +166,5 @@
 !!!EED: Wolfgang Drescher
 !!!END: 2024/10/29
 !!!ENC: Wolfgang Drescher
-!!!EEV: 2024/11/15
+!!!EEV: 2024/12/17
 !!!title: @{OPS} @{ONM}. @{OTL}

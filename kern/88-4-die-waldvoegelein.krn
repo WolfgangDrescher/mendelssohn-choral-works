@@ -17,7 +17,8 @@
 *met(c)	*	*	*	*	*met(c)	*	*	*	*	*met(c)	*	*	*	*	*met(c)	*	*	*	*
 *MM132	*	*	*	*	*MM132	*	*	*	*	*MM132	*	*	*	*	*MM132	*	*	*	*
 =	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
-4r	.	.	.	.	4r	.	.	.	.	4a	1.Kommt,	2.Wohl	3.Wohl	sf f	4cc	1.Kommt,	2.Wohl	3.Wohl	sf f
+*	*	*	*	*	*	*	*	*	*	*	*v:1	*v:2	*v:3	*	*	*v:1	*v:2	*v:3	*
+4r	.	.	.	.	4r	.	.	.	.	4a	Kommt,	Wohl	Wohl	sf f	4cc	Kommt,	Wohl	Wohl	sf f
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 1r	.	.	.	.	1r	.	.	.	.	8f	lasst	dem,	je-	.	8a	lasst	dem,	je-	.
 .	.	.	.	.	.	.	.	.	.	8g	uns	der	-dem,	.	8b-	uns	der	-dem,	.
@@ -33,7 +34,8 @@
 .	.	.	.	.	.	.	.	.	.	8g	-grü-	Volk	leich-	.	8b-	-grü-	Volk	leich-	.
 .	.	.	.	.	.	.	.	.	.	8b-	-nen	der	-te	.	8dd	-nen	der	-te	.
 4r	.	.	.	.	4r	.	.	.	.	(2a	Wald,	Luft,	Schar,	.	(2cc	Wald,	Luft,	Schar,	.
-4A	1.Kommt,	2.Wohl	3.Wohl	sf f	4c	1.Kommt,	2.Wohl	3.Wohl	sf f	.	.	.	.	.	.	.	.	.	.
+*	*v:1	*v:2	*v:3	*	*	*v:1	*v:2	*v:3	*	*	*	*	*	*	*	*	*	*	*
+4A	Kommt,	Wohl	Wohl	sf f	4c	Kommt,	Wohl	Wohl	sf f	.	.	.	.	.	.	.	.	.	.
 =3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
 8F	lasst	dem,	je-	.	8A	lasst	dem,	je-	.	(1f)	.	.	.	.	(1ff)	.	.	.	.
 8G	uns	der	-dem,	.	8B-	uns	der	-dem,	.	.	.	.	.	.	.	.	.	.	.
@@ -195,5 +197,5 @@
 !!!EED: Wolfgang Drescher
 !!!END: 2024/11/15
 !!!ENC: Wolfgang Drescher
-!!!EEV: 2024/11/16
+!!!EEV: 2024/12/17
 !!!title: @{OPS} @{ONM}. @{OTL}

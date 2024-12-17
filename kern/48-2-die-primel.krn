@@ -16,7 +16,8 @@
 *M2/4	*	*	*	*M2/4	*	*	*	*M2/4	*	*	*	*M2/4	*	*	*
 *MM72	*	*	*	*MM72	*	*	*	*MM72	*	*	*	*MM72	*	*	*
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
-8A	1.Lieb	2.Lei-	p	8c#	1.Lieb	2.Lei-	p	8e	1.Lieb	2.Lei-	p	8a	1.Lieb	2.Lei-	p
+*	*v:1	*v:2	*	*	*v:1	*v:2	*	*	*v:1	*v:2	*	*	*v:1	*v:2	*
+8A	Lieb	Lei-	p	8c#	Lieb	Lei-	p	8e	Lieb	Lei-	p	8a	Lieb	Lei-	p
 16B	-li-	-ser	.	16d	-li-	-ser	.	16e	-li-	-ser	.	16g#	-li-	-ser	.
 16A	-che	denn	.	16c#	-che	denn	.	16e	-che	denn	.	16a	-che	denn	.
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
@@ -142,5 +143,5 @@
 !!!EED: Wolfgang Drescher
 !!!END: 2024/11/12
 !!!ENC: Wolfgang Drescher
-!!!EEV: 2024/11/13
+!!!EEV: 2024/12/17
 !!!title: @{OPS} @{ONM}. @{OTL}

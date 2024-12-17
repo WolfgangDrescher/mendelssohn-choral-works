@@ -16,7 +16,8 @@
 *M2/4	*	*	*	*M2/4	*	*	*	*M2/4	*	*	*	*M2/4	*	*	*
 *MM54	*	*	*	*MM54	*	*	*	*MM54	*	*	*	*MM54	*	*	*
 =	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
-8D	1.O	2.Und	p	8D	1.O	2.Und	p	8d	1.O	2.Und	p	8d	1.O	2.Und	p
+*	*v:1	*v:2	*	*	*v:1	*v:2	*	*	*v:1	*v:2	*	*	*v:1	*v:2	*
+8D	O	Und	p	8D	O	Und	p	8d	O	Und	p	8d	O	Und	p
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 8G	Win-	geh’	.	8B-	Win-	geh’	.	8g	Win-	geh’	.	8dd	Win-	geh’	.
 8G	-ter,	ich	.	8B-	-ter,	ich	.	8d	-ter,	ich	.	8b-	-ter,	ich	.
@@ -117,7 +118,8 @@
 =:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!
 *k[f#]	*	*	*	*k[f#]	*	*	*	*k[f#]	*	*	*	*k[f#]	*	*	*
 *G:	*	*	*	*G:	*	*	*	*G:	*	*	*	*G:	*	*	*
-8D	3.O	.	f	8D	3.O	.	f	8d	3.O	.	f	8d	3.O	.	f
+*	*v:3	*	*	*	*v:3	*	*	*	*v:3	*	*	*	*v:3	*	*
+8D	O	.	f	8D	O	.	f	8d	O	.	f	8d	O	.	f
 =15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
 8G	Som-	.	.	8B	Som-	.	.	8g	Som-	.	.	8dd	Som-	.	.
 8G	-mer,	.	.	8B	-mer,	.	.	8d	-mer,	.	.	8b	-mer,	.	.
@@ -306,5 +308,5 @@
 !!!EED: Wolfgang Drescher
 !!!END: 2024/11/15
 !!!ENC: Wolfgang Drescher
-!!!EEV: 2024/11/16
+!!!EEV: 2024/12/17
 !!!title: @{OPS} @{ONM}. @{OTL}

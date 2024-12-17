@@ -17,7 +17,8 @@
 *met(c)	*	*	*	*met(c)	*	*	*	*met(c)	*	*	*	*met(c)	*	*	*
 *MM126	*	*	*	*MM126	*	*	*	*MM126	*	*	*	*MM126	*	*	*
 =	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
-8B-	1.Der	2.Pflückt	f	8B-	1.Der	2.Pflückt	f	8d	1.Der	2.Pflückt	f	8f	1.Der	2.Pflückt	f
+*	*v:1	*v:2	*	*	*v:1	*v:2	*	*	*v:1	*v:2	*	*	*v:1	*v:2	*
+8B-	Der	Pflückt	f	8B-	Der	Pflückt	f	8d	Der	Pflückt	f	8f	Der	Pflückt	f
 4B-	Schnee	ei-	.	(8B-L	Schnee	ei-	.	4d	Schnee	ei-	.	(8fL	Schnee	ei-	.
 .	.	.	.	8dJ)	.	.	.	.	.	.	.	8b-J)	.	.	.
 4B-	zer-	-nen	.	(8dL	zer-	-nen	.	4f	zer-	-nen	.	(8b-L	zer-	-nen	.
@@ -157,7 +158,8 @@
 4.BB-;	-all.	streu’n.	.	4.B-;	-all.	streu’n.	.	4.d;	-all.	streu’n.	.	4.b-;	-all.	streu’n.	.
 =:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!
 *d:	*	*	*	*d:	*	*	*	*d:	*	*	*	*d:	*	*	*
-8B-	3.Wer	.	pp	8d	3.Wer	.	pp	8f	3.Wer	.	pp	8r	.	.	.
+*	*v:3	*	*	*	*v:3	*	*	*	*v:3	*	*	*	*	*	*
+8B-	Wer	.	pp	8d	Wer	.	pp	8f	Wer	.	pp	8r	.	.	.
 4B-	weiss,	.	.	4d	weiss,	.	.	4f	weiss,	.	.	4r	.	.	.
 4B-	wie	.	.	4d	wie	.	.	4f	wie	.	.	4r	.	.	.
 =19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
@@ -168,7 +170,8 @@
 =20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
 [1B-	schallt,	.	<	[1d	schallt,	.	<	(1g	schallt,	.	<	4r	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	8r	.	.	.
-.	.	.	.	.	.	.	.	.	.	.	.	8dd	3.Wer	.	pp
+*	*	*	*	*	*	*	*	*	*	*	*	*	*v:3	*	*
+.	.	.	.	.	.	.	.	.	.	.	.	8dd	Wer	.	pp
 .	.	.	.	.	.	.	.	.	.	.	.	4dd	weiss,	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	4dd	wie	.	.
 =21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
@@ -385,5 +388,5 @@
 !!!EED: Wolfgang Drescher
 !!!END: 2024/11/22
 !!!ENC: Wolfgang Drescher
-!!!EEV: 2024/11/22
+!!!EEV: 2024/12/17
 !!!title: @{OPS} @{ONM}. @{OTL}

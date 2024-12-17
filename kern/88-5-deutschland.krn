@@ -17,7 +17,8 @@
 *met(c)	*	*	*	*met(c)	*	*	*	*met(c)	*	*	*	*met(c)	*	*	*
 *MM96	*	*	*	*MM96	*	*	*	*MM96	*	*	*	*MM96	*	*	*
 =	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
-4E	1.Durch	2.Viel	f	4E	1.Durch	2.Viel	f	4e	1.Durch	2.Viel	f	4e	1.Durch	2.Viel	f
+*	*v:1	*v:2	*	*	*v:1	*v:2	*	*	*v:1	*v:2	*	*	*v:1	*v:2	*
+4E	Durch	Viel	f	4E	Durch	Viel	f	4e	Durch	Viel	f	4e	Durch	Viel	f
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 4.A	tie-	tau-	.	4.A	tie-	tau-	.	4.a	tie-	tau-	.	4.a	tie-	tau-	.
 8A	-fe	-send	.	8A	-fe	-send	.	8a	-fe	-send	.	8a	-fe	-send	.
@@ -218,5 +219,5 @@
 !!!EED: Wolfgang Drescher
 !!!END: 2024/11/15
 !!!ENC: Wolfgang Drescher
-!!!EEV: 2024/11/28
+!!!EEV: 2024/12/17
 !!!title: @{OPS} @{ONM}. @{OTL}

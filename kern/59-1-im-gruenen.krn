@@ -16,7 +16,8 @@
 *M9/8	*	*	*	*	*M9/8	*	*	*	*	*M9/8	*	*	*	*	*M9/8	*	*	*	*
 *MM112	*	*	*	*	*MM112	*	*	*	*	*MM112	*	*	*	*	*MM112	*	*	*	*
 =	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
-8A	1.Im	2.Was	3.Wie	mf	8c#	1.Im	2.Was	3.Wie	mf	8e	1.Im	2.Was	3.Wie	mf	8e	1.Im	2.Was	3.Wie	mf
+*	*v:1	*v:2	*v:3	*	*	*v:1	*v:2	*v:3	*	*	*v:1	*v:2	*v:3	*	*	*v:1	*v:2	*v:3	*
+8A	Im	Was	Wie	mf	8c#	Im	Was	Wie	mf	8e	Im	Was	Wie	mf	8e	Im	Was	Wie	mf
 4A	Grün	such’st	hol-	.	4c#	Grün	such’st	hol-	.	4e	Grün	such’st	hol-	.	8eL	Grün	such’st	hol-	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8cc#J	.	.	.	.
 8A	er-	der	-de	.	8c#	er-	der	-de	.	8e	er-	der	-de	.	8a	er-	der	-de	.
@@ -122,5 +123,5 @@
 !!!EED: Wolfgang Drescher
 !!!END: 2024/10/17
 !!!ENC: Wolfgang Drescher
-!!!EEV: 2024/11/15
+!!!EEV: 2024/12/17
 !!!title: @{OPS} @{ONM}. @{OTL}
