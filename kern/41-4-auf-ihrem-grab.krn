@@ -49,7 +49,7 @@
 .	.	.	4B	-bend-	.	8eL	-bend-	.	8g#L	-bend-	.
 .	.	.	.	.	.	8f#J	.	.	8aJ	.	.
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
-2r	.	.	4e	-win	.	8eL	-win	.	8g#L	-win	.
+2r	.	.	4e	-win-	.	8eL	-win-	.	8g#L	-win-	.
 .	.	.	.	.	.	8aJ	.	.	8cc#J	.	.
 .	.	.	8e	-de,	.	8g#	-de,	.	8b	-de,	.
 .	.	.	8r	.	.	8r	.	.	8r	.	.
@@ -212,5 +212,5 @@
 !!!EED: Wolfgang Drescher
 !!!END: 2024/10/29
 !!!ENC: Wolfgang Drescher
-!!!EEV: 2024/12/17
+!!!EEV: 2025/01/08
 !!!title: @{OPS} @{ONM}. @{OTL}
